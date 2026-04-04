@@ -80,5 +80,11 @@
   "project_export_mail_description": "Revise el correo y envíe la exportación XML del proyecto '{name}'.",
   "project_export_mail_subject": "Exportación del proyecto: {name}",
   "project_export_mail_body": "Hola,\n\nadjunto encontrará la exportación XML del proyecto '{name}'.\n\nSaludos",
-  "project_export_failed": "No se pudo preparar el correo de exportación del proyecto."
+  "project_export_failed": "No se pudo preparar el correo de exportación del proyecto.",
+  "debug_delete_local_projects": "Depuración: borrar proyectos locales",
+  "debug_delete_local_projects_title": "Borrar datos locales del proyecto",
+  "debug_delete_local_projects_description": "Herramienta de desarrollo: esto elimina de forma permanente todos los proyectos y sus datos relacionados de la base de datos local. Todos los datos guardados localmente se perderán.",
+  "debug_delete_local_projects_confirm": "Borrar todo localmente",
+  "debug_delete_local_projects_success": "Se han eliminado todos los datos locales del proyecto.",
+  "debug_delete_local_projects_failed": "No se pudieron eliminar los datos locales del proyecto."
 }

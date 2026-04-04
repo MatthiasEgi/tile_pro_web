@@ -80,5 +80,11 @@
   "project_export_mail_description": "Review the mail and send the XML export for project '{name}'.",
   "project_export_mail_subject": "Project export: {name}",
   "project_export_mail_body": "Hello,\n\nattached is the XML export for project '{name}'.\n\nBest regards",
-  "project_export_failed": "The project export mail could not be prepared."
+  "project_export_failed": "The project export mail could not be prepared.",
+  "debug_delete_local_projects": "Debug: Delete local projects",
+  "debug_delete_local_projects_title": "Delete local project data",
+  "debug_delete_local_projects_description": "Developer tool: This permanently removes all projects and related data from the local database. All locally stored data will be lost.",
+  "debug_delete_local_projects_confirm": "Delete everything locally",
+  "debug_delete_local_projects_success": "All local project data has been deleted.",
+  "debug_delete_local_projects_failed": "Local project data could not be deleted."
 }

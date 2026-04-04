@@ -80,5 +80,11 @@
   "project_export_mail_description": "Prüfe die Mail und versende den XML-Export für das Projekt '{name}'.",
   "project_export_mail_subject": "Projekt-Export: {name}",
   "project_export_mail_body": "Hallo,\n\nim Anhang befindet sich der XML-Export für das Projekt '{name}'.\n\nViele Grüße",
-  "project_export_failed": "Die Projekt-Export-Mail konnte nicht vorbereitet werden."
+  "project_export_failed": "Die Projekt-Export-Mail konnte nicht vorbereitet werden.",
+  "debug_delete_local_projects": "Debug: Lokale Projekte löschen",
+  "debug_delete_local_projects_title": "Lokale Projektdaten löschen",
+  "debug_delete_local_projects_description": "Entwicklertool: Dadurch werden alle Projekte und Unterdaten unwiderruflich aus der lokalen Datenbank gelöscht. Alle lokal gespeicherten Daten gehen verloren.",
+  "debug_delete_local_projects_confirm": "Alles lokal löschen",
+  "debug_delete_local_projects_success": "Alle lokalen Projektdaten wurden gelöscht.",
+  "debug_delete_local_projects_failed": "Die lokalen Projektdaten konnten nicht gelöscht werden."
 }

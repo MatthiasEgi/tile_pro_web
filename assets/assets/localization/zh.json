@@ -80,5 +80,11 @@
   "project_export_mail_description": "请检查邮件并发送项目“{name}”的 XML 导出文件。",
   "project_export_mail_subject": "项目导出：{name}",
   "project_export_mail_body": "您好，\n\n附件中是项目“{name}”的 XML 导出文件。\n\n此致",
-  "project_export_failed": "无法准备项目导出邮件。"
+  "project_export_failed": "无法准备项目导出邮件。",
+  "debug_delete_local_projects": "调试：删除本地项目",
+  "debug_delete_local_projects_title": "删除本地项目数据",
+  "debug_delete_local_projects_description": "开发者工具：这将从本地数据库中永久删除所有项目及其相关数据。所有本地保存的数据都会丢失。",
+  "debug_delete_local_projects_confirm": "删除全部本地数据",
+  "debug_delete_local_projects_success": "所有本地项目数据均已删除。",
+  "debug_delete_local_projects_failed": "无法删除本地项目数据。"
 }

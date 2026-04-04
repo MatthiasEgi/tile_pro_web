@@ -80,5 +80,11 @@
   "project_export_mail_description": "Vérifiez le courriel et envoyez l'export XML du projet '{name}'.",
   "project_export_mail_subject": "Export du projet : {name}",
   "project_export_mail_body": "Bonjour,\n\nvous trouverez en pièce jointe l'export XML du projet '{name}'.\n\nCordialement",
-  "project_export_failed": "Le courriel d'export du projet n'a pas pu être préparé."
+  "project_export_failed": "Le courriel d'export du projet n'a pas pu être préparé.",
+  "debug_delete_local_projects": "Debug : supprimer les projets locaux",
+  "debug_delete_local_projects_title": "Supprimer les données locales du projet",
+  "debug_delete_local_projects_description": "Outil de développement : cela supprime définitivement tous les projets et leurs données associées de la base de données locale. Toutes les données enregistrées localement seront perdues.",
+  "debug_delete_local_projects_confirm": "Tout supprimer localement",
+  "debug_delete_local_projects_success": "Toutes les données locales du projet ont été supprimées.",
+  "debug_delete_local_projects_failed": "Les données locales du projet n'ont pas pu être supprimées."
 }
