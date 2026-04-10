@@ -197,6 +197,8 @@
   "workspace_define_room_layout": "Define Room Layout",
   "room_filter_all_rooms": "All Rooms",
   "room_filter_all_statuses": "All Statuses",
+  "room_filter_all_room_types": "All Room Types",
+  "room_filter_all_room_statuses": "All Rooms",
   "room_status_in_progress": "In Progress",
   "room_status_pending": "Pending",
   "room_status_finished": "Finished",

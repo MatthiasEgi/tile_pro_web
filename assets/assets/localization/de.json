@@ -197,6 +197,8 @@
   "workspace_define_room_layout": "Raumform anlegen",
   "room_filter_all_rooms": "Alle Räume",
   "room_filter_all_statuses": "Alle Status",
+  "room_filter_all_room_types": "Alle Raumtypen",
+  "room_filter_all_room_statuses": "Alle Raumstatus",
   "room_status_in_progress": "In Arbeit",
   "room_status_pending": "Pending",
   "room_status_finished": "Finished",
