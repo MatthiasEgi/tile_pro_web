@@ -11,6 +11,8 @@
   "language_label": "Language",
   "theme_switch_to_dark": "Switch to dark mode",
   "theme_switch_to_light": "Switch to light mode",
+  "theme_switch_to_colorblind_light": "Colorblind mode (light)",
+  "theme_switch_to_colorblind_dark": "Colorblind mode (dark)",
   "create_project_title": "Create Project",
   "create_project_description": "Set the project and customer name so you can start planning right away.",
   "duplicate_project_title": "Duplicate Project",

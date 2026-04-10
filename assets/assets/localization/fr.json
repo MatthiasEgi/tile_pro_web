@@ -11,6 +11,8 @@
   "language_label": "Langue",
   "theme_switch_to_dark": "Passer au mode sombre",
   "theme_switch_to_light": "Passer au mode clair",
+  "theme_switch_to_colorblind_light": "Mode daltonien (clair)",
+  "theme_switch_to_colorblind_dark": "Mode daltonien (sombre)",
   "create_project_title": "Créer un projet",
   "create_project_description": "Définissez le nom du projet et du client pour commencer la planification immédiatement.",
   "duplicate_project_title": "Dupliquer le projet",

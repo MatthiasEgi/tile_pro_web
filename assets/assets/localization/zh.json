@@ -11,6 +11,8 @@
   "language_label": "语言",
   "theme_switch_to_dark": "切换到深色模式",
   "theme_switch_to_light": "切换到浅色模式",
+  "theme_switch_to_colorblind_light": "色盲模式（浅色）",
+  "theme_switch_to_colorblind_dark": "色盲模式（深色）",
   "create_project_title": "创建项目",
   "create_project_description": "设置项目名称和客户名称，以便立即开始规划。",
   "duplicate_project_title": "复制项目",

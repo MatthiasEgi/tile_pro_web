@@ -11,6 +11,8 @@
   "language_label": "Sprache",
   "theme_switch_to_dark": "Dunkles Design aktivieren",
   "theme_switch_to_light": "Helles Design aktivieren",
+  "theme_switch_to_colorblind_light": "Farbenblind-Modus (hell)",
+  "theme_switch_to_colorblind_dark": "Farbenblind-Modus (dunkel)",
   "create_project_title": "Neues Projekt",
   "create_project_description": "Lege Projektname und Kundenname fest, damit du direkt mit der Planung starten kannst.",
   "duplicate_project_title": "Projekt duplizieren",
