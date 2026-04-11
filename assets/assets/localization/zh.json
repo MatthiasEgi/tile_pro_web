@@ -250,6 +250,7 @@
   "room_workspace_surface_floor": "地面",
   "room_workspace_surface_wall": "墙面",
   "room_workspace_surface_ceiling": "天花板",
+  "room_workspace_surface_roof_slope": "斜屋顶",
   "room_workspace_measure_empty_title": "创建第一个表面",
   "room_workspace_measure_empty_description": "添加一个矩形起始表面，直接在测量画布上开始定义房间几何。",
   "room_workspace_measure_auto_dock": "自动吸附",

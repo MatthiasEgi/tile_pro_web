@@ -250,6 +250,7 @@
   "room_workspace_surface_floor": "Sol",
   "room_workspace_surface_wall": "Mur",
   "room_workspace_surface_ceiling": "Plafond",
+  "room_workspace_surface_roof_slope": "Pente de toit",
   "room_workspace_measure_empty_title": "Créez votre première surface",
   "room_workspace_measure_empty_description": "Ajoutez une surface rectangulaire de départ pour commencer à définir la géométrie de la pièce directement sur le canevas de mesure.",
   "room_workspace_measure_auto_dock": "Auto Dock",
