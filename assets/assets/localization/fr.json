@@ -283,7 +283,6 @@
   "room_workspace_measure_knee_wall_height": "Hauteur du mur d'appui",
   "room_workspace_measure_roof_angle": "Angle du toit",
   "room_workspace_measure_roof_arc_mode": "Mode de toit en arc",
-  "room_workspace_measure_roof_arc_mode_curved": "Courbe",
   "room_workspace_measure_roof_arc_mode_straight_support_points": "Droit sur appuis",
   "room_workspace_measure_roof_arc_mode_straight_apex": "Droit sur sommet",
   "room_workspace_measure_roof_angle_minimum": "Angle minimal",

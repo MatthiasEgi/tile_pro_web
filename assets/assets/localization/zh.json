@@ -283,7 +283,6 @@
   "room_workspace_measure_knee_wall_height": "矮墙高度",
   "room_workspace_measure_roof_angle": "屋顶角度",
   "room_workspace_measure_roof_arc_mode": "弧墙屋顶模式",
-  "room_workspace_measure_roof_arc_mode_curved": "曲面",
   "room_workspace_measure_roof_arc_mode_straight_support_points": "穿过支点的直面",
   "room_workspace_measure_roof_arc_mode_straight_apex": "穿过顶点的直面",
   "room_workspace_measure_roof_angle_minimum": "最小角度",
