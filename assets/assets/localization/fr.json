@@ -299,6 +299,7 @@
   "room_workspace_measure_perimeter": "Périmètre",
   "room_workspace_measure_area": "Surface",
   "room_workspace_measure_delete_area": "Supprimer la zone",
+  "room_workspace_measure_geometry_blocked": "Modification impossible. La géométrie entrerait en collision ou dépasserait la limite de la surface.",
   "room_workspace_surface_area_base": "Zone de base",
   "room_workspace_surface_area_layable": "Zone",
   "room_workspace_surface_area_window": "Ouverture de fenêtre",
