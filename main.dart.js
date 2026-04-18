@@ -38000,7 +38000,7 @@ _.w=f
 _.x=g
 _.a=h},
 bf3(a){switch(a.a){case 0:return"workspace_rooms"
-case 1:return"workspace_material"
+case 1:return"workspace_material_catalog"
 case 2:return"workspace_shopping"
 case 3:return"workspace_settings"}},
 bf2(a){switch(a.a){case 0:return B.pD
