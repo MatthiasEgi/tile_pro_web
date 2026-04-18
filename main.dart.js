@@ -120686,7 +120686,7 @@ q=p.ai7(s,k,l)
 i=A.b([A.aix(o,i,t.v),A.aix(o,p.gNV(),t.hH)],t.Ds)
 return A.bc7(A.dR(new A.aWw(p,l,k,new A.wI(r,"navigation_settings",h,q,!1,!0,296,980))),i)},
 aii(a,b,c,d,e){var s,r=this,q=null,p=r.a.d,o=p?161:175,n=a.a,m=o*n
-o=A.fa(0,A.tU(A.dR(new A.aWm(r,a,d,c,e,b,(p?372:444)*n)),B.A,q),m)
+o=A.fa(0,A.tU(A.dR(new A.aWm(r,a,d,c,e,b,e.r*n*1.5)),B.A,q),m)
 s=r.d
 p=p?0.92:1
 return new A.cn(B.af,q,B.ac,B.A,A.b([o,A.cO(0,new A.a0Q(s,r.ga0s(),n*p,q),q,q,0,q,0,m)],t.p),q)},
