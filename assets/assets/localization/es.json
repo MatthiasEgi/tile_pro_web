@@ -292,6 +292,8 @@
   "room_workspace_measure_roof_height_guard_hint": "Así se alcanza la altura de la habitación dentro de la planta:",
   "room_workspace_measure_roof_height_not_reached": "La altura configurada de la habitación no se alcanza dentro de la planta.",
   "room_workspace_measure_delete_roof_slope": "Eliminar techo inclinado",
+  "room_workspace_measure_three_d_minimap_show": "Mostrar minimapa 3D",
+  "room_workspace_measure_three_d_minimap_hide": "Ocultar minimapa 3D",
   "room_workspace_measure_area_edit_mode_enter": "Modo edición",
   "room_workspace_measure_area_edit_mode_exit": "Salir del modo edición",
   "room_workspace_measure_area_add": "Nueva área",

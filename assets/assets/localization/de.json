@@ -294,6 +294,8 @@
   "room_workspace_measure_roof_height_guard_hint": "Damit wird die Raumhöhe innerhalb des Grundrisses erreicht:",
   "room_workspace_measure_roof_height_not_reached": "Die eingestellte Raumhöhe wird innerhalb des Grundrisses nicht erreicht.",
   "room_workspace_measure_delete_roof_slope": "Dachschräge löschen",
+  "room_workspace_measure_three_d_minimap_show": "3D-Minimap einblenden",
+  "room_workspace_measure_three_d_minimap_hide": "3D-Minimap ausblenden",
   "room_workspace_measure_area_edit_mode_enter": "Edit-Mode",
   "room_workspace_measure_area_edit_mode_exit": "Edit-Mode verlassen",
   "room_workspace_measure_area_add": "Neue Area",
