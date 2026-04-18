@@ -36934,7 +36934,7 @@ _.a=a
 _.b=b
 _.c=c
 _.d=d},
-bBT(a,b){var s=null,r=b?new A.AK(a,!0,s):new A.a0S(a,s),q=b?920:296,p=b?1568:980,o=b?380:s
+bBT(a,b){var s=null,r=b?new A.AK(a,!0,s):new A.a0S(a,s),q=b?920:296,p=b?2352:980,o=b?380:s
 return new A.BU(new A.J7(a,b,s),new A.Lz("workspace_rooms_menu_fab",B.a7R,new A.b1v(a),new A.LA(B.wR,"search","search_tags_empty",B.a7S,new A.b1w()),new A.b1x(),new A.b1y(),new A.b1z(),new A.b1A(),new A.b1B(),new A.b1C()),new A.wH("workspace_rooms",s,B.pD,r,!1,!b,q,p),o)},
 b1v:function b1v(a){this.a=a},
 b1r:function b1r(){},
@@ -121845,7 +121845,7 @@ if(a!==B.jy){s=r.c
 s.toString
 A.b_(s,!1,t.c).Fb()}r.Z(new A.aZK(r,a))},
 aAi(){this.Z(new A.aZL(this))},
-a1e(a){if(!this.a.e||a<1568)return!1
+a1e(a){if(!this.a.e||a<2352)return!1
 switch(A.b0().a){case 2:case 0:return!1
 case 1:case 3:case 4:case 5:return!0}}}
 A.aZO.prototype={
