@@ -255,6 +255,7 @@
   "room_workspace_add_t_shape_layout": "添加 T 形平面图",
   "room_workspace_add_ar_measurement": "使用 AR 新建地面",
   "room_workspace_surface_list_empty": "创建后，已添加的表面会在这里以列表形式显示。",
+  "room_workspace_room_tree_view": "Room Tree View",
   "room_workspace_surface_floor": "地面",
   "room_workspace_surface_wall": "墙面",
   "room_workspace_surface_ceiling": "天花板",

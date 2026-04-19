@@ -257,6 +257,7 @@
   "room_workspace_add_t_shape_layout": "Add T-shape floor plan",
   "room_workspace_add_ar_measurement": "New floor with AR",
   "room_workspace_surface_list_empty": "Added surfaces will appear here as a list once they are created.",
+  "room_workspace_room_tree_view": "Room Tree View",
   "room_workspace_surface_floor": "Floor",
   "room_workspace_surface_wall": "Wall",
   "room_workspace_surface_ceiling": "Ceiling",

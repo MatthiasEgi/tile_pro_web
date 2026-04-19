@@ -255,6 +255,7 @@
   "room_workspace_add_t_shape_layout": "Ajouter un plan en T",
   "room_workspace_add_ar_measurement": "Nouveau sol avec RA",
   "room_workspace_surface_list_empty": "Les surfaces ajoutées apparaîtront ici sous forme de liste une fois créées.",
+  "room_workspace_room_tree_view": "Room Tree View",
   "room_workspace_surface_floor": "Sol",
   "room_workspace_surface_wall": "Mur",
   "room_workspace_surface_ceiling": "Plafond",
