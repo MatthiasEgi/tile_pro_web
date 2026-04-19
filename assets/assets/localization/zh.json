@@ -307,7 +307,7 @@
   "room_workspace_measure_perimeter": "周长",
   "room_workspace_measure_area": "面积",
   "room_workspace_measure_delete_area": "删除区域",
-  "room_workspace_measure_geometry_blocked": "无法应用此更改。该几何形状会发生碰撞或超出表面边界。",
+  "room_workspace_measure_geometry_blocked": "无法应用此更改。该表面上已添加的编辑模式元素阻挡了几何变更，或会超出表面边界。",
   "room_workspace_surface_area_base": "基础区域",
   "room_workspace_surface_area_layable": "区域",
   "room_workspace_surface_area_window": "窗洞口",

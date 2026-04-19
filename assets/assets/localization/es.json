@@ -307,7 +307,7 @@
   "room_workspace_measure_perimeter": "Perímetro",
   "room_workspace_measure_area": "Área",
   "room_workspace_measure_delete_area": "Eliminar área",
-  "room_workspace_measure_geometry_blocked": "No se puede aplicar el cambio. La geometría colisionaría o superaría el límite de la superficie.",
+  "room_workspace_measure_geometry_blocked": "No se puede aplicar el cambio. Los elementos ya insertados en el modo de edición de esta superficie bloquean la geometría o se superaría el límite de la superficie.",
   "room_workspace_surface_area_base": "Área base",
   "room_workspace_surface_area_layable": "Área",
   "room_workspace_surface_area_window": "Hueco de ventana",

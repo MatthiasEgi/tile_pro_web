@@ -309,7 +309,7 @@
   "room_workspace_measure_perimeter": "Umfang",
   "room_workspace_measure_area": "Bereich",
   "room_workspace_measure_delete_area": "Bereich löschen",
-  "room_workspace_measure_geometry_blocked": "Änderung nicht möglich. Die Geometrie würde kollidieren oder die Oberflächengrenze überschreiten.",
+  "room_workspace_measure_geometry_blocked": "Änderung nicht möglich. Bereits eingefügte Edit-Mode-Elemente auf dieser Fläche blockieren die Geometrie oder die Oberflächengrenze würde überschritten.",
   "room_workspace_surface_area_base": "Basisbereich",
   "room_workspace_surface_area_layable": "Bereich",
   "room_workspace_surface_area_window": "Fenster-Durchbruch",

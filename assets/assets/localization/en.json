@@ -309,7 +309,7 @@
   "room_workspace_measure_perimeter": "Perimeter",
   "room_workspace_measure_area": "Area",
   "room_workspace_measure_delete_area": "Delete Area",
-  "room_workspace_measure_geometry_blocked": "Change not possible. The geometry would collide or exceed the surface boundary.",
+  "room_workspace_measure_geometry_blocked": "Change not possible. Existing edit mode elements on this surface block the geometry or the surface boundary would be exceeded.",
   "room_workspace_surface_area_base": "Base Area",
   "room_workspace_surface_area_layable": "Area",
   "room_workspace_surface_area_window": "Window Opening",
