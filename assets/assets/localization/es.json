@@ -308,6 +308,7 @@
   "room_workspace_measure_roof_arc_mode": "Modo de techo en arco",
   "room_workspace_measure_roof_arc_mode_straight_support_points": "Recto por apoyos",
   "room_workspace_measure_roof_arc_mode_straight_apex": "Recto por vértice",
+  "room_workspace_measure_roof_include_neighbors": "Incluir superficies vecinas",
   "room_workspace_measure_roof_angle_minimum": "Ángulo mínimo",
   "room_workspace_measure_apply_minimum_angle": "Aplicar ángulo mínimo",
   "room_workspace_measure_roof_angle_diagram_hint": "El ángulo se mide entre la pendiente del tejado y la línea horizontal de referencia.",

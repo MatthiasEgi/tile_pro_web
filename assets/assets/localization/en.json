@@ -310,6 +310,7 @@
   "room_workspace_measure_roof_arc_mode": "Arc Roof Mode",
   "room_workspace_measure_roof_arc_mode_straight_support_points": "Straight Through Supports",
   "room_workspace_measure_roof_arc_mode_straight_apex": "Straight Through Apex",
+  "room_workspace_measure_roof_include_neighbors": "Include Neighbor Surfaces",
   "room_workspace_measure_roof_angle_minimum": "Minimum Angle",
   "room_workspace_measure_apply_minimum_angle": "Apply Minimum Angle",
   "room_workspace_measure_roof_angle_diagram_hint": "The angle is measured between the roof slope and the horizontal reference line.",

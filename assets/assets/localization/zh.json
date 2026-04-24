@@ -308,6 +308,7 @@
   "room_workspace_measure_roof_arc_mode": "弧墙屋顶模式",
   "room_workspace_measure_roof_arc_mode_straight_support_points": "穿过支点的直面",
   "room_workspace_measure_roof_arc_mode_straight_apex": "穿过顶点的直面",
+  "room_workspace_measure_roof_include_neighbors": "包含相邻表面",
   "room_workspace_measure_roof_angle_minimum": "最小角度",
   "room_workspace_measure_apply_minimum_angle": "应用最小角度",
   "room_workspace_measure_roof_angle_diagram_hint": "该角度指屋面坡线与水平参考线之间的夹角。",
