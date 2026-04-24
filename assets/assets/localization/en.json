@@ -276,6 +276,8 @@
   "room_workspace_three_d_walk_right": "Right",
   "room_workspace_three_d_surface_show": "Show Surface",
   "room_workspace_three_d_surface_hide": "Hide Surface",
+  "room_workspace_three_d_auto_transparency_enable": "Turn on auto transparency",
+  "room_workspace_three_d_auto_transparency_disable": "Turn off auto transparency",
   "room_workspace_add_square_layout": "New floor",
   "room_workspace_add_t_shape_layout": "Add T-shape floor plan",
   "room_workspace_add_ar_measurement": "New floor with AR",

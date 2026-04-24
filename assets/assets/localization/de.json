@@ -276,6 +276,8 @@
   "room_workspace_three_d_walk_right": "Rechts",
   "room_workspace_three_d_surface_show": "Oberfläche einblenden",
   "room_workspace_three_d_surface_hide": "Oberfläche ausblenden",
+  "room_workspace_three_d_auto_transparency_enable": "Automatische Transparenz einschalten",
+  "room_workspace_three_d_auto_transparency_disable": "Automatische Transparenz ausschalten",
   "room_workspace_add_square_layout": "Neuen Boden anlegen",
   "room_workspace_add_t_shape_layout": "Grundriss T-Shape",
   "room_workspace_add_ar_measurement": "Neuen Boden mit AR",

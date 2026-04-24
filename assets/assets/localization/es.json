@@ -274,6 +274,8 @@
   "room_workspace_three_d_walk_right": "Derecha",
   "room_workspace_three_d_surface_show": "Mostrar superficie",
   "room_workspace_three_d_surface_hide": "Ocultar superficie",
+  "room_workspace_three_d_auto_transparency_enable": "Activar transparencia automática",
+  "room_workspace_three_d_auto_transparency_disable": "Desactivar transparencia automática",
   "room_workspace_add_square_layout": "Nuevo suelo",
   "room_workspace_add_t_shape_layout": "Añadir plano en T",
   "room_workspace_add_ar_measurement": "Nuevo suelo con RA",
