@@ -122562,7 +122562,7 @@ var $async$OC=A.n(function(c,d){if(c===1)return A.j(d,r)
 for(;;)switch(s){case 0:p=b.length
 if(p===0){q=A.b([],t.CF)
 s=1
-break}q=a.oe("      SELECT areas.*, surfaces.room_id AS __archive_room_id\n      FROM surface_areas areas\n      INNER JOIN room_surfaces surfaces ON surfaces.id = areas.surface_id\n      WHERE surfaces.room_id IN ("+B.b.bn(A.bu(p,"?",!1,t.N),", ")+")\n        AND areas.is_deleted = 0\n      ORDER BY areas.created_at ASC\n      ",b)
+break}q=a.oe("      SELECT areas.*, surfaces.room_id AS __archive_room_id\n      FROM surface_areas areas\n      INNER JOIN room_surfaces surfaces ON surfaces.id = areas.surface_id\n      WHERE surfaces.room_id IN ("+B.b.bn(A.bu(p,"?",!1,t.N),", ")+")\n        AND surfaces.is_deleted = 0\n        AND areas.is_deleted = 0\n      ORDER BY areas.created_at ASC\n      ",b)
 s=1
 break
 case 1:return A.k(q,r)}})
@@ -122573,7 +122573,7 @@ var $async$OA=A.n(function(c,d){if(c===1)return A.j(d,r)
 for(;;)switch(s){case 0:p=b.length
 if(p===0){q=A.b([],t.CF)
 s=1
-break}q=a.oe("      SELECT operations.*, surfaces.room_id AS __archive_room_id\n      FROM surface_area_operations operations\n      INNER JOIN room_surfaces surfaces\n        ON surfaces.id = operations.surface_id\n      WHERE surfaces.room_id IN ("+B.b.bn(A.bu(p,"?",!1,t.N),", ")+")\n        AND operations.is_deleted = 0\n      ORDER BY operations.created_at ASC\n      ",b)
+break}q=a.oe("      SELECT operations.*, surfaces.room_id AS __archive_room_id\n      FROM surface_area_operations operations\n      INNER JOIN room_surfaces surfaces\n        ON surfaces.id = operations.surface_id\n      WHERE surfaces.room_id IN ("+B.b.bn(A.bu(p,"?",!1,t.N),", ")+")\n        AND surfaces.is_deleted = 0\n        AND operations.is_deleted = 0\n      ORDER BY operations.created_at ASC\n      ",b)
 s=1
 break
 case 1:return A.k(q,r)}})
