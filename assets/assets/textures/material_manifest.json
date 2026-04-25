@@ -1,0 +1,626 @@
+{
+  "version": 1,
+  "defaultResolution": "1024x1024",
+  "materials": [
+    {
+      "id": "wallplastering.fine_plaster.warmweiss",
+      "name": "Warmweiss",
+      "category": "wallplastering",
+      "family": "fine_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#E8E4DA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_basecolor_01_warmweiss.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_basecolor_01_warmweiss.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.fine_plaster.greige",
+      "name": "Greige",
+      "category": "wallplastering",
+      "family": "fine_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#C7BBA9",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_basecolor_02_greige.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_basecolor_02_greige.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.fine_plaster.sandbeige",
+      "name": "Sandbeige",
+      "category": "wallplastering",
+      "family": "fine_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#D9C5A4",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_basecolor_03_sandbeige.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_basecolor_03_sandbeige.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.fine_plaster.salbeigruen",
+      "name": "Salbeigruen",
+      "category": "wallplastering",
+      "family": "fine_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#AEB99D",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_basecolor_04_salbeigruen.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_basecolor_04_salbeigruen.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.fine_plaster.eukalyptusgrau",
+      "name": "Eukalyptusgrau",
+      "category": "wallplastering",
+      "family": "fine_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#9DA89E",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_basecolor_05_eukalyptusgrau.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_basecolor_05_eukalyptusgrau.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.fine_plaster.pastell_oliv",
+      "name": "Pastell Oliv",
+      "category": "wallplastering",
+      "family": "fine_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#B7BA83",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_basecolor_06_pastell_oliv.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_basecolor_06_pastell_oliv.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.fine_plaster.staublau",
+      "name": "Staublau",
+      "category": "wallplastering",
+      "family": "fine_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#8496AA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_basecolor_07_staublau.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_basecolor_07_staublau.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.fine_plaster.nebelgrau_blau",
+      "name": "Nebelgrau Blau",
+      "category": "wallplastering",
+      "family": "fine_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#A7B4BA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_basecolor_08_nebelgrau_blau.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_basecolor_08_nebelgrau_blau.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.fine_plaster.puderrosa",
+      "name": "Puderrosa",
+      "category": "wallplastering",
+      "family": "fine_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#D9B4AD",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_basecolor_09_puderrosa.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_basecolor_09_puderrosa.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.fine_plaster.terracotta_pastell",
+      "name": "Terracotta Pastell",
+      "category": "wallplastering",
+      "family": "fine_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#C98A72",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_basecolor_10_terracotta_pastell.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/1024x1024/wandputz_fein_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_basecolor_10_terracotta_pastell.png",
+          "normalOpenGl": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_ao.png",
+          "height": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/fine_plaster/2048x2048/wandputz_fein_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.rough_plaster.warmweiss",
+      "name": "Warmweiss",
+      "category": "wallplastering",
+      "family": "rough_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#E8E4DA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_basecolor_01_warmweiss.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_basecolor_01_warmweiss.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.rough_plaster.greige",
+      "name": "Greige",
+      "category": "wallplastering",
+      "family": "rough_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#C7BBA9",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_basecolor_02_greige.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_basecolor_02_greige.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.rough_plaster.sandbeige",
+      "name": "Sandbeige",
+      "category": "wallplastering",
+      "family": "rough_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#D9C5A4",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_basecolor_03_sandbeige.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_basecolor_03_sandbeige.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.rough_plaster.salbeigruen",
+      "name": "Salbeigruen",
+      "category": "wallplastering",
+      "family": "rough_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#AEB99D",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_basecolor_04_salbeigruen.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_basecolor_04_salbeigruen.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.rough_plaster.eukalyptusgrau",
+      "name": "Eukalyptusgrau",
+      "category": "wallplastering",
+      "family": "rough_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#9DA89E",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_basecolor_05_eukalyptusgrau.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_basecolor_05_eukalyptusgrau.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.rough_plaster.pastell_oliv",
+      "name": "Pastell Oliv",
+      "category": "wallplastering",
+      "family": "rough_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#B7BA83",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_basecolor_06_pastell_oliv.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_basecolor_06_pastell_oliv.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.rough_plaster.staubblau",
+      "name": "Staubblau",
+      "category": "wallplastering",
+      "family": "rough_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#8496AA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_basecolor_07_staubblau.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_basecolor_07_staubblau.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.rough_plaster.nebelgrau_blau",
+      "name": "Nebelgrau Blau",
+      "category": "wallplastering",
+      "family": "rough_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#A7B4BA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_basecolor_08_nebelgrau_blau.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_basecolor_08_nebelgrau_blau.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.rough_plaster.puderrosa",
+      "name": "Puderrosa",
+      "category": "wallplastering",
+      "family": "rough_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#D9B4AD",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_basecolor_09_puderrosa.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_basecolor_09_puderrosa.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.rough_plaster.terracotta_pastell",
+      "name": "Terracotta Pastell",
+      "category": "wallplastering",
+      "family": "rough_plaster",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#C98A72",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_basecolor_10_terracotta_pastell.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/1024x1024/wall_plaster_rough_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_basecolor_10_terracotta_pastell.png",
+          "normalOpenGl": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_ao.png",
+          "height": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/rough_plaster/2048x2048/wall_plaster_rough_2048_height_16bit.png"
+        }
+      }
+    }
+  ]
+}
