@@ -1961,6 +1961,78 @@
           "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height_16bit.png"
         }
       }
+    },
+    {
+      "id": "wallpapers.wallpaper1",
+      "name": "Tapete 1",
+      "nameKey": "room_material_wallpaper_1",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#D9CDBD",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper1.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper1.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper2",
+      "name": "Tapete 2",
+      "nameKey": "room_material_wallpaper_2",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#CFC6B9",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper3",
+      "name": "Tapete 3",
+      "nameKey": "room_material_wallpaper_3",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#BFB8AA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper3.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper3.png"
+        }
+      }
     }
   ]
 }
