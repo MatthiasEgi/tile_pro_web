@@ -983,6 +983,496 @@
       }
     },
     {
+      "id": "wallplastering.stucco_elegant_plaster.warmweiss",
+      "name": "Warmweiss",
+      "nameKey": "room_material_color_warm_white",
+      "category": "wallplastering",
+      "family": "stucco_elegant_plaster",
+      "familyKey": "room_material_wall_plaster_stucco_elegant",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 120.0,
+        "height": 120.0
+      },
+      "previewColor": "#E8E4DA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_01_warmweiss.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_01_warmweiss.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_01_warmweiss.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_01_warmweiss.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_01_warmweiss.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_01_warmweiss.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.stucco_elegant_plaster.greige",
+      "name": "Greige",
+      "nameKey": "room_material_color_greige",
+      "category": "wallplastering",
+      "family": "stucco_elegant_plaster",
+      "familyKey": "room_material_wall_plaster_stucco_elegant",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 120.0,
+        "height": 120.0
+      },
+      "previewColor": "#C7BBA9",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_02_greige.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_02_greige.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_02_greige.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_02_greige.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_02_greige.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_02_greige.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.stucco_elegant_plaster.sandbeige",
+      "name": "Sandbeige",
+      "nameKey": "room_material_color_sand_beige",
+      "category": "wallplastering",
+      "family": "stucco_elegant_plaster",
+      "familyKey": "room_material_wall_plaster_stucco_elegant",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 120.0,
+        "height": 120.0
+      },
+      "previewColor": "#D9C5A4",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_03_sandbeige.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_03_sandbeige.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_03_sandbeige.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_03_sandbeige.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_03_sandbeige.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_03_sandbeige.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.stucco_elegant_plaster.salbeigruen",
+      "name": "Salbeigruen",
+      "nameKey": "room_material_color_sage_green",
+      "category": "wallplastering",
+      "family": "stucco_elegant_plaster",
+      "familyKey": "room_material_wall_plaster_stucco_elegant",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 120.0,
+        "height": 120.0
+      },
+      "previewColor": "#AEB99D",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_04_salbeigruen.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_04_salbeigruen.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_04_salbeigruen.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_04_salbeigruen.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_04_salbeigruen.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_04_salbeigruen.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.stucco_elegant_plaster.eukalyptusgrau",
+      "name": "Eukalyptusgrau",
+      "nameKey": "room_material_color_eucalyptus_gray",
+      "category": "wallplastering",
+      "family": "stucco_elegant_plaster",
+      "familyKey": "room_material_wall_plaster_stucco_elegant",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 120.0,
+        "height": 120.0
+      },
+      "previewColor": "#9DA89E",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_05_eukalyptusgrau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_05_eukalyptusgrau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.stucco_elegant_plaster.pastell_oliv",
+      "name": "Pastell Oliv",
+      "nameKey": "room_material_color_pastel_olive",
+      "category": "wallplastering",
+      "family": "stucco_elegant_plaster",
+      "familyKey": "room_material_wall_plaster_stucco_elegant",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 120.0,
+        "height": 120.0
+      },
+      "previewColor": "#B7BA83",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_06_pastell_oliv.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_06_pastell_oliv.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_06_pastell_oliv.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_06_pastell_oliv.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_06_pastell_oliv.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_06_pastell_oliv.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.stucco_elegant_plaster.staubblau",
+      "name": "Staubblau",
+      "nameKey": "room_material_color_dusty_blue",
+      "category": "wallplastering",
+      "family": "stucco_elegant_plaster",
+      "familyKey": "room_material_wall_plaster_stucco_elegant",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 120.0,
+        "height": 120.0
+      },
+      "previewColor": "#8496AA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_07_staubblau.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_07_staubblau.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_07_staubblau.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_07_staubblau.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_07_staubblau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_07_staubblau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.stucco_elegant_plaster.nebelgrau_blau",
+      "name": "Nebelgrau Blau",
+      "nameKey": "room_material_color_blue_mist_gray",
+      "category": "wallplastering",
+      "family": "stucco_elegant_plaster",
+      "familyKey": "room_material_wall_plaster_stucco_elegant",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 120.0,
+        "height": 120.0
+      },
+      "previewColor": "#A7B4BA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_08_nebelgrau_blau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_08_nebelgrau_blau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.stucco_elegant_plaster.puderrosa",
+      "name": "Puderrosa",
+      "nameKey": "room_material_color_powder_rose",
+      "category": "wallplastering",
+      "family": "stucco_elegant_plaster",
+      "familyKey": "room_material_wall_plaster_stucco_elegant",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 120.0,
+        "height": 120.0
+      },
+      "previewColor": "#D9B4AD",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_09_puderrosa.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_09_puderrosa.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_09_puderrosa.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_09_puderrosa.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_09_puderrosa.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_09_puderrosa.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height_16bit.png"
+        }
+      }
+    },
+    {
+      "id": "wallplastering.stucco_elegant_plaster.terracotta_pastell",
+      "name": "Terracotta Pastell",
+      "nameKey": "room_material_color_terracotta",
+      "category": "wallplastering",
+      "family": "stucco_elegant_plaster",
+      "familyKey": "room_material_wall_plaster_stucco_elegant",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 120.0,
+        "height": 120.0
+      },
+      "previewColor": "#C98A72",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_10_terracotta_pastell.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_10_terracotta_pastell.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_10_terracotta_pastell.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/1024x1024/wall_plaster_stucco_elegant_1024_height_16bit.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_10_terracotta_pastell.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_elegant_plaster/pbr/2048x2048/wall_plaster_stucco_elegant_2048_height_16bit.png"
+        }
+      }
+    },
+    {
       "id": "wallplastering.stucco_swirled_plaster.warmweiss",
       "name": "Warmweiss",
       "nameKey": "room_material_color_warm_white",
@@ -998,36 +1488,36 @@
       "previewColor": "#E8E4DA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_01_warmweiss.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_01_warmweiss.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_01_warmweiss.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_01_warmweiss.png"
         }
       },
       "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_basecolor_01_warmweiss.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_01_warmweiss.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height_16bit.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_basecolor_01_warmweiss.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_01_warmweiss.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height_16bit.png"
         }
       }
     },
@@ -1047,36 +1537,36 @@
       "previewColor": "#C7BBA9",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_02_greige.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_02_greige.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_02_greige.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_02_greige.png"
         }
       },
       "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_basecolor_02_greige.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_02_greige.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height_16bit.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_basecolor_02_greige.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_02_greige.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height_16bit.png"
         }
       }
     },
@@ -1096,36 +1586,36 @@
       "previewColor": "#D9C5A4",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_03_sandbeige.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_03_sandbeige.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_03_sandbeige.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_03_sandbeige.png"
         }
       },
       "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_basecolor_03_sandbeige.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_03_sandbeige.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height_16bit.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_basecolor_03_sandbeige.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_03_sandbeige.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height_16bit.png"
         }
       }
     },
@@ -1145,36 +1635,36 @@
       "previewColor": "#AEB99D",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_04_salbeigruen.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_04_salbeigruen.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_04_salbeigruen.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_04_salbeigruen.png"
         }
       },
       "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_basecolor_04_salbeigruen.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_04_salbeigruen.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height_16bit.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_basecolor_04_salbeigruen.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_04_salbeigruen.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height_16bit.png"
         }
       }
     },
@@ -1194,36 +1684,36 @@
       "previewColor": "#9DA89E",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
         }
       },
       "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_basecolor_05_eukalyptusgrau.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_05_eukalyptusgrau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height_16bit.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_basecolor_05_eukalyptusgrau.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_05_eukalyptusgrau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height_16bit.png"
         }
       }
     },
@@ -1243,36 +1733,36 @@
       "previewColor": "#B7BA83",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_06_pastell_oliv.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_06_pastell_oliv.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_06_pastell_oliv.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_06_pastell_oliv.png"
         }
       },
       "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_basecolor_06_pastell_oliv.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_06_pastell_oliv.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height_16bit.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_basecolor_06_pastell_oliv.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_06_pastell_oliv.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height_16bit.png"
         }
       }
     },
@@ -1292,36 +1782,36 @@
       "previewColor": "#8496AA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_07_staubblau.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_07_staubblau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_07_staubblau.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_07_staubblau.png"
         }
       },
       "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_basecolor_07_staubblau.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_07_staubblau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height_16bit.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_basecolor_07_staubblau.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_07_staubblau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height_16bit.png"
         }
       }
     },
@@ -1341,36 +1831,36 @@
       "previewColor": "#A7B4BA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
         }
       },
       "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_basecolor_08_nebelgrau_blau.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_08_nebelgrau_blau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height_16bit.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_basecolor_08_nebelgrau_blau.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_08_nebelgrau_blau.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height_16bit.png"
         }
       }
     },
@@ -1390,36 +1880,36 @@
       "previewColor": "#D9B4AD",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_09_puderrosa.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_09_puderrosa.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_09_puderrosa.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_09_puderrosa.png"
         }
       },
       "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_basecolor_09_puderrosa.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_09_puderrosa.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height_16bit.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_basecolor_09_puderrosa.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_09_puderrosa.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height_16bit.png"
         }
       }
     },
@@ -1439,36 +1929,36 @@
       "previewColor": "#C98A72",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_10_terracotta_pastell.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_10_terracotta_pastell.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_stucco_swirled_1024_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_10_terracotta_pastell.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_stucco_swirled_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_10_terracotta_pastell.png"
         }
       },
       "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_basecolor_10_terracotta_pastell.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_stucco_swirled_1024_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_10_terracotta_pastell.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/1024x1024/wall_plaster_stucco_swirled_1024_height_16bit.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_basecolor_10_terracotta_pastell.png",
-          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_normal_opengl.png",
-          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_ao.png",
-          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height.png",
-          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_stucco_swirled_2048_height_16bit.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_10_terracotta_pastell.png",
+          "normalOpenGl": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_normal_opengl.png",
+          "roughness": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_ao.png",
+          "height": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height.png",
+          "height16Bit": "assets/textures/wallplastering/stucco_swirled_plaster/pbr/2048x2048/wall_plaster_stucco_swirled_2048_height_16bit.png"
         }
       }
     }
