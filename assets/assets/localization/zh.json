@@ -345,6 +345,8 @@
   "room_workspace_three_d_walk_backward": "后退",
   "room_workspace_three_d_walk_left": "左移",
   "room_workspace_three_d_walk_right": "右移",
+  "room_workspace_three_d_material_renderer_show": "显示材质渲染",
+  "room_workspace_three_d_debug_false_colors_show": "显示伪色",
   "room_workspace_three_d_surface_show": "显示表面",
   "room_workspace_three_d_surface_hide": "隐藏表面",
   "room_workspace_add_square_layout": "新建地面",

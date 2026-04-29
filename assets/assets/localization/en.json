@@ -347,6 +347,8 @@
   "room_workspace_three_d_walk_backward": "Backward",
   "room_workspace_three_d_walk_left": "Left",
   "room_workspace_three_d_walk_right": "Right",
+  "room_workspace_three_d_material_renderer_show": "Show material renderer",
+  "room_workspace_three_d_debug_false_colors_show": "Show false colors",
   "room_workspace_three_d_surface_show": "Show Surface",
   "room_workspace_three_d_surface_hide": "Hide Surface",
   "room_workspace_add_square_layout": "New floor",
