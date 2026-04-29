@@ -347,8 +347,6 @@
   "room_workspace_three_d_walk_right": "右移",
   "room_workspace_three_d_surface_show": "显示表面",
   "room_workspace_three_d_surface_hide": "隐藏表面",
-  "room_workspace_three_d_auto_transparency_enable": "开启自动透明",
-  "room_workspace_three_d_auto_transparency_disable": "关闭自动透明",
   "room_workspace_add_square_layout": "新建地面",
   "room_workspace_add_t_shape_layout": "添加 T 形平面图",
   "room_workspace_add_ar_measurement": "使用 AR 新建地面",
