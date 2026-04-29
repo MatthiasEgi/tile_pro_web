@@ -60457,7 +60457,7 @@ $4$areas$faceRole$pointMapper$surface(a,b,c,d){return this.F(this,A.G("call","$4
 $2$segment$wall(a,b){return this.F(this,A.G("call","$2$segment$wall",0,[a,b],["segment","wall"],0))},
 $5$roofClipClearanceMm$roomHeightMm$segment$wall$wallPoint(a,b,c,d,e){return this.F(this,A.G("call","$5$roofClipClearanceMm$roomHeightMm$segment$wall$wallPoint",0,[a,b,c,d,e],["roofClipClearanceMm","roomHeightMm","segment","wall","wallPoint"],0))},
 $3$localPoint$roomHeightMm$sourcePolylinePoints(a,b,c){return this.F(this,A.G("call","$3$localPoint$roomHeightMm$sourcePolylinePoints",0,[a,b,c],["localPoint","roomHeightMm","sourcePolylinePoints"],0))},
-$9$backPointMapper$generatedSurfaceLookup$localLoopMapper$orientationX$orientationY$pointMapper$resolvedAreas$sourceFloorId$surface(a,b,c,d,e,f,g,h,i){return this.F(this,A.G("call","$9$backPointMapper$generatedSurfaceLookup$localLoopMapper$orientationX$orientationY$pointMapper$resolvedAreas$sourceFloorId$surface",0,[a,b,c,d,e,f,g,h,i],["backPointMapper","generatedSurfaceLookup","localLoopMapper","orientationX","orientationY","pointMapper","resolvedAreas","sourceFloorId","surface"],0))},
+$10$backPointMapper$generatedSurfaceLookup$localLoopMapper$orientationX$orientationY$pointMapper$recessBackStripeSourcePolylinePoints$resolvedAreas$sourceFloorId$surface(a,b,c,d,e,f,g,h,i,j){return this.F(this,A.G("call","$10$backPointMapper$generatedSurfaceLookup$localLoopMapper$orientationX$orientationY$pointMapper$recessBackStripeSourcePolylinePoints$resolvedAreas$sourceFloorId$surface",0,[a,b,c,d,e,f,g,h,i,j],["backPointMapper","generatedSurfaceLookup","localLoopMapper","orientationX","orientationY","pointMapper","recessBackStripeSourcePolylinePoints","resolvedAreas","sourceFloorId","surface"],0))},
 $3$reversed(a,b,c){return this.F(this,A.G("call","$3$reversed",0,[a,b,c],["reversed"],0))},
 $3$kneeWallHeightMm$roofAngleDeg$roomHeightMm(a,b,c){return this.F(this,A.G("call","$3$kneeWallHeightMm$roofAngleDeg$roomHeightMm",0,[a,b,c],["kneeWallHeightMm","roofAngleDeg","roomHeightMm"],0))},
 $2$model$surfaceId(a,b){return this.F(this,A.G("call","$2$model$surfaceId",0,[a,b],["model","surfaceId"],0))},
@@ -125205,7 +125205,7 @@ d2.$flags=3
 B.b.D(a7,d7.zQ(new A.d6(B.bQ,d2,d0,b6,B.eQ,!1,b5,c5,e,d,c6,c9)))
 d=c8?s:c7
 c6=c4?new A.aHL(d7):d8
-B.b.D(a7,d7.aoZ(new A.aHA(c3,b7),h,c6,b5,c5,new A.aHB(d7,b7,b8,b9,c0),c1,d,b8))}d3=n.i(0,e)
+B.b.D(a7,d7.aoZ(new A.aHA(c3,b7),h,c6,b5,c5,new A.aHB(d7,b7,b8,b9,c0),c3,c1,d,b8))}d3=n.i(0,e)
 if(d3!=null&&J.a9(d3.ga7())>=3){if(b7.d.a===B.A){d=d3.y
 d=d>0?d:e0
 d4=d7.aov(a0.i(0,e),d3,d,b7)}else d4=d8
@@ -125273,70 +125273,72 @@ r=A.alp(a,e,f)
 q=e==null?B.a3:o.vz(e)
 p=A.bmO(e,n)
 s=s>2?new A.aHW(o):null
-return o.ZZ(new A.aHX(n,p,q),new A.aHY(n,p,q),c,s,p.a,p.b,new A.aHZ(o,n,r),d,b.a,f)},
-ZZ(d0,d1,d2,d3,d4,d5,d6,d7,d8,d9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7=this,c8=null,c9=Math.sqrt(d4*d4+d5*d5)
-if(c9<=0.001)return B.js
-s=d4/c9
-r=d5/c9
+return o.ZZ(new A.aHX(n,p,q),new A.aHY(n,p,q),c,s,p.a,p.b,new A.aHZ(o,n,r),n,d,b.a,f)},
+ZZ(d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8=this,c9=null,d0=Math.sqrt(d5*d5+d6*d6)
+if(d0<=0.001)return B.js
+s=d5/d0
+r=d6/d0
 q=A.b([],t.J)
-for(p=J.am(d7),o=t.Q,n=t.YF,m=d9.a,l=d9.b,k=d2.a,j=d0==null,i=d3==null,h=t.lP,g=h.h("H.E"),f=-s,e=-r,d=d9.cy;p.n();){c=p.gK()
-b=!0
-if(c.b===m)if(!c.fr)if(c.c===B.br)b=!(J.a9(c.ga7())>=3&&c.as)||c.gAq()<=1
-if(b)continue
-b=c.Q
-a=B.d.T(b>0?b:120,1,1e4)
-a0=c7.vz(c)
-a1=i?c8:d3.$1(a0)
-if(a1==null)a1=a0
-b=J.a8(a1)
-if(b.gq(a1)<3)continue
-a2=b.dz(a1,d6,o)
-a2=A.r(a2,a2.$ti.h("H.E"))
-a2.$flags=1
-a3=a2
-a4=j?c8:d0.$2(a1,a)
-a5=new A.aI_(d1,a,a4==null?-1:a4,s,r)
-a2=A.b([],n)
-for(a6=0;a6<a3.length;++a6)a2.push(a5.$2(b.i(a1,a6),a3[a6]))
-a7=c7.aDc(a2)
-a8=a7==null
-if(a8){a9=A.r(new A.b0(a2,h),g)
-a9.$flags=1
-b0=a9}else b0=a7
-c=c.a
-b1=k.i(0,B.c.L(c))
-if(!A.FL(b0)){a9=b1==null
-b2=a9?c8:b1.a
-if(b2==null)b2=m
-a9=a9?c8:b1.b
-if(a9==null)a9=l
-b3=a8?B.ec:c7.aDd(b0)
-b4=A.bz(b0,!1,o)
-b4.$flags=3
-b5=new A.d6(B.bQ,b4,B.dq,b3,B.eR,a8,f,e,c8,b2,a9,d8)
-B.b.D(q,a8?c7.aGM(new A.aI0(a5,d6),b5,a1,d):c7.zQ(b5))}for(b6=0,a6=0;a8=a3.length,a6<a8;a6=b7){b7=a6+1
-b8=b7%a8
-b9=A.b([a3[a6],a3[b8],a2[b8],a2[a6]],n)
-if(A.FL(b9))continue
-c0=a3[a6]
-c1=a3[b8]
-c2=c1.a-c0.a
-c3=c1.b-c0.b
-c4=Math.sqrt(c2*c2+c3*c3)
-a8=b.i(a1,a6)
-c5=d2.ahY(c,b.i(a1,b8),b6,a8);++b6
-a8=c4<=0.001
-a9=a8?s:c2/c4
-a8=a8?r:c3/c4
-b2=c5==null
-b3=b2?c8:c5.a
+for(p=J.am(d9),o=t.Q,n=t.YF,m=e1.a,l=e1.b,k=d3.a,j=d1==null,i=d4==null,h=t.lP,g=h.h("H.E"),f=-s,e=-r,d=e1.cy,c=d8.length!==0;p.n();){b=p.gK()
+a=!0
+if(b.b===m)if(!b.fr)if(b.c===B.br)a=!(J.a9(b.ga7())>=3&&b.as)||b.gAq()<=1
+if(a)continue
+a=b.Q
+a0=B.d.T(a>0?a:120,1,1e4)
+a1=c8.vz(b)
+a2=i?c9:d4.$1(a1)
+if(a2==null)a2=a1
+a=J.a8(a2)
+if(a.gq(a2)<3)continue
+a3=a.dz(a2,d7,o)
+a3=A.r(a3,a3.$ti.h("H.E"))
+a3.$flags=1
+a4=a3
+a5=j?c9:d1.$2(a2,a0)
+a6=new A.aI_(d2,a0,a5==null?-1:a5,s,r)
+a3=A.b([],n)
+for(a7=0;a7<a4.length;++a7)a3.push(a6.$2(a.i(a2,a7),a4[a7]))
+a8=c8.aDc(a3)
+a9=a8==null
+if(a9){b0=A.r(new A.b0(a3,h),g)
+b0.$flags=1
+b1=b0}else b1=a8
+b=b.a
+b2=k.i(0,B.c.L(b))
+if(!A.FL(b1)){b0=b2==null
+b3=b0?c9:b2.a
 if(b3==null)b3=m
-c6=b2?c8:c5.b
-if(c6==null)c6=l
-b4=A.bz(b9,!1,o)
-b4.$flags=3
-q.push(new A.d6(B.bQ,b4,B.dq,B.ec,B.eR,!b2,a9,a8,c8,b3,c6,d8))}}return A.I(q,t.Rp)},
-aoZ(a,b,c,d,e,f,g,h,i){return this.ZZ(null,a,b,c,d,e,f,g,h,i)},
+b0=b0?c9:b2.b
+if(b0==null)b0=l
+b4=a9?B.ec:c8.aDd(b1)
+b5=A.bz(b1,!1,o)
+b5.$flags=3
+b6=new A.d6(B.bQ,b5,B.dq,b4,B.eR,a9,f,e,c9,b3,b0,e0)
+if(a9){a9=c?d8:d
+a9=c8.aGM(new A.aI0(a6,d7),b6,a2,a9)}else a9=c8.zQ(b6)
+B.b.D(q,a9)}for(b7=0,a7=0;a9=a4.length,a7<a9;a7=b8){b8=a7+1
+b9=b8%a9
+c0=A.b([a4[a7],a4[b9],a3[b9],a3[a7]],n)
+if(A.FL(c0))continue
+c1=a4[a7]
+c2=a4[b9]
+c3=c2.a-c1.a
+c4=c2.b-c1.b
+c5=Math.sqrt(c3*c3+c4*c4)
+a9=a.i(a2,a7)
+c6=d3.ahY(b,a.i(a2,b9),b7,a9);++b7
+a9=c5<=0.001
+b0=a9?s:c3/c5
+a9=a9?r:c4/c5
+b3=c6==null
+b4=b3?c9:c6.a
+if(b4==null)b4=m
+c7=b3?c9:c6.b
+if(c7==null)c7=l
+b5=A.bz(c0,!1,o)
+b5.$flags=3
+q.push(new A.d6(B.bQ,b5,B.dq,B.ec,B.eR,!b3,b0,a9,c9,b4,c7,e0))}}return A.I(q,t.Rp)},
+aoZ(a,b,c,d,e,f,g,h,i,j){return this.ZZ(null,a,b,c,d,e,f,g,h,i,j)},
 aDd(a){var s,r=a.length
 if(r<6||(r&1)===1)return B.ec
 r=A.cT(a,0,A.lQ(r/2|0,"count",t.S),A.D(a).c)
