@@ -342,6 +342,7 @@
   "room_three_d_gpu_scene_empty": "Lege im Aufmaß zuerst Boden oder Flächen an, um die GPU-Szene vorzubereiten.",
   "room_three_d_gpu_native_spike_loading": "Flutter GPU wird geprüft",
   "room_three_d_gpu_native_spike_ready": "Flutter-GPU-Clear-Pass bereit",
+  "room_three_d_gpu_native_spike_buffers_ready": "Flutter-GPU-Mesh-Buffer bereit",
   "room_three_d_gpu_native_spike_unavailable": "Flutter GPU nicht verfügbar",
   "room_three_d_gpu_native_spike_enable_hint": "Native App mit Flutter GPU starten.",
   "room_three_d_gpu_native_spike_platform_hint": "Diese Plattform nutzt den WebGL-Pfad.",
