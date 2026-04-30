@@ -341,7 +341,7 @@
   "room_three_d_gpu_native_spike_loading": "正在检查 Flutter GPU",
   "room_three_d_gpu_native_spike_ready": "Flutter GPU 清除通道已就绪",
   "room_three_d_gpu_native_spike_unavailable": "Flutter GPU 不可用",
-  "room_three_d_gpu_native_spike_enable_hint": "请使用 zsh run_native_gpu_local.sh 启动。",
+  "room_three_d_gpu_native_spike_enable_hint": "请使用 Flutter GPU 启动原生应用。",
   "room_three_d_gpu_native_spike_platform_hint": "此平台使用 WebGL 路径。",
   "room_three_d_gpu_native_spike_failed_hint": "清除通道失败；请检查调试日志。",
   "room_three_d_gpu_surface_faces": "表面",

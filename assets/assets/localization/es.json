@@ -341,7 +341,7 @@
   "room_three_d_gpu_native_spike_loading": "Comprobando Flutter GPU",
   "room_three_d_gpu_native_spike_ready": "Clear pass de Flutter GPU listo",
   "room_three_d_gpu_native_spike_unavailable": "Flutter GPU no disponible",
-  "room_three_d_gpu_native_spike_enable_hint": "Inicia con zsh run_native_gpu_local.sh.",
+  "room_three_d_gpu_native_spike_enable_hint": "Inicia la app nativa con Flutter GPU.",
   "room_three_d_gpu_native_spike_platform_hint": "Esta plataforma usa la ruta WebGL.",
   "room_three_d_gpu_native_spike_failed_hint": "Falló el clear pass; revisa el registro de depuración.",
   "room_three_d_gpu_surface_faces": "superficies",
