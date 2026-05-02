@@ -18,18 +18,12 @@
       "previewColor": "#E8E4DA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_01_warmweiss.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_01_warmweiss.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_01_warmweiss.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_01_warmweiss.png"
         }
       },
       "pbrMaps": {
@@ -67,18 +61,12 @@
       "previewColor": "#C7BBA9",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_02_greige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_02_greige.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_02_greige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_02_greige.png"
         }
       },
       "pbrMaps": {
@@ -116,18 +104,12 @@
       "previewColor": "#D9C5A4",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_03_sandbeige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_03_sandbeige.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_03_sandbeige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_03_sandbeige.png"
         }
       },
       "pbrMaps": {
@@ -165,18 +147,12 @@
       "previewColor": "#AEB99D",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_04_salbeigruen.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_04_salbeigruen.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_04_salbeigruen.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_04_salbeigruen.png"
         }
       },
       "pbrMaps": {
@@ -214,18 +190,12 @@
       "previewColor": "#9DA89E",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
         }
       },
       "pbrMaps": {
@@ -263,18 +233,12 @@
       "previewColor": "#B7BA83",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_06_pastell_oliv.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_06_pastell_oliv.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_06_pastell_oliv.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_06_pastell_oliv.png"
         }
       },
       "pbrMaps": {
@@ -312,18 +276,12 @@
       "previewColor": "#8496AA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_07_staubblau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_07_staubblau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_07_staubblau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_07_staubblau.png"
         }
       },
       "pbrMaps": {
@@ -361,18 +319,12 @@
       "previewColor": "#A7B4BA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
         }
       },
       "pbrMaps": {
@@ -410,18 +362,12 @@
       "previewColor": "#D9B4AD",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_09_puderrosa.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_09_puderrosa.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_09_puderrosa.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_09_puderrosa.png"
         }
       },
       "pbrMaps": {
@@ -459,18 +405,12 @@
       "previewColor": "#C98A72",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_10_terracotta_pastell.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_10_terracotta_pastell.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/1024x1024/wall_plaster_fine_1024_basecolor_heightbaked_10_terracotta_pastell.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/2048x2048/wall_plaster_fine_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/fine_plaster/baked/wall_plaster_fine_1024_basecolor_heightbaked_10_terracotta_pastell.png"
         }
       },
       "pbrMaps": {
@@ -508,18 +448,12 @@
       "previewColor": "#E8E4DA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_01_warmweiss.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_01_warmweiss.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_01_warmweiss.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_01_warmweiss.png"
         }
       },
       "pbrMaps": {
@@ -557,18 +491,12 @@
       "previewColor": "#C7BBA9",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_02_greige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_02_greige.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_02_greige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_02_greige.png"
         }
       },
       "pbrMaps": {
@@ -606,18 +534,12 @@
       "previewColor": "#D9C5A4",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_03_sandbeige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_03_sandbeige.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_03_sandbeige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_03_sandbeige.png"
         }
       },
       "pbrMaps": {
@@ -655,18 +577,12 @@
       "previewColor": "#AEB99D",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_04_salbeigruen.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_04_salbeigruen.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_04_salbeigruen.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_04_salbeigruen.png"
         }
       },
       "pbrMaps": {
@@ -704,18 +620,12 @@
       "previewColor": "#9DA89E",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
         }
       },
       "pbrMaps": {
@@ -753,18 +663,12 @@
       "previewColor": "#B7BA83",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_06_pastell_oliv.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_06_pastell_oliv.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_06_pastell_oliv.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_06_pastell_oliv.png"
         }
       },
       "pbrMaps": {
@@ -802,18 +706,12 @@
       "previewColor": "#8496AA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_07_staubblau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_07_staubblau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_07_staubblau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_07_staubblau.png"
         }
       },
       "pbrMaps": {
@@ -851,18 +749,12 @@
       "previewColor": "#A7B4BA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
         }
       },
       "pbrMaps": {
@@ -900,18 +792,12 @@
       "previewColor": "#D9B4AD",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_09_puderrosa.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_09_puderrosa.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_09_puderrosa.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_09_puderrosa.png"
         }
       },
       "pbrMaps": {
@@ -949,18 +835,12 @@
       "previewColor": "#C98A72",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_10_terracotta_pastell.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_10_terracotta_pastell.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/1024x1024/wall_plaster_rough_1024_basecolor_heightbaked_10_terracotta_pastell.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/2048x2048/wall_plaster_rough_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/rough_plaster/baked/wall_plaster_rough_1024_basecolor_heightbaked_10_terracotta_pastell.png"
         }
       },
       "pbrMaps": {
@@ -998,18 +878,12 @@
       "previewColor": "#E8E4DA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_01_warmweiss.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_01_warmweiss.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_01_warmweiss.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_01_warmweiss.png"
         }
       },
       "pbrMaps": {
@@ -1047,18 +921,12 @@
       "previewColor": "#C7BBA9",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_02_greige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_02_greige.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_02_greige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_02_greige.png"
         }
       },
       "pbrMaps": {
@@ -1096,18 +964,12 @@
       "previewColor": "#D9C5A4",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_03_sandbeige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_03_sandbeige.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_03_sandbeige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_03_sandbeige.png"
         }
       },
       "pbrMaps": {
@@ -1145,18 +1007,12 @@
       "previewColor": "#AEB99D",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_04_salbeigruen.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_04_salbeigruen.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_04_salbeigruen.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_04_salbeigruen.png"
         }
       },
       "pbrMaps": {
@@ -1194,18 +1050,12 @@
       "previewColor": "#9DA89E",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
         }
       },
       "pbrMaps": {
@@ -1243,18 +1093,12 @@
       "previewColor": "#B7BA83",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_06_pastell_oliv.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_06_pastell_oliv.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_06_pastell_oliv.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_06_pastell_oliv.png"
         }
       },
       "pbrMaps": {
@@ -1292,18 +1136,12 @@
       "previewColor": "#8496AA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_07_staubblau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_07_staubblau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_07_staubblau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_07_staubblau.png"
         }
       },
       "pbrMaps": {
@@ -1341,18 +1179,12 @@
       "previewColor": "#A7B4BA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
         }
       },
       "pbrMaps": {
@@ -1390,18 +1222,12 @@
       "previewColor": "#D9B4AD",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_09_puderrosa.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_09_puderrosa.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_09_puderrosa.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_09_puderrosa.png"
         }
       },
       "pbrMaps": {
@@ -1439,18 +1265,12 @@
       "previewColor": "#C98A72",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_10_terracotta_pastell.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_10_terracotta_pastell.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/1024x1024/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_10_terracotta_pastell.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/2048x2048/wall_plaster_stucco_elegant_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/stucco_elegant_plaster/baked/wall_plaster_stucco_elegant_1024_basecolor_heightbaked_10_terracotta_pastell.png"
         }
       },
       "pbrMaps": {
@@ -1488,18 +1308,12 @@
       "previewColor": "#E8E4DA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_01_warmweiss.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_01_warmweiss.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_01_warmweiss.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_01_warmweiss.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_01_warmweiss.png"
         }
       },
       "pbrMaps": {
@@ -1537,18 +1351,12 @@
       "previewColor": "#C7BBA9",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_02_greige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_02_greige.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_02_greige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_02_greige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_02_greige.png"
         }
       },
       "pbrMaps": {
@@ -1586,18 +1394,12 @@
       "previewColor": "#D9C5A4",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_03_sandbeige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_03_sandbeige.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_03_sandbeige.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_03_sandbeige.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_03_sandbeige.png"
         }
       },
       "pbrMaps": {
@@ -1635,18 +1437,12 @@
       "previewColor": "#AEB99D",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_04_salbeigruen.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_04_salbeigruen.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_04_salbeigruen.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_04_salbeigruen.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_04_salbeigruen.png"
         }
       },
       "pbrMaps": {
@@ -1684,18 +1480,12 @@
       "previewColor": "#9DA89E",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_05_eukalyptusgrau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_05_eukalyptusgrau.png"
         }
       },
       "pbrMaps": {
@@ -1733,18 +1523,12 @@
       "previewColor": "#B7BA83",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_06_pastell_oliv.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_06_pastell_oliv.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_06_pastell_oliv.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_06_pastell_oliv.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_06_pastell_oliv.png"
         }
       },
       "pbrMaps": {
@@ -1782,18 +1566,12 @@
       "previewColor": "#8496AA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_07_staubblau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_07_staubblau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_07_staubblau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_07_staubblau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_07_staubblau.png"
         }
       },
       "pbrMaps": {
@@ -1831,18 +1609,12 @@
       "previewColor": "#A7B4BA",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_08_nebelgrau_blau.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_08_nebelgrau_blau.png"
         }
       },
       "pbrMaps": {
@@ -1880,18 +1652,12 @@
       "previewColor": "#D9B4AD",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_09_puderrosa.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_09_puderrosa.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_09_puderrosa.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_09_puderrosa.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_09_puderrosa.png"
         }
       },
       "pbrMaps": {
@@ -1929,18 +1695,12 @@
       "previewColor": "#C98A72",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_10_terracotta_pastell.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_10_terracotta_pastell.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/1024x1024/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_10_terracotta_pastell.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/2048x2048/wall_plaster_stucco_swirled_2048_basecolor_heightbaked_10_terracotta_pastell.png"
+          "baseColor": "assets/textures/wallplastering/stucco_swirled_plaster/baked/wall_plaster_stucco_swirled_1024_basecolor_heightbaked_10_terracotta_pastell.png"
         }
       },
       "pbrMaps": {
