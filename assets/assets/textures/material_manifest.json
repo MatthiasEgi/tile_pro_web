@@ -1737,28 +1737,614 @@
       "previewColor": "#D9CDBD",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallpapers/baked/wallpaper1_1024_2x2_seam_check.png"
+          "baseColor": "assets/textures/wallpapers/wallpaper1/baked/wallpaper1_1024_2x2_seam_check.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallpapers/baked/wallpaper1_1024_2x2_seam_check.png"
+          "baseColor": "assets/textures/wallpapers/wallpaper1/baked/wallpaper1_1024_2x2_seam_check.png"
         }
       },
       "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallpapers/pbr/1024x1024/wallpaper1_1024_basecolor.png",
-          "normalOpenGl": "assets/textures/wallpapers/pbr/1024x1024/wallpaper1_1024_normal_OpenGL.png",
-          "roughness": "assets/textures/wallpapers/pbr/1024x1024/wallpaper1_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallpapers/pbr/1024x1024/wallpaper1_1024_ao.png",
-          "height": "assets/textures/wallpapers/pbr/1024x1024/wallpaper1_1024_height.png"
+          "baseColor": "assets/textures/wallpapers/wallpaper1/pbr/1024x1024/wallpaper1_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper1/pbr/1024x1024/wallpaper1_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper1/pbr/1024x1024/wallpaper1_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper1/pbr/1024x1024/wallpaper1_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper1/pbr/1024x1024/wallpaper1_1024_height.png"
         },
         "2048x2048": {
-          "baseColor": "assets/textures/wallpapers/pbr/2048x2048/wallpaper1_2048_basecolor.png",
-          "normalOpenGl": "assets/textures/wallpapers/pbr/2048x2048/wallpaper1_2048_normal_OpenGL.png",
-          "roughness": "assets/textures/wallpapers/pbr/2048x2048/wallpaper1_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallpapers/pbr/2048x2048/wallpaper1_2048_ao.png",
-          "height": "assets/textures/wallpapers/pbr/2048x2048/wallpaper1_2048_height.png"
+          "baseColor": "assets/textures/wallpapers/wallpaper1/pbr/2048x2048/wallpaper1_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper1/pbr/2048x2048/wallpaper1_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper1/pbr/2048x2048/wallpaper1_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper1/pbr/2048x2048/wallpaper1_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper1/pbr/2048x2048/wallpaper1_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper2.blau",
+      "name": "Tapete 2 Blau",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#6F8AA7",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_blau_1024_2x2_seam_check.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_blau_1024_2x2_seam_check.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_blau_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_blau_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper2.braun",
+      "name": "Tapete 2 Braun",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#9B7A5F",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_braun_1024_2x2_seam_check.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_braun_1024_2x2_seam_check.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_braun_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_braun_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper2.grau",
+      "name": "Tapete 2 Grau",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#A5A3A0",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_grau_1024_2x2_seam_check.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_grau_1024_2x2_seam_check.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_grau_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_grau_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper2.gruen",
+      "name": "Tapete 2 Gruen",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#8AA078",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_gruen_1024_2x2_seam_check.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_gruen_1024_2x2_seam_check.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_gruen_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_gruen_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper2.lila",
+      "name": "Tapete 2 Lila",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#9A82A9",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_lila_1024_2x2_seam_check.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_lila_1024_2x2_seam_check.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_lila_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_lila_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper2.orange",
+      "name": "Tapete 2 Orange",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#C68A58",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_orange_1024_2x2_seam_check.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_orange_1024_2x2_seam_check.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_orange_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_orange_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper2.pink",
+      "name": "Tapete 2 Pink",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#C885A4",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_pink_1024_2x2_seam_check.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/baked/wallpaper2_pink_1024_2x2_seam_check.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_pink_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/1024x1024/wallpaper2_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_pink_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper2/pbr/2048x2048/wallpaper2_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper3",
+      "name": "Tapete 3",
+      "nameKey": "room_material_wallpaper_3",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#BFB8AA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper3/baked/wallpaper3_reference_preview.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper3/baked/wallpaper3_reference_preview.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper3/pbr/1024x1024/wallpaper3_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper3/pbr/1024x1024/wallpaper3_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper3/pbr/1024x1024/wallpaper3_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper3/pbr/1024x1024/wallpaper3_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper3/pbr/1024x1024/wallpaper3_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper3/pbr/2048x2048/wallpaper3_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper3/pbr/2048x2048/wallpaper3_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper3/pbr/2048x2048/wallpaper3_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper3/pbr/2048x2048/wallpaper3_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper3/pbr/2048x2048/wallpaper3_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper4.blau",
+      "name": "Tapete 4 Blau",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#6F8AA7",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_blau_1024_basecolor.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_blau_1024_basecolor.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_blau_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_blau_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper4.grau",
+      "name": "Tapete 4 Grau",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#A5A3A0",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_grau_1024_basecolor.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_grau_1024_basecolor.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_grau_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_grau_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper4.gruen",
+      "name": "Tapete 4 Gruen",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#8AA078",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_gruen_1024_basecolor.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_gruen_1024_basecolor.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_gruen_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_gruen_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper4.lila",
+      "name": "Tapete 4 Lila",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#9A82A9",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_lila_1024_basecolor.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_lila_1024_basecolor.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_lila_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_lila_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper4.okker",
+      "name": "Tapete 4 Okker",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#B89A54",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_okker_1024_basecolor.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_okker_1024_basecolor.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_okker_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_okker_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper4.orange",
+      "name": "Tapete 4 Orange",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#C68A58",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_orange_1024_basecolor.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_orange_1024_basecolor.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_orange_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_orange_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "wallpapers.wallpaper4.pink",
+      "name": "Tapete 4 Pink",
+      "category": "wallpapers",
+      "family": "wallpaper",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#C885A4",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_pink_1024_basecolor.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/baked/wallpaper4_pink_1024_basecolor.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_pink_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/1024x1024/wallpaper4_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_pink_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_ao.png",
+          "height": "assets/textures/wallpapers/wallpaper4/pbr/2048x2048/wallpaper4_2048_height.png"
         }
       }
     }
