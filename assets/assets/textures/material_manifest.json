@@ -1737,60 +1737,28 @@
       "previewColor": "#D9CDBD",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallpapers/wallpaper1.png"
+          "baseColor": "assets/textures/wallpapers/baked/wallpaper1_1024_2x2_seam_check.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallpapers/wallpaper1.png"
-        }
-      }
-    },
-    {
-      "id": "wallpapers.wallpaper2",
-      "name": "Tapete 2",
-      "nameKey": "room_material_wallpaper_2",
-      "category": "wallpapers",
-      "family": "wallpaper",
-      "type": "texture",
-      "seamless": true,
-      "defaultRepeatSizeCm": {
-        "width": 100.0,
-        "height": 100.0
-      },
-      "previewColor": "#CFC6B9",
-      "maps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wallpapers/wallpaper2.png"
+          "baseColor": "assets/textures/wallpapers/baked/wallpaper1_1024_2x2_seam_check.png"
         }
       },
-      "bakedMaps": {
+      "pbrMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallpapers/wallpaper2.png"
-        }
-      }
-    },
-    {
-      "id": "wallpapers.wallpaper3",
-      "name": "Tapete 3",
-      "nameKey": "room_material_wallpaper_3",
-      "category": "wallpapers",
-      "family": "wallpaper",
-      "type": "texture",
-      "seamless": true,
-      "defaultRepeatSizeCm": {
-        "width": 100.0,
-        "height": 100.0
-      },
-      "previewColor": "#BFB8AA",
-      "maps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wallpapers/wallpaper3.png"
-        }
-      },
-      "bakedMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wallpapers/wallpaper3.png"
+          "baseColor": "assets/textures/wallpapers/pbr/1024x1024/wallpaper1_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/pbr/1024x1024/wallpaper1_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/pbr/1024x1024/wallpaper1_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/pbr/1024x1024/wallpaper1_1024_ao.png",
+          "height": "assets/textures/wallpapers/pbr/1024x1024/wallpaper1_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wallpapers/pbr/2048x2048/wallpaper1_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wallpapers/pbr/2048x2048/wallpaper1_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wallpapers/pbr/2048x2048/wallpaper1_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wallpapers/pbr/2048x2048/wallpaper1_2048_ao.png",
+          "height": "assets/textures/wallpapers/pbr/2048x2048/wallpaper1_2048_height.png"
         }
       }
     }
