@@ -257,7 +257,7 @@
   "room_workspace_material_patterns_sidebar_placeholder": "Les matériaux et les motifs de pose seront plus tard gérés ensemble ici pour chaque surface et zone.",
   "room_workspace_material_sidebar_placeholder": "Les matériaux seront attribués ici plus tard aux zones définies.",
   "room_material_select_area_hint": "Sélectionnez une zone.",
-  "room_material_opening_area_hint": "Les ouvertures ne peuvent pas recevoir de matériau.",
+  "room_material_opening_area_hint": "Aucun matériau ne peut être ajouté à une ouverture.",
   "room_material_scope_selected_area": "Zone sélectionnée",
   "room_material_scope_all_walls": "Toutes les surfaces murales",
   "room_material_scope_all_roof_slopes": "Toutes les sous-pentes",

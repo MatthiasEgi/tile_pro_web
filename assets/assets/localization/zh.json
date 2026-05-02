@@ -257,7 +257,7 @@
   "room_workspace_material_patterns_sidebar_placeholder": "之后将在这里按表面和区域统一管理材料与铺贴样式。",
   "room_workspace_material_sidebar_placeholder": "之后将在这里为已定义的区域分配材料。",
   "room_material_select_area_hint": "请选择一个区域。",
-  "room_material_opening_area_hint": "洞口不能分配材料。",
+  "room_material_opening_area_hint": "无法向洞口添加材料。",
   "room_material_scope_selected_area": "已选区域",
   "room_material_scope_all_walls": "所有墙面",
   "room_material_scope_all_roof_slopes": "所有斜顶面",

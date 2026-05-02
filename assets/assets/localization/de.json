@@ -259,7 +259,7 @@
   "room_workspace_material_patterns_sidebar_placeholder": "Hier werden später Materialien und Verlegemuster gemeinsam pro Oberfläche und Bereich verwaltet.",
   "room_workspace_material_sidebar_placeholder": "Hier werden später den definierten Bereichen die passenden Materialien zugewiesen.",
   "room_material_select_area_hint": "Wähle eine Fläche aus.",
-  "room_material_opening_area_hint": "Durchbrüche können kein Material bekommen.",
+  "room_material_opening_area_hint": "Bei einem Durchbruch kann kein Material hinzugefügt werden.",
   "room_material_scope_selected_area": "Ausgewählte Fläche",
   "room_material_scope_all_walls": "Alle Wandflächen",
   "room_material_scope_all_roof_slopes": "Alle Dachschrägen",

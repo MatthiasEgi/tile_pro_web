@@ -259,7 +259,7 @@
   "room_workspace_material_patterns_sidebar_placeholder": "Materials and laying patterns will later be managed together here for each surface and area.",
   "room_workspace_material_sidebar_placeholder": "Materials will later be assigned to the defined areas here.",
   "room_material_select_area_hint": "Select an area.",
-  "room_material_opening_area_hint": "Openings cannot receive material.",
+  "room_material_opening_area_hint": "Material cannot be added to an opening.",
   "room_material_scope_selected_area": "Selected area",
   "room_material_scope_all_walls": "All wall surfaces",
   "room_material_scope_all_roof_slopes": "All roof slopes",
