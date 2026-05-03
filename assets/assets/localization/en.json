@@ -333,8 +333,6 @@
   "room_workspace_patterns_sidebar_placeholder": "Laying patterns, angles and area coverage will later be defined here.",
   "room_workspace_three_d_title": "3D View",
   "room_workspace_three_d_sidebar_placeholder": "Camera, perspective and surface layers for the 3D view will later be controlled here.",
-  "room_workspace_three_d_gpu_title": "3D GPU",
-  "room_workspace_three_d_gpu_sidebar_placeholder": "GPU render controls for the parallel 3D view will live here.",
   "room_three_d_gpu_backend_flutter_gpu": "Flutter GPU",
   "room_three_d_gpu_backend_web_gl": "WebGL",
   "room_three_d_gpu_shadow_toggle": "Shadows",

@@ -331,8 +331,6 @@
   "room_workspace_patterns_sidebar_placeholder": "Les motifs de pose, les angles et la répartition par zone seront définis ici plus tard.",
   "room_workspace_three_d_title": "Vue 3D",
   "room_workspace_three_d_sidebar_placeholder": "La caméra, la perspective et les couches de surfaces de la vue 3D seront contrôlées ici plus tard.",
-  "room_workspace_three_d_gpu_title": "3D GPU",
-  "room_workspace_three_d_gpu_sidebar_placeholder": "Les contrôles de rendu GPU de la vue 3D parallèle seront placés ici.",
   "room_three_d_gpu_backend_flutter_gpu": "Flutter GPU",
   "room_three_d_gpu_backend_web_gl": "WebGL",
   "room_three_d_gpu_shadow_toggle": "Ombres",

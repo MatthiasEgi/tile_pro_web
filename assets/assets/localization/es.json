@@ -331,8 +331,6 @@
   "room_workspace_patterns_sidebar_placeholder": "Aquí se definirán más adelante los patrones de colocación, ángulos y distribución por área.",
   "room_workspace_three_d_title": "Vista 3D",
   "room_workspace_three_d_sidebar_placeholder": "Aquí se controlarán más adelante la cámara, la perspectiva y las capas de superficies para la vista 3D.",
-  "room_workspace_three_d_gpu_title": "3D GPU",
-  "room_workspace_three_d_gpu_sidebar_placeholder": "Aquí estarán los controles de renderizado GPU para la vista 3D paralela.",
   "room_three_d_gpu_backend_flutter_gpu": "Flutter GPU",
   "room_three_d_gpu_backend_web_gl": "WebGL",
   "room_three_d_gpu_shadow_toggle": "Sombras",

@@ -333,8 +333,6 @@
   "room_workspace_patterns_sidebar_placeholder": "Hier werden später Verlegemuster, Winkel und Belegung je Bereich definiert.",
   "room_workspace_three_d_title": "3D Ansicht",
   "room_workspace_three_d_sidebar_placeholder": "Hier werden später Kamera, Perspektive und Oberflächenebenen für die 3D-Ansicht gesteuert.",
-  "room_workspace_three_d_gpu_title": "3D GPU",
-  "room_workspace_three_d_gpu_sidebar_placeholder": "Hier entstehen die GPU-Rendersteuerungen für die parallele 3D-Ansicht.",
   "room_three_d_gpu_backend_flutter_gpu": "Flutter GPU",
   "room_three_d_gpu_backend_web_gl": "WebGL",
   "room_three_d_gpu_shadow_toggle": "Schatten",
