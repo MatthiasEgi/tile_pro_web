@@ -220,6 +220,7 @@
   "material_workspace_preview_material_badge": "Vista previa de material",
   "material_workspace_project_catalog": "Catálogo",
   "material_workspace_catalog_empty": "No hay entradas en el catálogo actual.",
+  "material_workspace_catalog_remove_reference": "Quitar del catálogo del proyecto",
   "material_workspace_material_load_failed_title": "No se pudo cargar el material",
   "material_workspace_material_load_failed_hint": "La entrada del catálogo sigue seleccionable, pero sus datos de detalle no están disponibles ahora.",
   "material_workspace_save_failed": "No se pudo guardar el material.",

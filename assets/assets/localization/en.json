@@ -220,6 +220,7 @@
   "material_workspace_preview_material_badge": "Material Preview",
   "material_workspace_project_catalog": "Catalog",
   "material_workspace_catalog_empty": "No entries in the current catalog.",
+  "material_workspace_catalog_remove_reference": "Remove from project catalog",
   "material_workspace_material_load_failed_title": "Material could not be loaded",
   "material_workspace_material_load_failed_hint": "The catalog entry remains selectable, but its detail data is not available right now.",
   "material_workspace_save_failed": "Material could not be saved.",

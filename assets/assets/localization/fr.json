@@ -220,6 +220,7 @@
   "material_workspace_preview_material_badge": "Aperçu matériau",
   "material_workspace_project_catalog": "Catalogue",
   "material_workspace_catalog_empty": "Aucune entrée dans le catalogue actuel.",
+  "material_workspace_catalog_remove_reference": "Retirer du catalogue du projet",
   "material_workspace_material_load_failed_title": "Le matériau n'a pas pu être chargé",
   "material_workspace_material_load_failed_hint": "L'entrée du catalogue reste sélectionnable, mais ses détails ne sont pas disponibles pour le moment.",
   "material_workspace_save_failed": "Le matériau n'a pas pu être enregistré.",
