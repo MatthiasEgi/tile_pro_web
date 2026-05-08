@@ -573,6 +573,8 @@
   "room_three_d_gpu_material_quality_color": "基础颜色",
   "room_three_d_gpu_material_quality_baked_texture": "烘焙纹理",
   "room_three_d_gpu_material_quality_pbr": "PBR",
+  "room_three_d_gpu_material_quality_pbr_1024": "PBR 1024",
+  "room_three_d_gpu_material_quality_pbr_2048": "PBR 2048",
   "room_three_d_gpu_renderer_label": "GPU 渲染器框架",
   "room_three_d_gpu_scene_status": "已从 2D 几何准备场景。",
   "room_three_d_gpu_scene_empty": "请先在测量中创建地面或表面，以准备 GPU 场景。",
