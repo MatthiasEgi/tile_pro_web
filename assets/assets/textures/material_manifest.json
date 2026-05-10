@@ -2932,6 +2932,126 @@
           "height": "assets/textures/wallpapers/wallpaper19/pbr/2048x2048/wallpaper19_2048_height.png"
         }
       }
+    },
+    {
+      "id": "stonewalls.stonewall1",
+      "name": "Stonewall 1",
+      "nameKey": "room_material_stonewall_1",
+      "category": "stonewalls",
+      "family": "stonewall",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#82776D",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stonewalls/stonewall1/baked/stonewall1_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stonewalls/stonewall1/baked/stonewall1_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stonewalls/stonewall1/pbr/1024x1024/stonewall1_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stonewalls/stonewall1/pbr/1024x1024/stonewall1_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stonewalls/stonewall1/pbr/1024x1024/stonewall1_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stonewalls/stonewall1/pbr/1024x1024/stonewall1_1024_ao.png",
+          "height": "assets/textures/stonewalls/stonewall1/pbr/1024x1024/stonewall1_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stonewalls/stonewall1/pbr/2048x2048/stonewall1_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stonewalls/stonewall1/pbr/2048x2048/stonewall1_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stonewalls/stonewall1/pbr/2048x2048/stonewall1_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stonewalls/stonewall1/pbr/2048x2048/stonewall1_2048_ao.png",
+          "height": "assets/textures/stonewalls/stonewall1/pbr/2048x2048/stonewall1_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "stonewalls.stonewall2",
+      "name": "Stonewall 2",
+      "nameKey": "room_material_stonewall_2",
+      "category": "stonewalls",
+      "family": "stonewall",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#777168",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stonewalls/stonewall2/baked/stonewall2_1024_baked.jpg"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stonewalls/stonewall2/baked/stonewall2_1024_baked.jpg"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stonewalls/stonewall2/pbr/1024x1024/stonewall2_1024_basecolor.jpg",
+          "normalOpenGl": "assets/textures/stonewalls/stonewall2/pbr/1024x1024/stonewall2_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stonewalls/stonewall2/pbr/1024x1024/stonewall2_1024_roughness.jpg",
+          "ambientOcclusion": "assets/textures/stonewalls/stonewall2/pbr/1024x1024/stonewall2_1024_ao.jpg",
+          "height": "assets/textures/stonewalls/stonewall2/pbr/1024x1024/stonewall2_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stonewalls/stonewall2/pbr/2048x2048/stonewall2_2048_basecolor.jpg",
+          "normalOpenGl": "assets/textures/stonewalls/stonewall2/pbr/2048x2048/stonewall2_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stonewalls/stonewall2/pbr/2048x2048/stonewall2_2048_roughness.jpg",
+          "ambientOcclusion": "assets/textures/stonewalls/stonewall2/pbr/2048x2048/stonewall2_2048_ao.jpg",
+          "height": "assets/textures/stonewalls/stonewall2/pbr/2048x2048/stonewall2_2048_height.png"
+        }
+      }
+    },
+    {
+      "id": "stonewalls.stonewall3",
+      "name": "Stonewall 3",
+      "nameKey": "room_material_stonewall_3",
+      "category": "stonewalls",
+      "family": "stonewall",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "previewColor": "#B6B1A5",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stonewalls/stonewall3/baked/stonewall3_1024_baked.jpg"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stonewalls/stonewall3/baked/stonewall3_1024_baked.jpg"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stonewalls/stonewall3/pbr/1024x1024/stonewall3_1024_basecolor.jpg",
+          "normalOpenGl": "assets/textures/stonewalls/stonewall3/pbr/1024x1024/stonewall3_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stonewalls/stonewall3/pbr/1024x1024/stonewall3_1024_roughness.jpg",
+          "ambientOcclusion": "assets/textures/stonewalls/stonewall3/pbr/1024x1024/stonewall3_1024_ao.jpg",
+          "height": "assets/textures/stonewalls/stonewall3/pbr/1024x1024/stonewall3_1024_height.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stonewalls/stonewall3/pbr/2048x2048/stonewall3_2048_basecolor.jpg",
+          "normalOpenGl": "assets/textures/stonewalls/stonewall3/pbr/2048x2048/stonewall3_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stonewalls/stonewall3/pbr/2048x2048/stonewall3_2048_roughness.jpg",
+          "ambientOcclusion": "assets/textures/stonewalls/stonewall3/pbr/2048x2048/stonewall3_2048_ao.jpg",
+          "height": "assets/textures/stonewalls/stonewall3/pbr/2048x2048/stonewall3_2048_height.png"
+        }
+      }
     }
   ]
 }
