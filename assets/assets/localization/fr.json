@@ -494,6 +494,7 @@
   "room_material_scope_bulk_summary": "Attribution groupée pour {count} zones de base",
   "room_material_scope_no_targets": "Aucune zone de base adaptée.",
   "room_material_tab_colors": "Couleurs",
+  "room_material_tab_predefined": "Prédéfinis",
   "room_material_tab_wallpapers": "Papiers peints",
   "room_material_tab_wall_plaster": "Enduit",
   "room_material_tab_tiles": "Carrelage",

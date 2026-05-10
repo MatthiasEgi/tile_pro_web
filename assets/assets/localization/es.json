@@ -494,6 +494,7 @@
   "room_material_scope_bulk_summary": "Asignación masiva para {count} áreas base",
   "room_material_scope_no_targets": "No hay áreas base adecuadas.",
   "room_material_tab_colors": "Colores",
+  "room_material_tab_predefined": "Predefinidos",
   "room_material_tab_wallpapers": "Papeles",
   "room_material_tab_wall_plaster": "Revoque",
   "room_material_tab_tiles": "Azulejos",

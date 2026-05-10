@@ -494,6 +494,7 @@
   "room_material_scope_bulk_summary": "批量分配到 {count} 个基础区域",
   "room_material_scope_no_targets": "没有可用的基础区域。",
   "room_material_tab_colors": "颜色",
+  "room_material_tab_predefined": "预设",
   "room_material_tab_wallpapers": "墙纸",
   "room_material_tab_wall_plaster": "墙面灰泥",
   "room_material_tab_tiles": "瓷砖",

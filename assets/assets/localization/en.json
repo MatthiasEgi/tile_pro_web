@@ -496,6 +496,7 @@
   "room_material_scope_bulk_summary": "Bulk assignment for {count} base areas",
   "room_material_scope_no_targets": "No matching base areas available.",
   "room_material_tab_colors": "Colors",
+  "room_material_tab_predefined": "Predefined",
   "room_material_tab_wallpapers": "Wallpapers",
   "room_material_tab_wall_plaster": "Plaster",
   "room_material_tab_tiles": "Tiles",
