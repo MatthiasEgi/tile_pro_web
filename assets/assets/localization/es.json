@@ -247,6 +247,7 @@
   "material_workspace_material_load_failed_title": "No se pudo cargar el material",
   "material_workspace_material_load_failed_hint": "La entrada del catálogo sigue seleccionable, pero sus datos de detalle no están disponibles ahora.",
   "material_workspace_save_failed": "No se pudo guardar el material.",
+  "material_workspace_placeholder_save_pending": "Este editor aún es un marcador de posición. El guardado se activará con la futura revisión de azulejos y colocaciones.",
   "material_workspace_baked_import_failed": "No se pudo importar el BaseColor baked.",
   "material_workspace_baked_remove_failed": "No se pudo quitar el BaseColor baked.",
   "material_workspace_pbr_import_failed": "No se pudieron importar las texturas PBR.",

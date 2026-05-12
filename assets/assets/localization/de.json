@@ -247,6 +247,7 @@
   "material_workspace_material_load_failed_title": "Material konnte nicht geladen werden",
   "material_workspace_material_load_failed_hint": "Der Katalogeintrag bleibt auswählbar, aber die Detaildaten sind aktuell nicht verfügbar.",
   "material_workspace_save_failed": "Material konnte nicht gespeichert werden.",
+  "material_workspace_placeholder_save_pending": "Dieser Editor ist noch ein Platzhalter. Speichern wird mit der späteren Tile- und Verband-Überarbeitung aktiviert.",
   "material_workspace_baked_import_failed": "Baked BaseColor konnte nicht importiert werden.",
   "material_workspace_baked_remove_failed": "Baked BaseColor konnte nicht entfernt werden.",
   "material_workspace_pbr_import_failed": "PBR-Texturen konnten nicht importiert werden.",

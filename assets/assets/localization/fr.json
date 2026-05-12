@@ -247,6 +247,7 @@
   "material_workspace_material_load_failed_title": "Le matériau n'a pas pu être chargé",
   "material_workspace_material_load_failed_hint": "L'entrée du catalogue reste sélectionnable, mais ses détails ne sont pas disponibles pour le moment.",
   "material_workspace_save_failed": "Le matériau n’a pas pu être enregistré.",
+  "material_workspace_placeholder_save_pending": "Cet éditeur est encore un placeholder. L'enregistrement sera activé avec la future refonte des carreaux et des poses.",
   "material_workspace_baked_import_failed": "Le BaseColor baked n’a pas pu être importé.",
   "material_workspace_baked_remove_failed": "Le BaseColor baked n’a pas pu être retiré.",
   "material_workspace_pbr_import_failed": "Les textures PBR n’ont pas pu être importées.",

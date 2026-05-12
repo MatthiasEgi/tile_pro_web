@@ -247,6 +247,7 @@
   "material_workspace_material_load_failed_title": "Material could not be loaded",
   "material_workspace_material_load_failed_hint": "The catalog entry remains selectable, but its detail data is not available right now.",
   "material_workspace_save_failed": "Material could not be saved.",
+  "material_workspace_placeholder_save_pending": "This editor is still a placeholder. Saving will be enabled with the later tile and laying preset overhaul.",
   "material_workspace_baked_import_failed": "Baked BaseColor could not be imported.",
   "material_workspace_baked_remove_failed": "Baked BaseColor could not be removed.",
   "material_workspace_pbr_import_failed": "PBR textures could not be imported.",

@@ -247,6 +247,7 @@
   "material_workspace_material_load_failed_title": "无法加载材料",
   "material_workspace_material_load_failed_hint": "目录条目仍可选择，但当前无法使用其详细数据。",
   "material_workspace_save_failed": "无法保存材料。",
+  "material_workspace_placeholder_save_pending": "此编辑器仍是占位内容。保存功能会在之后的瓷砖和铺贴预设重做时启用。",
   "material_workspace_baked_import_failed": "无法导入 Baked BaseColor。",
   "material_workspace_baked_remove_failed": "无法移除 Baked BaseColor。",
   "material_workspace_pbr_import_failed": "无法导入 PBR 纹理。",
