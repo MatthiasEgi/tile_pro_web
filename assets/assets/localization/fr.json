@@ -594,6 +594,7 @@
   "room_three_d_gpu_interior_light_source_neutral": "Lumière neutre",
   "room_three_d_gpu_interior_light_source_central_diffuse": "Lumière centrale",
   "room_three_d_gpu_interior_light_source_ceiling_spots": "Spots plafond",
+  "room_three_d_gpu_interior_light_source_missing_lights": "Ajoutez d'abord des luminaires personnalisés dans la géométrie pour utiliser ce mode.",
   "room_three_d_gpu_interior_light_level": "Intensité",
   "room_three_d_gpu_interior_light_level_weak": "Faible",
   "room_three_d_gpu_interior_light_level_medium": "Moyenne",

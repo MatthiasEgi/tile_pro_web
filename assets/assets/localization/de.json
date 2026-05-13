@@ -596,6 +596,7 @@
   "room_three_d_gpu_interior_light_source_neutral": "Neutrallicht",
   "room_three_d_gpu_interior_light_source_central_diffuse": "Zentrallicht",
   "room_three_d_gpu_interior_light_source_ceiling_spots": "Deckenspots",
+  "room_three_d_gpu_interior_light_source_missing_lights": "Für diesen Modus müssen zuerst eigene Leuchten in der Geometrie hinzugefügt werden.",
   "room_three_d_gpu_interior_light_level": "Lichtstärke",
   "room_three_d_gpu_interior_light_level_weak": "Schwach",
   "room_three_d_gpu_interior_light_level_medium": "Mittel",

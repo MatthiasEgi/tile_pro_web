@@ -594,6 +594,7 @@
   "room_three_d_gpu_interior_light_source_neutral": "中性光",
   "room_three_d_gpu_interior_light_source_central_diffuse": "中央光",
   "room_three_d_gpu_interior_light_source_ceiling_spots": "顶棚射灯",
+  "room_three_d_gpu_interior_light_source_missing_lights": "请先在几何图形中添加自定义灯具，再使用此模式。",
   "room_three_d_gpu_interior_light_level": "光照强度",
   "room_three_d_gpu_interior_light_level_weak": "弱",
   "room_three_d_gpu_interior_light_level_medium": "中",
