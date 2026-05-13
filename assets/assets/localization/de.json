@@ -635,6 +635,7 @@
   "room_three_d_gpu_material_tuning_close": "Schließen",
   "room_three_d_gpu_material_tuning_normal": "Normal",
   "room_three_d_gpu_material_tuning_height": "Height",
+  "room_three_d_gpu_material_tuning_height_relief": "Height-Relief",
   "room_three_d_gpu_material_tuning_ao": "AO",
   "room_three_d_gpu_material_tuning_relief_light": "Relieflicht",
   "room_three_d_gpu_material_tuning_detail_light": "Detaillicht",

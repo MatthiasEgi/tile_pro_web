@@ -633,6 +633,7 @@
   "room_three_d_gpu_material_tuning_close": "关闭",
   "room_three_d_gpu_material_tuning_normal": "Normal",
   "room_three_d_gpu_material_tuning_height": "Height",
+  "room_three_d_gpu_material_tuning_height_relief": "高度浮雕",
   "room_three_d_gpu_material_tuning_ao": "AO",
   "room_three_d_gpu_material_tuning_relief_light": "浮雕光",
   "room_three_d_gpu_material_tuning_detail_light": "细节光",
