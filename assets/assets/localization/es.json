@@ -619,6 +619,7 @@
   "room_three_d_gpu_shadow_debug_show_overlay": "Superposición de sombras",
   "room_three_d_gpu_shadow_debug_use_max_slots": "Todos los slots",
   "room_three_d_gpu_shadow_debug_occluder_limit": "Límite de oclusores",
+  "room_three_d_gpu_shadow_debug_arc_merge_angle": "Ángulo de unión de arco",
   "room_three_d_gpu_shadow_debug_softness": "Suavidad",
   "room_three_d_gpu_shadow_debug_active_occluders": "Activos",
   "room_three_d_gpu_shadow_debug_available_occluders": "Disponibles",

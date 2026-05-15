@@ -619,6 +619,7 @@
   "room_three_d_gpu_shadow_debug_show_overlay": "阴影叠加",
   "room_three_d_gpu_shadow_debug_use_max_slots": "全部槽位",
   "room_three_d_gpu_shadow_debug_occluder_limit": "遮挡物限制",
+  "room_three_d_gpu_shadow_debug_arc_merge_angle": "弧形合并角度",
   "room_three_d_gpu_shadow_debug_softness": "柔和度",
   "room_three_d_gpu_shadow_debug_active_occluders": "活动",
   "room_three_d_gpu_shadow_debug_available_occluders": "可用",

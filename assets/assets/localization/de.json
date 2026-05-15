@@ -621,6 +621,7 @@
   "room_three_d_gpu_shadow_debug_show_overlay": "Shadow-Overlay",
   "room_three_d_gpu_shadow_debug_use_max_slots": "Alle Slots",
   "room_three_d_gpu_shadow_debug_occluder_limit": "Occluder-Limit",
+  "room_three_d_gpu_shadow_debug_arc_merge_angle": "Arc-Merge-Winkel",
   "room_three_d_gpu_shadow_debug_softness": "Weichheit",
   "room_three_d_gpu_shadow_debug_active_occluders": "Aktiv",
   "room_three_d_gpu_shadow_debug_available_occluders": "Verfügbar",
