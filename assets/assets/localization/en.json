@@ -511,6 +511,7 @@
   "room_workspace_material_sidebar_placeholder": "Materials will later be assigned to the defined areas here.",
   "room_material_select_area_hint": "Select an area.",
   "room_material_opening_area_hint": "Material cannot be added to an opening.",
+  "room_material_structure_top_area_hint": "Material cannot be added here for a ceiling-high wall or structure.",
   "room_material_scope_selected_area": "Selected area",
   "room_material_scope_all_walls": "All wall surfaces",
   "room_material_scope_all_roof_slopes": "All roof slopes",

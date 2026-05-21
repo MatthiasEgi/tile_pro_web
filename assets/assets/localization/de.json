@@ -511,6 +511,7 @@
   "room_workspace_material_sidebar_placeholder": "Hier werden später den definierten Bereichen die passenden Materialien zugewiesen.",
   "room_material_select_area_hint": "Wähle eine Fläche aus.",
   "room_material_opening_area_hint": "Bei einem Durchbruch kann kein Material hinzugefügt werden.",
+  "room_material_structure_top_area_hint": "Bei einer deckenhohen Zwischenwand oder Geometrie kann hier kein Material hinzugefügt werden.",
   "room_material_scope_selected_area": "Ausgewählte Fläche",
   "room_material_scope_all_walls": "Alle Wandflächen",
   "room_material_scope_all_roof_slopes": "Alle Dachschrägen",
