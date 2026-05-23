@@ -34351,7 +34351,7 @@ $.aOE=new A.br(new A.aw($.au,t.G),t.gR)
 s=v.G
 r=s.document.createElement("script")
 r.type="text/javascript"
-r.text='        window.after_rc_load_callback = async (callback) => {\n          callback(await import("https://cdn.jsdelivr.net/npm/@revenuecat/purchases-js-hybrid-mappings@18.6.0/dist/index.umd.js"));\n        };\n      '
+r.text='        window.after_rc_load_callback = async (callback) => {\n          callback(await import("https://cdn.jsdelivr.net/npm/@revenuecat/purchases-js-hybrid-mappings@18.7.0/dist/index.umd.js"));\n        };\n      '
 q=s.document.head
 if(q==null)throw A.l(A.aY("The current document doesn't have a head element which is required to insert a script."))
 q.append(r)
@@ -134429,7 +134429,7 @@ for(;;)switch(s){case 0:m=J.a6(a)
 l=A.az(m.i(a,"apiKey"))
 if(l==null)throw A.l(A.kA($.bAu(),null,"API key is required",null))
 p=t.N
-o=A.a7(["apiKey",l,"flavor","flutter","flavorVersion","10.1.0"],p,p)
+o=A.a7(["apiKey",l,"flavor","flutter","flavorVersion","10.1.1"],p,p)
 n=A.az(m.i(a,"appUserId"))
 if(n!=null&&n.length!==0)o.k(0,"appUserId",n)
 q.B5("configure",[o])
@@ -158122,34 +158122,36 @@ A.pg.prototype={}
 A.MR.prototype={
 ag(){return new A.aj7()}}
 A.aj7.prototype={
-t(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null
-if(c.a.c.length===0)return B.a1
-s=A.I(a)
-r=c.a.e
-q=A.aq(b,b,B.j,b,b,b,b,b,b,b,b,13*r,b,b,B.H,b,b,!0,b,0.2,b,b,b,b,b,b)
+t(a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null
+if(a.a.c.length===0)return B.a1
+s=A.I(a1)
+r=a.a.e
+q=A.aq(a0,a0,B.j,a0,a0,a0,a0,a0,a0,a0,a0,13*r,a0,a0,B.H,a0,a0,!0,a0,0.2,a0,a0,a0,a0,a0,a0)
 p=18*r
 o=10*r
-n=c.aO9(a)
-m=B.d.S(16*r*2+p+12*r+c.aBf(a,q),Math.min(c.a.f,n),n)
-l=c.d
-k=l?m:56
-j=l?1:0
-i=l?1:0
-h=l?B.k:B.avj
-g=t.p
-f=A.a([],g)
-for(e=0;d=c.a.c,e<d.length;++e){d=d[e]
-d=A.a([new A.aj6(d,m,r,p,q,d.d?new A.baU(c,e):b,b)],g)
-if(e<c.a.c.length-1)d.push(new A.c7(b,o,b,b))
-B.b.F(f,d)}l=A.a([A.mb(new A.cl(B.m3,b,j,A.dC(A.a_S(new A.KO(A.aA(f,B.A,B.h,B.G),h,B.c8,B.dj,b,b),B.c8,B.dj,i),!l,b),b),B.t,b)],g)
-if(c.d)l.push(A.a8(b,o,b))
-j=c.a
-i=j.d
-h=c.d
-j=h?B.dn:j.w
-h=A.qF(A.ax(j,b,new A.bM(h,t.lY),b,24*r),B.dj,A.CU(),b,B.ad,B.ad,new A.baV())
-l.push(A.a8(new A.a4c(h,B.j,s.ax.b,i,new A.baW(c),B.aN,B.aOK,b),56,56))
-return A.ad1(A.a_T(B.m3,A.a8(A.aA(l,B.A,B.h,B.G),b,k),B.c8,B.dj,b),!1,b,!0,b,b,b,new A.baX(c),b,b)},
+n=a.aO9(a1)
+m=a.aBf(a1,q)
+l=isFinite(n)?Math.max(56,n):56
+k=B.d.S(16*r*2+p+12*r+m,B.d.S(Math.min(a.a.f,l),0,l),l)
+j=a.d
+i=j?k:56
+h=j?1:0
+g=j?1:0
+f=j?B.k:B.avj
+e=t.p
+d=A.a([],e)
+for(c=0;b=a.a.c,c<b.length;++c){b=b[c]
+b=A.a([new A.aj6(b,k,r,p,q,b.d?new A.baU(a,c):a0,a0)],e)
+if(c<a.a.c.length-1)b.push(new A.c7(a0,o,a0,a0))
+B.b.F(d,b)}j=A.a([A.mb(new A.cl(B.m3,a0,h,A.dC(A.a_S(new A.KO(A.aA(d,B.A,B.h,B.G),f,B.c8,B.dj,a0,a0),B.c8,B.dj,g),!j,a0),a0),B.t,a0)],e)
+if(a.d)j.push(A.a8(a0,o,a0))
+h=a.a
+g=h.d
+f=a.d
+h=f?B.dn:h.w
+f=A.qF(A.ax(h,a0,new A.bM(f,t.lY),a0,24*r),B.dj,A.CU(),a0,B.ad,B.ad,new A.baV())
+j.push(A.a8(new A.a4c(f,B.j,s.ax.b,g,new A.baW(a),B.aN,B.aOK,a0),56,56))
+return A.ad1(A.a_T(B.m3,A.a8(A.aA(j,B.A,B.h,B.G),a0,i),B.c8,B.dj,a0),!1,a0,!0,a0,a0,a0,new A.baX(a),a0,a0)},
 a5F(){var s=this
 if(!s.d||s.c==null)return
 s.R(new A.baS(s))},
@@ -158172,10 +158174,11 @@ s=2
 return A.c(A.ES(a,t.H),$async$Jf)
 case 2:return A.h(null,r)}})
 return A.i($async$Jf,r)},
-aO9(a){var s=t.l,r=A.bU(a,B.dI,s).w.a.a-A.bU(a,B.c6,s).w.r.gdT()-32
-s=this.a.r
-if(s==null)return r
-return Math.min(s,r)},
+aO9(a){var s,r=t.l,q=A.bU(a,B.dI,r).w.a.a-A.bU(a,B.c6,r).w.r.gdT()-32
+r=this.a.r
+s=r==null?q:Math.min(r,q)
+if(!isFinite(s))return 56
+return Math.max(56,s)},
 aBf(a,b){var s,r,q,p,o,n,m,l,k,j=null,i=a.ap(t.I).w,h=A.cc(a,B.bG),g=h==null?j:h.gdq()
 if(g==null)g=B.bd
 for(h=this.a.c,s=h.length,r=t.WM,q=t.Gk,p=0,o=0;o<h.length;h.length===s||(0,A.B)(h),++o){n=h[o].b
