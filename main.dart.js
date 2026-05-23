@@ -30856,9 +30856,8 @@ _.Q=l
 _.as=m},
 aIJ:function aIJ(){},
 aIK:function aIK(){},
-avF:function avF(a,b,c){this.c=a
-this.d=b
-this.e=c},
+avF:function avF(a,b){this.c=a
+this.d=b},
 bZm(a){var s,r
 if(a.length===0)return null
 for(s=0;s<25;++s){r=B.adr[s]
@@ -125171,7 +125170,7 @@ for(;;)switch(s){case 0:o=t.X
 n=A
 m=A
 s=3
-return A.c(p.a.bM("startSession",A.a7(["plane_detection",A.bB5(a.a).c,"enable_light_estimation",!0,"prefer_depth_when_available",a.c,"metadata",a.d],t.N,o),!1,o),$async$iF)
+return A.c(p.a.bM("startSession",A.a7(["plane_detection",A.bB5(a.a).c,"enable_light_estimation",!0,"prefer_depth_when_available",!1,"metadata",a.d],t.N,o),!1,o),$async$iF)
 case 3:q=n.bUw(m.cI(c))
 s=1
 break
@@ -126471,7 +126470,7 @@ e=t.N
 e=A.w(e,e)
 e.k(0,"plane_detection",A.bB5(h.c).c)
 e.k(0,"default_measurement_mode",A.bIa(h.d).c)
-e.k(0,"prefer_depth_when_available",String(h.e))
+e.k(0,"prefer_depth_when_available",String(!1))
 e.k(0,"debug_overlay_enabled",String(!1))
 e.F(0,B.bO)
 d=g.avR(B.qK,f)
@@ -126590,9 +126589,8 @@ s=(i==null?m.Q:i)==null?3:4
 break
 case 3:m.R(new A.bcx(m))
 p=6
-i=m.a.d
 s=9
-return A.c(l.iF(new A.avN(i.c,!0,i.e,B.bO)),$async$uy)
+return A.c(l.iF(new A.avN(m.a.d.c,!0,!1,B.bO)),$async$uy)
 case 9:k=b
 if(m.c==null){n=[1]
 s=7
@@ -163544,7 +163542,7 @@ B.qK=new A.ya(0,"native")
 B.t1=new A.bu(3e7)
 B.y5=new A.Dw(1,"horizontal")
 B.md=new A.Du(1,"polygon")
-B.Xe=new A.avF(B.y5,B.md,!0)
+B.Xe=new A.avF(B.y5,B.md)
 B.xK=new A.ez(0,"notInitialized")
 B.xL=new A.ez(1,"alreadyInitialized")
 B.qF=new A.ez(10,"sessionNotActive")
