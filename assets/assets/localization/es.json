@@ -815,6 +815,7 @@
   "room_workspace_measure_roof_slope_blocked_closure_wall": "Esta superficie de cierre de techo no puede recibir otra pendiente de techo.",
   "room_workspace_measure_roof_slope_blocked_existing": "Esta pared ya tiene una pendiente de techo.",
   "room_workspace_measure_roof_slope_blocked_surface_content": "Elimina primero todas las áreas, rebajes, aberturas o bordes de esta pared antes de añadir una pendiente de techo.",
+  "room_workspace_measure_roof_slope_blocked_neighbor_geometry": "Aquí no se pueden incluir superficies vecinas porque el plano del techo atravesaría el contorno del suelo.",
   "room_workspace_measure_roof_slope_blocked_source_floor_missing": "Falta la superficie base de esta pared.",
   "room_workspace_measure_roof_slope_blocked_source_segment_missing": "Falta el segmento de origen de esta pared.",
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "La superficie base de esta pared ya no está disponible.",

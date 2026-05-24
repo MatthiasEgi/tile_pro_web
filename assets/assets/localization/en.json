@@ -817,6 +817,7 @@
   "room_workspace_measure_roof_slope_blocked_closure_wall": "This roof closure surface cannot receive another roof slope.",
   "room_workspace_measure_roof_slope_blocked_existing": "This wall already has a roof slope.",
   "room_workspace_measure_roof_slope_blocked_surface_content": "Remove all areas, recesses, openings, or border areas on this wall before adding a roof slope.",
+  "room_workspace_measure_roof_slope_blocked_neighbor_geometry": "Neighbor surfaces cannot be included here because the roof plane would cut through the floor outline.",
   "room_workspace_measure_roof_slope_blocked_source_floor_missing": "The source floor for this wall is missing.",
   "room_workspace_measure_roof_slope_blocked_source_segment_missing": "The source segment for this wall is missing.",
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "The source floor for this wall is no longer available.",

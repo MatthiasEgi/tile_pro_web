@@ -815,6 +815,7 @@
   "room_workspace_measure_roof_slope_blocked_closure_wall": "此屋顶封闭面不能再添加屋顶斜面。",
   "room_workspace_measure_roof_slope_blocked_existing": "这面墙已经有屋顶斜面。",
   "room_workspace_measure_roof_slope_blocked_surface_content": "添加屋顶斜面前，请先删除这面墙上的所有区域、凹槽、开口或边框区域。",
+  "room_workspace_measure_roof_slope_blocked_neighbor_geometry": "此处不能包含相邻表面，因为屋顶平面会穿过地面轮廓。",
   "room_workspace_measure_roof_slope_blocked_source_floor_missing": "这面墙的来源地面缺失。",
   "room_workspace_measure_roof_slope_blocked_source_segment_missing": "这面墙的来源线段缺失。",
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "这面墙的来源地面不再可用。",

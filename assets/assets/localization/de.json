@@ -817,6 +817,7 @@
   "room_workspace_measure_roof_slope_blocked_closure_wall": "Diese Dachabschlussfläche kann keine weitere Dachschräge erhalten.",
   "room_workspace_measure_roof_slope_blocked_existing": "Für diese Wand existiert bereits eine Dachschräge.",
   "room_workspace_measure_roof_slope_blocked_surface_content": "Entferne zuerst alle Bereiche, Aussparungen, Durchbrüche oder Randbereiche auf dieser Wand.",
+  "room_workspace_measure_roof_slope_blocked_neighbor_geometry": "Nachbarflächen können hier nicht einbezogen werden, weil die Dachfläche den Grundriss schneiden würde.",
   "room_workspace_measure_roof_slope_blocked_source_floor_missing": "Die Ausgangsfläche dieser Wand fehlt.",
   "room_workspace_measure_roof_slope_blocked_source_segment_missing": "Das Ausgangssegment dieser Wand fehlt.",
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "Die Ausgangsfläche dieser Wand ist nicht mehr verfügbar.",
