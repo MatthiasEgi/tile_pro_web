@@ -50052,7 +50052,7 @@ r=t.N
 q=A.bj(c,r)
 q.D(0,s)
 return A.jH(q,r)},
-cun(a,b){var s,r,q,p,o,n,m,l,k
+cun(a,b){var s,r,q,p,o,n,m,l,k,j,i
 if(a.a!==B.eT)return B.aw
 s=-a.y
 r=s>=0.7853981633974483
@@ -50064,7 +50064,11 @@ for(n=J.aa(b.a.a);n.n();){m=n.gE()
 l=m.d
 if(l.length===0||m.ch)continue
 if(r){k=m.b
-k=k===B.m6||k===B.dT}else k=!1
+j=!0
+if(k!==B.m6)if(k!==B.dT){k=m.y
+i=k==null?null:B.c.t(k)
+k=B.c.aJ(i==null?"":i,"roof-slope-closure:")}else k=j
+else k=j}else k=!1
 if(k)o.B(0,l)
 if(q&&m.b===B.fw)o.B(0,l)}return A.jH(o,p)},
 RD:function RD(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5,a6,a7){var _=this
