@@ -823,6 +823,7 @@
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "The source floor for this wall is no longer available.",
   "room_workspace_measure_roof_slope_blocked_constraint_unavailable": "A valid roof slope cannot be calculated for this wall.",
   "room_workspace_measure_roof_slope_blocked_minimum_angle_too_high": "There is not enough depth for the roof slope. The required minimum angle would be too steep.",
+  "room_workspace_measure_roof_slope_auto_adjusted_interlocking": "Other interlocking roof slopes were adjusted automatically.",
   "room_workspace_measure_partition_opening_available": "Opening can be added.",
   "room_workspace_measure_partition_opening_blocked_no_active_surface": "Select a partition wall surface first.",
   "room_workspace_measure_partition_opening_blocked_not_wall": "Openings can only be created on wall surfaces here.",

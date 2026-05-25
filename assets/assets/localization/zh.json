@@ -821,6 +821,7 @@
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "这面墙的来源地面不再可用。",
   "room_workspace_measure_roof_slope_blocked_constraint_unavailable": "无法为这面墙计算有效的屋顶斜面。",
   "room_workspace_measure_roof_slope_blocked_minimum_angle_too_high": "屋顶斜面深度不足，所需最小角度过陡。",
+  "room_workspace_measure_roof_slope_auto_adjusted_interlocking": "其他相互咬合的屋顶斜面已自动调整。",
   "room_workspace_measure_partition_opening_available": "可以添加开口。",
   "room_workspace_measure_partition_opening_blocked_no_active_surface": "请先选择隔墙表面。",
   "room_workspace_measure_partition_opening_blocked_not_wall": "此处只能在墙面上创建开口。",

@@ -823,6 +823,7 @@
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "Die Ausgangsfläche dieser Wand ist nicht mehr verfügbar.",
   "room_workspace_measure_roof_slope_blocked_constraint_unavailable": "Für diese Wand kann keine gültige Dachschräge berechnet werden.",
   "room_workspace_measure_roof_slope_blocked_minimum_angle_too_high": "Nicht genug Tiefe für die Dachschräge. Der erforderliche Mindestwinkel wäre zu steil.",
+  "room_workspace_measure_roof_slope_auto_adjusted_interlocking": "Andere ineinandergreifende Dachschrägen wurden automatisch angepasst.",
   "room_workspace_measure_partition_opening_available": "Durchbruch kann hinzugefügt werden.",
   "room_workspace_measure_partition_opening_blocked_no_active_surface": "Wähle zuerst eine Zwischenwandfläche aus.",
   "room_workspace_measure_partition_opening_blocked_not_wall": "Durchbrüche können hier nur auf Wandflächen erstellt werden.",

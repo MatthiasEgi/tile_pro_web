@@ -821,6 +821,7 @@
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "La superficie base de esta pared ya no está disponible.",
   "room_workspace_measure_roof_slope_blocked_constraint_unavailable": "No se puede calcular una pendiente de techo válida para esta pared.",
   "room_workspace_measure_roof_slope_blocked_minimum_angle_too_high": "No hay suficiente profundidad para la pendiente de techo. El ángulo mínimo requerido sería demasiado pronunciado.",
+  "room_workspace_measure_roof_slope_auto_adjusted_interlocking": "Se ajustaron automáticamente otras pendientes de techo entrelazadas.",
   "room_workspace_measure_partition_opening_available": "Se puede añadir la abertura.",
   "room_workspace_measure_partition_opening_blocked_no_active_surface": "Selecciona primero una superficie de tabique.",
   "room_workspace_measure_partition_opening_blocked_not_wall": "Aquí las aberturas solo se pueden crear en superficies de pared.",
