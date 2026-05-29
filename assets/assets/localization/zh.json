@@ -672,6 +672,7 @@
   "room_three_d_gpu_material_quality_pbr_1024": "PBR 1024",
   "room_three_d_gpu_material_quality_pbr_2048": "PBR 2048",
   "room_three_d_gpu_material_quality_pbr_4096": "PBR 4K 显示",
+  "room_three_d_gpu_quality_limited_by_memory": "设备内存限制了质量",
   "room_three_d_gpu_material_debug": "材质调试",
   "room_three_d_gpu_material_debug_final": "最终",
   "room_three_d_gpu_material_debug_base_color": "BaseColor",
