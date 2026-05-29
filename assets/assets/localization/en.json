@@ -673,7 +673,7 @@
   "room_three_d_gpu_material_quality_pbr": "PBR",
   "room_three_d_gpu_material_quality_pbr_1024": "PBR 1024",
   "room_three_d_gpu_material_quality_pbr_2048": "PBR 2048",
-  "room_three_d_gpu_material_quality_pbr_4096": "PBR 4K",
+  "room_three_d_gpu_material_quality_pbr_4096": "PBR 4K Display",
   "room_three_d_gpu_material_debug": "Material debug",
   "room_three_d_gpu_material_debug_final": "Final",
   "room_three_d_gpu_material_debug_base_color": "BaseColor",
