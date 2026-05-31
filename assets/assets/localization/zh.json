@@ -751,6 +751,7 @@
   "room_workspace_ar_floor_imported": "AR 地面已导入。",
   "room_workspace_ar_floor_already_exists": "已存在一个地面。",
   "room_workspace_ar_scene_visualize": "在 AR 中查看房间",
+  "room_workspace_ar_visualization": "放置 AR 房间",
   "room_workspace_ar_scene_not_supported": "此设备不支持 AR 房间可视化。",
   "room_workspace_ar_scene_unavailable": "AR 房间可视化当前不可用。",
   "room_workspace_ar_scene_started": "AR 房间放置已开始。",

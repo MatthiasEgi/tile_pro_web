@@ -753,6 +753,7 @@
   "room_workspace_ar_floor_imported": "AR floor imported.",
   "room_workspace_ar_floor_already_exists": "A floor already exists.",
   "room_workspace_ar_scene_visualize": "View room in AR",
+  "room_workspace_ar_visualization": "Place AR room",
   "room_workspace_ar_scene_not_supported": "AR room visualization is not supported on this device.",
   "room_workspace_ar_scene_unavailable": "AR room visualization is currently unavailable.",
   "room_workspace_ar_scene_started": "AR room placement started.",
