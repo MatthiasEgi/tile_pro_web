@@ -767,6 +767,7 @@
   "room_workspace_ar_placement_mode_two_points": "2 points",
   "room_workspace_ar_reference_point_a": "Point A",
   "room_workspace_ar_reference_point_b": "Point B",
+  "room_workspace_ar_reference_point_option": "Point {label}",
   "room_workspace_ar_reference_point_corner": "Angle {index}",
   "room_workspace_ar_start": "Démarrer RA",
   "room_workspace_ar_scene_select_floor_reference": "Sélectionnez d'abord le sol comme surface de référence RA.",
