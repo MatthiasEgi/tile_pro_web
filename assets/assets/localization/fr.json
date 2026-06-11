@@ -759,6 +759,7 @@
   "room_workspace_ar_room_capture_coaching_move_away_from_wall": "Éloignez-vous du mur.",
   "room_workspace_ar_room_capture_coaching_slow_down": "Déplacez-vous plus lentement.",
   "room_workspace_ar_room_capture_coaching_low_texture": "Détection faible. Scannez une surface texturée.",
+  "room_workspace_ar_room_capture_coaching_move_device_slowly": "Déplacez lentement l'appareil dans la pièce pour capturer les murs.",
   "room_workspace_ar_room_capture_status_waiting_preview": "Connexion de l'aperçu caméra.",
   "room_workspace_ar_room_capture_status_ready": "Prêt pour le scan de pièce.",
   "room_workspace_ar_room_capture_complete_scan": "Terminer le scan",

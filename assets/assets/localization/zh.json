@@ -759,6 +759,7 @@
   "room_workspace_ar_room_capture_coaching_move_away_from_wall": "远离墙面一些。",
   "room_workspace_ar_room_capture_coaching_slow_down": "移动慢一点。",
   "room_workspace_ar_room_capture_coaching_low_texture": "识别较差。扫描有纹理的表面。",
+  "room_workspace_ar_room_capture_coaching_move_device_slowly": "缓慢移动设备环视房间，以捕捉墙面。",
   "room_workspace_ar_room_capture_status_waiting_preview": "正在连接相机预览。",
   "room_workspace_ar_room_capture_status_ready": "已准备好房间扫描。",
   "room_workspace_ar_room_capture_complete_scan": "完成扫描",

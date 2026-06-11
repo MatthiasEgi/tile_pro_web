@@ -761,6 +761,7 @@
   "room_workspace_ar_room_capture_coaching_move_away_from_wall": "Weiter von der Wand weggehen.",
   "room_workspace_ar_room_capture_coaching_slow_down": "Langsamer bewegen.",
   "room_workspace_ar_room_capture_coaching_low_texture": "Schlechte Erkennung. Strukturierte Fläche scannen.",
+  "room_workspace_ar_room_capture_coaching_move_device_slowly": "Gerät langsam durch den Raum bewegen, um die Wände zu erfassen.",
   "room_workspace_ar_room_capture_status_waiting_preview": "Kameravorschau wird verbunden.",
   "room_workspace_ar_room_capture_status_ready": "Bereit für den Raumscan.",
   "room_workspace_ar_room_capture_complete_scan": "Scan abschließen",
