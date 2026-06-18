@@ -518,7 +518,6 @@
   "material_workspace_laying_module": "Module",
   "material_workspace_laying_quality_color": "Couleur",
   "material_workspace_laying_quality_texture": "Texture",
-  "material_workspace_laying_quality_pbr": "PBR",
   "material_workspace_laying_preview_badge": "Pseudo 3D",
   "material_workspace_field_angle": "Angle",
   "material_workspace_field_offset": "Décalage",
