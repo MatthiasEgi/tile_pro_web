@@ -518,6 +518,8 @@
   "material_workspace_laying_module": "Modul",
   "material_workspace_laying_quality_color": "Farbe",
   "material_workspace_laying_quality_texture": "Textur",
+  "material_workspace_laying_group_general": "Allgemein",
+  "material_workspace_laying_group_family": "Verband-Familie",
   "material_workspace_laying_preview_badge": "Pseudo 3D",
   "material_workspace_field_angle": "Winkel",
   "material_workspace_field_offset": "Versatz",

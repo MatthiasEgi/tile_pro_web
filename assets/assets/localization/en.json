@@ -518,6 +518,8 @@
   "material_workspace_laying_module": "Module",
   "material_workspace_laying_quality_color": "Color",
   "material_workspace_laying_quality_texture": "Texture",
+  "material_workspace_laying_group_general": "General",
+  "material_workspace_laying_group_family": "Pattern family",
   "material_workspace_laying_preview_badge": "Pseudo 3D",
   "material_workspace_field_angle": "Angle",
   "material_workspace_field_offset": "Offset",
