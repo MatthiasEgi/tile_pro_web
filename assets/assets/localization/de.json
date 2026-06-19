@@ -222,6 +222,8 @@
   "material_workspace_tiles_tab": "Fliesen",
   "material_workspace_laying_presets_tab": "Verbände",
   "room_material_laying_tab": "Verband",
+  "room_material_laying_joint_color": "Fugenfarbe",
+  "room_material_laying_joint_color_default": "Standard",
   "material_workspace_material_editor_title": "Material Editor",
   "material_workspace_tile_editor_title": "Einzelfliesen Editor",
   "material_workspace_laying_preset_editor_title": "Verband Editor",

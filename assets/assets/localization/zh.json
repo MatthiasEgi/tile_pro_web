@@ -222,6 +222,8 @@
   "material_workspace_tiles_tab": "瓷砖",
   "material_workspace_laying_presets_tab": "铺贴预设",
   "room_material_laying_tab": "铺贴",
+  "room_material_laying_joint_color": "填缝颜色",
+  "room_material_laying_joint_color_default": "默认",
   "material_workspace_material_editor_title": "材料编辑器",
   "material_workspace_tile_editor_title": "单块瓷砖编辑器",
   "material_workspace_laying_preset_editor_title": "铺贴预设编辑器",

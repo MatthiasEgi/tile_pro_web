@@ -222,6 +222,8 @@
   "material_workspace_tiles_tab": "Tiles",
   "material_workspace_laying_presets_tab": "Laying Presets",
   "room_material_laying_tab": "Bond",
+  "room_material_laying_joint_color": "Joint color",
+  "room_material_laying_joint_color_default": "Default",
   "material_workspace_material_editor_title": "Material Editor",
   "material_workspace_tile_editor_title": "Single Tile Editor",
   "material_workspace_laying_preset_editor_title": "Laying Preset Editor",
