@@ -400,6 +400,7 @@
   "material_workspace_category_wood": "Holz",
   "material_workspace_category_concrete": "Beton",
   "material_workspace_category_metal": "Metall",
+  "material_workspace_category_other": "Sonstiges",
   "material_workspace_family_basic": "Basis",
   "material_workspace_family_matte": "Matt",
   "material_workspace_family_structured": "Strukturiert",

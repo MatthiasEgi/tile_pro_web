@@ -400,6 +400,7 @@
   "material_workspace_category_wood": "木材",
   "material_workspace_category_concrete": "混凝土",
   "material_workspace_category_metal": "金属",
+  "material_workspace_category_other": "其他",
   "material_workspace_family_basic": "基础",
   "material_workspace_family_matte": "哑光",
   "material_workspace_family_structured": "纹理",
