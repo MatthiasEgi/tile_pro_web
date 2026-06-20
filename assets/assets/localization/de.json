@@ -550,6 +550,8 @@
   "material_workspace_field_angle": "Winkel",
   "material_workspace_laying_diagonal": "Diagonal",
   "material_workspace_laying_diagonal_hint": "Diagonal nur bei quadratischen Fliesen",
+  "material_workspace_laying_texture_variation": "Texturvariation",
+  "material_workspace_laying_texture_variation_hint": "Gleiche Fliesen variieren über die Fläche, statt sich identisch zu wiederholen",
   "material_workspace_field_offset": "Versatz",
   "material_workspace_field_cut_optimization": "Schnittoptimierung",
   "material_workspace_slot_tile_material": "Projektmaterial aus Katalog auswählen",

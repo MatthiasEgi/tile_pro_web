@@ -550,6 +550,8 @@
   "material_workspace_field_angle": "Angle",
   "material_workspace_laying_diagonal": "Diagonal",
   "material_workspace_laying_diagonal_hint": "Diagonal only for square tiles",
+  "material_workspace_laying_texture_variation": "Texture variation",
+  "material_workspace_laying_texture_variation_hint": "Same tiles vary across the surface instead of repeating identically",
   "material_workspace_field_offset": "Offset",
   "material_workspace_field_cut_optimization": "Cut Optimization",
   "material_workspace_slot_tile_material": "Select Project Material from Catalog",

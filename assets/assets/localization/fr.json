@@ -550,6 +550,8 @@
   "material_workspace_field_angle": "Angle",
   "material_workspace_laying_diagonal": "Diagonale",
   "material_workspace_laying_diagonal_hint": "Diagonale uniquement pour carreaux carrés",
+  "material_workspace_laying_texture_variation": "Variation de texture",
+  "material_workspace_laying_texture_variation_hint": "Les carreaux identiques varient sur la surface au lieu de se répéter à l'identique",
   "material_workspace_field_offset": "Décalage",
   "material_workspace_field_cut_optimization": "Optimisation des coupes",
   "material_workspace_slot_tile_material": "Sélectionner un matériau de projet du catalogue",
