@@ -1015,6 +1015,8 @@
   "room_workspace_measure_roof_slope_blocked_source_floor_missing": "这面墙的来源地面缺失。",
   "room_workspace_measure_roof_slope_blocked_source_segment_missing": "这面墙的来源线段缺失。",
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "这面墙的来源地面不再可用。",
+  "room_workspace_measure_roof_slope_blocked_arc_reference_invalid": "此弧形墙没有稳定的弧形（例如环形或弦长过短）。请先修正墙体几何，再创建屋顶斜面。",
+  "room_workspace_measure_roof_slope_blocked_floor_split": "无法在此包含相邻表面，因为屋顶条带会将平面图分割成独立区域。",
   "room_workspace_measure_roof_slope_blocked_constraint_unavailable": "无法为这面墙计算有效的屋顶斜面。",
   "room_workspace_measure_roof_slope_blocked_minimum_angle_too_high": "屋顶斜面深度不足，所需最小角度过陡。",
   "room_workspace_measure_roof_slope_auto_adjusted_interlocking": "其他相互咬合的屋顶斜面已自动调整。",

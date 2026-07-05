@@ -1017,6 +1017,8 @@
   "room_workspace_measure_roof_slope_blocked_source_floor_missing": "The source floor for this wall is missing.",
   "room_workspace_measure_roof_slope_blocked_source_segment_missing": "The source segment for this wall is missing.",
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "The source floor for this wall is no longer available.",
+  "room_workspace_measure_roof_slope_blocked_arc_reference_invalid": "This curved wall has no stable arc shape (e.g. a loop or a too short chord). Fix the wall geometry before creating a roof slope.",
+  "room_workspace_measure_roof_slope_blocked_floor_split": "Neighboring surfaces cannot be included here because the roof strip would split the floor plan into separate regions.",
   "room_workspace_measure_roof_slope_blocked_constraint_unavailable": "A valid roof slope cannot be calculated for this wall.",
   "room_workspace_measure_roof_slope_blocked_minimum_angle_too_high": "There is not enough depth for the roof slope. The required minimum angle would be too steep.",
   "room_workspace_measure_roof_slope_auto_adjusted_interlocking": "Other interlocking roof slopes were adjusted automatically.",

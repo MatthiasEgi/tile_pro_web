@@ -1015,6 +1015,8 @@
   "room_workspace_measure_roof_slope_blocked_source_floor_missing": "La surface de base de ce mur est manquante.",
   "room_workspace_measure_roof_slope_blocked_source_segment_missing": "Le segment source de ce mur est manquant.",
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "La surface de base de ce mur n'est plus disponible.",
+  "room_workspace_measure_roof_slope_blocked_arc_reference_invalid": "Ce mur courbe n'a pas de forme d'arc stable (p. ex. une boucle ou une corde trop courte). Corrigez la géométrie du mur avant de créer une pente de toit.",
+  "room_workspace_measure_roof_slope_blocked_floor_split": "Les surfaces voisines ne peuvent pas être incluses ici, car la bande de toit diviserait le plan du sol en régions séparées.",
   "room_workspace_measure_roof_slope_blocked_constraint_unavailable": "Impossible de calculer une pente de toit valide pour ce mur.",
   "room_workspace_measure_roof_slope_blocked_minimum_angle_too_high": "La profondeur disponible est insuffisante. L'angle minimal requis serait trop raide.",
   "room_workspace_measure_roof_slope_auto_adjusted_interlocking": "Les autres pentes de toit imbriquées ont été ajustées automatiquement.",

@@ -970,6 +970,8 @@
   "room_workspace_measure_roof_slope_blocked_source_floor_missing": "Falta la superficie base de esta pared.",
   "room_workspace_measure_roof_slope_blocked_source_segment_missing": "Falta el segmento de origen de esta pared.",
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "La superficie base de esta pared ya no está disponible.",
+  "room_workspace_measure_roof_slope_blocked_arc_reference_invalid": "Esta pared curva no tiene una forma de arco estable (p. ej., un bucle o una cuerda demasiado corta). Corrige la geometría de la pared antes de crear una pendiente de techo.",
+  "room_workspace_measure_roof_slope_blocked_floor_split": "Las superficies vecinas no se pueden incluir aquí porque la franja del techo dividiría la planta en regiones separadas.",
   "room_workspace_measure_roof_slope_blocked_constraint_unavailable": "No se puede calcular una pendiente de techo válida para esta pared.",
   "room_workspace_measure_roof_slope_blocked_minimum_angle_too_high": "No hay suficiente profundidad para la pendiente de techo. El ángulo mínimo requerido sería demasiado pronunciado.",
   "room_workspace_measure_roof_slope_auto_adjusted_interlocking": "Se ajustaron automáticamente otras pendientes de techo entrelazadas.",
