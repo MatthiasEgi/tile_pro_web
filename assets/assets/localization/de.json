@@ -1017,6 +1017,8 @@
   "room_workspace_measure_roof_slope_blocked_source_floor_missing": "Die Ausgangsfläche dieser Wand fehlt.",
   "room_workspace_measure_roof_slope_blocked_source_segment_missing": "Das Ausgangssegment dieser Wand fehlt.",
   "room_workspace_measure_roof_slope_blocked_source_floor_unavailable": "Die Ausgangsfläche dieser Wand ist nicht mehr verfügbar.",
+  "room_workspace_measure_roof_slope_min_knee_wall_arc": "Mindest-Kniestock durch Bogenform",
+  "room_workspace_measure_roof_slope_value_auto_adjusted": "Eingabe wurde automatisch auf den zulässigen Mindestwert angehoben.",
   "room_workspace_measure_roof_slope_blocked_arc_reference_invalid": "Diese Bogenwand hat keine stabile Bogenform (z. B. Schleife oder zu kurze Sehne). Korrigiere die Wandgeometrie, bevor du eine Dachschräge erstellst.",
   "room_workspace_measure_roof_slope_blocked_floor_split": "Nachbarflächen können hier nicht einbezogen werden, weil der Dachstreifen den Grundriss in getrennte Bereiche teilen würde.",
   "room_workspace_measure_roof_slope_blocked_constraint_unavailable": "Für diese Wand kann keine gültige Dachschräge berechnet werden.",
