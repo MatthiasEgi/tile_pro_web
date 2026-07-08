@@ -57374,7 +57374,7 @@ A.fP(a,null,!0,!0)},
 cLH(a){return new A.bde(a)},
 cm7(a,b,c){var s,r,q,p,o,n,m,l=A.bdd(a),k=A.bu(a)
 if(l==null||k==null||!A.hQ(a,A.dp(a)).r)return
-s=B.d.N(b,1,1e5)
+s=B.d.N(b,50,1e5)
 if(Math.abs(s-l.r)<=0.01)return
 r=a.y
 q=r.y
