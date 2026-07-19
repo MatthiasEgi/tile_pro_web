@@ -976,6 +976,7 @@
   "room_workspace_measure_delete_roof_slope": "Dachschräge löschen",
   "room_workspace_measure_three_d_minimap_show": "3D-Minimap einblenden",
   "room_workspace_measure_three_d_minimap_hide": "3D-Minimap ausblenden",
+  "room_material_placement_edit_hint": "Ziehen zum Verschieben · mit zwei Fingern drehen",
   "room_workspace_measure_area_edit_mode_overlay": "Edit-Mode",
   "room_workspace_measure_area_add": "Rechteckiger Bereich",
   "room_workspace_measure_add_area_title": "Element hinzufügen",

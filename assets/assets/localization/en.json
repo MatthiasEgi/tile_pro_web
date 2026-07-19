@@ -976,6 +976,7 @@
   "room_workspace_measure_delete_roof_slope": "Delete Roof Slope",
   "room_workspace_measure_three_d_minimap_show": "Show 3D Minimap",
   "room_workspace_measure_three_d_minimap_hide": "Hide 3D Minimap",
+  "room_material_placement_edit_hint": "Drag to move · rotate with two fingers",
   "room_workspace_measure_area_edit_mode_overlay": "Edit Mode",
   "room_workspace_measure_area_add": "Rectangular area",
   "room_workspace_measure_add_area_title": "Add element",

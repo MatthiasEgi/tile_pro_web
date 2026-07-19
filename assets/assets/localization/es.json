@@ -929,6 +929,7 @@
   "room_workspace_measure_delete_roof_slope": "Eliminar techo inclinado",
   "room_workspace_measure_three_d_minimap_show": "Mostrar minimapa 3D",
   "room_workspace_measure_three_d_minimap_hide": "Ocultar minimapa 3D",
+  "room_material_placement_edit_hint": "Arrastra para mover · gira con dos dedos",
   "room_workspace_measure_area_edit_mode_overlay": "Modo edición",
   "room_workspace_measure_area_add": "Área rectangular",
   "room_workspace_measure_add_area_title": "Añadir elemento",
