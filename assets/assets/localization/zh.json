@@ -246,7 +246,7 @@
   "room_material_laying_cut_list_title": "裁切清单",
   "room_material_laying_cut_metrics_purchase_tiles": "采购砖数",
   "room_material_laying_cut_metrics_full_tiles": "整砖",
-  "room_material_laying_cut_metrics_cut_source_tiles": "切割用原砖",
+  "room_material_laying_cut_metrics_cut_source_tiles": "用于切割的整砖",
   "room_material_laying_cut_metrics_cut_pieces": "切割件",
   "room_material_laying_cut_form_diagonal": "斜切",
   "room_material_laying_cut_step": "步距",
