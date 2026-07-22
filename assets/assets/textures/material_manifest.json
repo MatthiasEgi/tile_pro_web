@@ -2599,6 +2599,636 @@
           "emissive": "assets/textures/wood/wood15/pbr/2048x2048/wood15_2048_emissive.png"
         }
       }
+    },
+    {
+      "id": "wood.wood16",
+      "name": "Holz 16",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#674426",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood16/baked/wood16_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood16/baked/wood16_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_ao.png",
+          "metallic": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_metallic.png",
+          "height": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_height.png",
+          "opacity": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_ao.png",
+          "metallic": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_metallic.png",
+          "height": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_height.png",
+          "opacity": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood17",
+      "name": "Holz 17",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#C2B588",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood17/baked/wood17_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood17/baked/wood17_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_ao.png",
+          "metallic": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_metallic.png",
+          "height": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_height.png",
+          "opacity": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_ao.png",
+          "metallic": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_metallic.png",
+          "height": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_height.png",
+          "opacity": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood18",
+      "name": "Holz 18",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#734423",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood18/baked/wood18_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood18/baked/wood18_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood18/pbr/1024x1024/wood18_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood18/pbr/1024x1024/wood18_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood18/pbr/1024x1024/wood18_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood18/pbr/1024x1024/wood18_1024_ao.png",
+          "metallic": "assets/textures/wood/wood18/pbr/1024x1024/wood18_1024_metallic.png",
+          "height": "assets/textures/wood/wood18/pbr/1024x1024/wood18_1024_height.png",
+          "opacity": "assets/textures/wood/wood18/pbr/1024x1024/wood18_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood18/pbr/1024x1024/wood18_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood18/pbr/2048x2048/wood18_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood18/pbr/2048x2048/wood18_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood18/pbr/2048x2048/wood18_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood18/pbr/2048x2048/wood18_2048_ao.png",
+          "metallic": "assets/textures/wood/wood18/pbr/2048x2048/wood18_2048_metallic.png",
+          "height": "assets/textures/wood/wood18/pbr/2048x2048/wood18_2048_height.png",
+          "opacity": "assets/textures/wood/wood18/pbr/2048x2048/wood18_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood18/pbr/2048x2048/wood18_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood19",
+      "name": "Holz 19",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#91653E",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood19/baked/wood19_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood19/baked/wood19_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood19/pbr/1024x1024/wood19_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood19/pbr/1024x1024/wood19_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood19/pbr/1024x1024/wood19_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood19/pbr/1024x1024/wood19_1024_ao.png",
+          "metallic": "assets/textures/wood/wood19/pbr/1024x1024/wood19_1024_metallic.png",
+          "height": "assets/textures/wood/wood19/pbr/1024x1024/wood19_1024_height.png",
+          "opacity": "assets/textures/wood/wood19/pbr/1024x1024/wood19_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood19/pbr/1024x1024/wood19_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood19/pbr/2048x2048/wood19_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood19/pbr/2048x2048/wood19_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood19/pbr/2048x2048/wood19_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood19/pbr/2048x2048/wood19_2048_ao.png",
+          "metallic": "assets/textures/wood/wood19/pbr/2048x2048/wood19_2048_metallic.png",
+          "height": "assets/textures/wood/wood19/pbr/2048x2048/wood19_2048_height.png",
+          "opacity": "assets/textures/wood/wood19/pbr/2048x2048/wood19_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood19/pbr/2048x2048/wood19_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood20",
+      "name": "Holz 20",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#B4A594",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood20/baked/wood20_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood20/baked/wood20_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood20/pbr/1024x1024/wood20_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood20/pbr/1024x1024/wood20_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood20/pbr/1024x1024/wood20_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood20/pbr/1024x1024/wood20_1024_ao.png",
+          "metallic": "assets/textures/wood/wood20/pbr/1024x1024/wood20_1024_metallic.png",
+          "height": "assets/textures/wood/wood20/pbr/1024x1024/wood20_1024_height.png",
+          "opacity": "assets/textures/wood/wood20/pbr/1024x1024/wood20_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood20/pbr/1024x1024/wood20_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood20/pbr/2048x2048/wood20_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood20/pbr/2048x2048/wood20_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood20/pbr/2048x2048/wood20_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood20/pbr/2048x2048/wood20_2048_ao.png",
+          "metallic": "assets/textures/wood/wood20/pbr/2048x2048/wood20_2048_metallic.png",
+          "height": "assets/textures/wood/wood20/pbr/2048x2048/wood20_2048_height.png",
+          "opacity": "assets/textures/wood/wood20/pbr/2048x2048/wood20_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood20/pbr/2048x2048/wood20_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood21",
+      "name": "Holz 21",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#37281C",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood21/baked/wood21_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood21/baked/wood21_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood21/pbr/1024x1024/wood21_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood21/pbr/1024x1024/wood21_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood21/pbr/1024x1024/wood21_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood21/pbr/1024x1024/wood21_1024_ao.png",
+          "metallic": "assets/textures/wood/wood21/pbr/1024x1024/wood21_1024_metallic.png",
+          "height": "assets/textures/wood/wood21/pbr/1024x1024/wood21_1024_height.png",
+          "opacity": "assets/textures/wood/wood21/pbr/1024x1024/wood21_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood21/pbr/1024x1024/wood21_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood21/pbr/2048x2048/wood21_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood21/pbr/2048x2048/wood21_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood21/pbr/2048x2048/wood21_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood21/pbr/2048x2048/wood21_2048_ao.png",
+          "metallic": "assets/textures/wood/wood21/pbr/2048x2048/wood21_2048_metallic.png",
+          "height": "assets/textures/wood/wood21/pbr/2048x2048/wood21_2048_height.png",
+          "opacity": "assets/textures/wood/wood21/pbr/2048x2048/wood21_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood21/pbr/2048x2048/wood21_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood22",
+      "name": "Holz 22",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#C19348",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood22/baked/wood22_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood22/baked/wood22_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood22/pbr/1024x1024/wood22_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood22/pbr/1024x1024/wood22_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood22/pbr/1024x1024/wood22_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood22/pbr/1024x1024/wood22_1024_ao.png",
+          "metallic": "assets/textures/wood/wood22/pbr/1024x1024/wood22_1024_metallic.png",
+          "height": "assets/textures/wood/wood22/pbr/1024x1024/wood22_1024_height.png",
+          "opacity": "assets/textures/wood/wood22/pbr/1024x1024/wood22_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood22/pbr/1024x1024/wood22_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood22/pbr/2048x2048/wood22_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood22/pbr/2048x2048/wood22_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood22/pbr/2048x2048/wood22_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood22/pbr/2048x2048/wood22_2048_ao.png",
+          "metallic": "assets/textures/wood/wood22/pbr/2048x2048/wood22_2048_metallic.png",
+          "height": "assets/textures/wood/wood22/pbr/2048x2048/wood22_2048_height.png",
+          "opacity": "assets/textures/wood/wood22/pbr/2048x2048/wood22_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood22/pbr/2048x2048/wood22_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood23",
+      "name": "Holz 23",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#BDAC89",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood23/baked/wood23_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood23/baked/wood23_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood23/pbr/1024x1024/wood23_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood23/pbr/1024x1024/wood23_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood23/pbr/1024x1024/wood23_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood23/pbr/1024x1024/wood23_1024_ao.png",
+          "metallic": "assets/textures/wood/wood23/pbr/1024x1024/wood23_1024_metallic.png",
+          "height": "assets/textures/wood/wood23/pbr/1024x1024/wood23_1024_height.png",
+          "opacity": "assets/textures/wood/wood23/pbr/1024x1024/wood23_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood23/pbr/1024x1024/wood23_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood23/pbr/2048x2048/wood23_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood23/pbr/2048x2048/wood23_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood23/pbr/2048x2048/wood23_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood23/pbr/2048x2048/wood23_2048_ao.png",
+          "metallic": "assets/textures/wood/wood23/pbr/2048x2048/wood23_2048_metallic.png",
+          "height": "assets/textures/wood/wood23/pbr/2048x2048/wood23_2048_height.png",
+          "opacity": "assets/textures/wood/wood23/pbr/2048x2048/wood23_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood23/pbr/2048x2048/wood23_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood24",
+      "name": "Holz 24",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#652009",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood24/baked/wood24_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood24/baked/wood24_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood24/pbr/1024x1024/wood24_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood24/pbr/1024x1024/wood24_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood24/pbr/1024x1024/wood24_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood24/pbr/1024x1024/wood24_1024_ao.png",
+          "metallic": "assets/textures/wood/wood24/pbr/1024x1024/wood24_1024_metallic.png",
+          "height": "assets/textures/wood/wood24/pbr/1024x1024/wood24_1024_height.png",
+          "opacity": "assets/textures/wood/wood24/pbr/1024x1024/wood24_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood24/pbr/1024x1024/wood24_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood24/pbr/2048x2048/wood24_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood24/pbr/2048x2048/wood24_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood24/pbr/2048x2048/wood24_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood24/pbr/2048x2048/wood24_2048_ao.png",
+          "metallic": "assets/textures/wood/wood24/pbr/2048x2048/wood24_2048_metallic.png",
+          "height": "assets/textures/wood/wood24/pbr/2048x2048/wood24_2048_height.png",
+          "opacity": "assets/textures/wood/wood24/pbr/2048x2048/wood24_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood24/pbr/2048x2048/wood24_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood25",
+      "name": "Holz 25",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#D0BA5F",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood25/baked/wood25_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood25/baked/wood25_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood25/pbr/1024x1024/wood25_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood25/pbr/1024x1024/wood25_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood25/pbr/1024x1024/wood25_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood25/pbr/1024x1024/wood25_1024_ao.png",
+          "metallic": "assets/textures/wood/wood25/pbr/1024x1024/wood25_1024_metallic.png",
+          "height": "assets/textures/wood/wood25/pbr/1024x1024/wood25_1024_height.png",
+          "opacity": "assets/textures/wood/wood25/pbr/1024x1024/wood25_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood25/pbr/1024x1024/wood25_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood25/pbr/2048x2048/wood25_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood25/pbr/2048x2048/wood25_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood25/pbr/2048x2048/wood25_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood25/pbr/2048x2048/wood25_2048_ao.png",
+          "metallic": "assets/textures/wood/wood25/pbr/2048x2048/wood25_2048_metallic.png",
+          "height": "assets/textures/wood/wood25/pbr/2048x2048/wood25_2048_height.png",
+          "opacity": "assets/textures/wood/wood25/pbr/2048x2048/wood25_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood25/pbr/2048x2048/wood25_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood26",
+      "name": "Holz 26",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#C07F18",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood26/baked/wood26_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood26/baked/wood26_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood26/pbr/1024x1024/wood26_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood26/pbr/1024x1024/wood26_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood26/pbr/1024x1024/wood26_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood26/pbr/1024x1024/wood26_1024_ao.png",
+          "metallic": "assets/textures/wood/wood26/pbr/1024x1024/wood26_1024_metallic.png",
+          "height": "assets/textures/wood/wood26/pbr/1024x1024/wood26_1024_height.png",
+          "opacity": "assets/textures/wood/wood26/pbr/1024x1024/wood26_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood26/pbr/1024x1024/wood26_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood26/pbr/2048x2048/wood26_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood26/pbr/2048x2048/wood26_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood26/pbr/2048x2048/wood26_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood26/pbr/2048x2048/wood26_2048_ao.png",
+          "metallic": "assets/textures/wood/wood26/pbr/2048x2048/wood26_2048_metallic.png",
+          "height": "assets/textures/wood/wood26/pbr/2048x2048/wood26_2048_height.png",
+          "opacity": "assets/textures/wood/wood26/pbr/2048x2048/wood26_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood26/pbr/2048x2048/wood26_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood27",
+      "name": "Holz 27",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#7C7568",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood27/baked/wood27_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood27/baked/wood27_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood27/pbr/1024x1024/wood27_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood27/pbr/1024x1024/wood27_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood27/pbr/1024x1024/wood27_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood27/pbr/1024x1024/wood27_1024_ao.png",
+          "metallic": "assets/textures/wood/wood27/pbr/1024x1024/wood27_1024_metallic.png",
+          "height": "assets/textures/wood/wood27/pbr/1024x1024/wood27_1024_height.png",
+          "opacity": "assets/textures/wood/wood27/pbr/1024x1024/wood27_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood27/pbr/1024x1024/wood27_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood27/pbr/2048x2048/wood27_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood27/pbr/2048x2048/wood27_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood27/pbr/2048x2048/wood27_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood27/pbr/2048x2048/wood27_2048_ao.png",
+          "metallic": "assets/textures/wood/wood27/pbr/2048x2048/wood27_2048_metallic.png",
+          "height": "assets/textures/wood/wood27/pbr/2048x2048/wood27_2048_height.png",
+          "opacity": "assets/textures/wood/wood27/pbr/2048x2048/wood27_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood27/pbr/2048x2048/wood27_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood28",
+      "name": "Holz 28",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#B99779",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood28/baked/wood28_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood28/baked/wood28_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood28/pbr/1024x1024/wood28_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood28/pbr/1024x1024/wood28_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood28/pbr/1024x1024/wood28_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood28/pbr/1024x1024/wood28_1024_ao.png",
+          "metallic": "assets/textures/wood/wood28/pbr/1024x1024/wood28_1024_metallic.png",
+          "height": "assets/textures/wood/wood28/pbr/1024x1024/wood28_1024_height.png",
+          "opacity": "assets/textures/wood/wood28/pbr/1024x1024/wood28_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood28/pbr/1024x1024/wood28_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood28/pbr/2048x2048/wood28_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood28/pbr/2048x2048/wood28_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood28/pbr/2048x2048/wood28_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood28/pbr/2048x2048/wood28_2048_ao.png",
+          "metallic": "assets/textures/wood/wood28/pbr/2048x2048/wood28_2048_metallic.png",
+          "height": "assets/textures/wood/wood28/pbr/2048x2048/wood28_2048_height.png",
+          "opacity": "assets/textures/wood/wood28/pbr/2048x2048/wood28_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood28/pbr/2048x2048/wood28_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "wood.wood29",
+      "name": "Holz 29",
+      "category": "material_workspace_category_wood",
+      "family": "wood",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#9F602F",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood29/baked/wood29_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood29/baked/wood29_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/wood/wood29/pbr/1024x1024/wood29_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood29/pbr/1024x1024/wood29_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood29/pbr/1024x1024/wood29_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood29/pbr/1024x1024/wood29_1024_ao.png",
+          "metallic": "assets/textures/wood/wood29/pbr/1024x1024/wood29_1024_metallic.png",
+          "height": "assets/textures/wood/wood29/pbr/1024x1024/wood29_1024_height.png",
+          "opacity": "assets/textures/wood/wood29/pbr/1024x1024/wood29_1024_opacity.png",
+          "emissive": "assets/textures/wood/wood29/pbr/1024x1024/wood29_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/wood/wood29/pbr/2048x2048/wood29_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/wood/wood29/pbr/2048x2048/wood29_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/wood/wood29/pbr/2048x2048/wood29_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/wood/wood29/pbr/2048x2048/wood29_2048_ao.png",
+          "metallic": "assets/textures/wood/wood29/pbr/2048x2048/wood29_2048_metallic.png",
+          "height": "assets/textures/wood/wood29/pbr/2048x2048/wood29_2048_height.png",
+          "opacity": "assets/textures/wood/wood29/pbr/2048x2048/wood29_2048_opacity.png",
+          "emissive": "assets/textures/wood/wood29/pbr/2048x2048/wood29_2048_emissive.png"
+        }
+      }
     }
   ]
 }
