@@ -518,6 +518,8 @@
   "material_workspace_laying_wild_max_full_tiles_hint": "0 desactiva las piezas de cabeza. A partir de 1, el generador inserta la pieza definida tras esta cantidad de piezas enteras.",
   "material_workspace_laying_wild_head_piece_length": "Longitud de la pieza de cabeza",
   "material_workspace_laying_wild_head_piece_length_hint": "Solo se utiliza cuando el máximo de piezas enteras es superior a 0.",
+  "material_workspace_laying_wild_always_insert_head_piece": "Insertar la pieza de cabeza antes del corte de borde",
+  "material_workspace_laying_wild_always_insert_head_piece_hint": "Activado: siempre se inserta la pieza de cabeza prevista. Desactivado: se omite si no sigue otra pieza entera.",
   "material_workspace_laying_wild_force_restart_every_courses": "Reinicio cada x filas",
   "material_workspace_laying_wild_force_restart_every_courses_hint": "0 desactiva los reinicios forzados. Con x > 0, la fila posterior a cada grupo de x comienza con una pieza nueva en lugar de un sobrante.",
   "material_workspace_laying_wild_next_course_offcut_placement": "Sobrante en la siguiente fila",

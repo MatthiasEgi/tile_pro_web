@@ -601,6 +601,8 @@
   "material_workspace_laying_wild_max_full_tiles_hint": "0 disables header pieces. From 1 onward, the generator inserts the defined header piece after this many full tiles.",
   "material_workspace_laying_wild_head_piece_length": "Header piece length",
   "material_workspace_laying_wild_head_piece_length_hint": "Used only when the maximum number of full tiles is greater than 0.",
+  "material_workspace_laying_wild_always_insert_head_piece": "Insert header piece before edge cut",
+  "material_workspace_laying_wild_always_insert_head_piece_hint": "On: a due header piece is always inserted. Off: it is omitted when no further full tile follows.",
   "material_workspace_laying_wild_force_restart_every_courses": "Force restart every x courses",
   "material_workspace_laying_wild_force_restart_every_courses_hint": "0 disables forced restarts. For x > 0, the course after each group of x starts with a new tile instead of an offcut.",
   "material_workspace_laying_wild_next_course_offcut_placement": "Offcut in the next course",

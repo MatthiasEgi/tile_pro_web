@@ -601,6 +601,8 @@
   "material_workspace_laying_wild_max_full_tiles_hint": "0 表示禁用端头块；从 1 开始，生成器会在达到该整砖数量后插入指定端头块。",
   "material_workspace_laying_wild_head_piece_length": "端头块长度",
   "material_workspace_laying_wild_head_piece_length_hint": "仅在连续整砖最大数量大于 0 时使用。",
+  "material_workspace_laying_wild_always_insert_head_piece": "在边缘裁切前也插入端头块",
+  "material_workspace_laying_wild_always_insert_head_piece_hint": "开启：始终插入到期的端头块。关闭：若后面不再有整砖，则省略该端头块。",
   "material_workspace_laying_wild_force_restart_every_courses": "每 x 行强制重新开始",
   "material_workspace_laying_wild_force_restart_every_courses_hint": "0 表示禁用强制重新开始。x > 0 时，每铺完 x 行，下一行会使用新砖开始，而不复用余料。",
   "material_workspace_laying_wild_next_course_offcut_placement": "余料在下一行的位置",

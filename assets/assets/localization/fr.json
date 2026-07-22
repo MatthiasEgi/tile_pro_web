@@ -601,6 +601,8 @@
   "material_workspace_laying_wild_max_full_tiles_hint": "0 désactive les pièces de bout. À partir de 1, le générateur insère la pièce définie après ce nombre de carreaux entiers.",
   "material_workspace_laying_wild_head_piece_length": "Longueur de la pièce de bout",
   "material_workspace_laying_wild_head_piece_length_hint": "Utilisée uniquement lorsque le nombre maximal de carreaux entiers est supérieur à 0.",
+  "material_workspace_laying_wild_always_insert_head_piece": "Insérer la pièce de bout avant la coupe de rive",
+  "material_workspace_laying_wild_always_insert_head_piece_hint": "Activé : toute pièce de bout requise est insérée. Désactivé : elle est omise si aucun carreau entier ne suit.",
   "material_workspace_laying_wild_force_restart_every_courses": "Recommencer toutes les x rangées",
   "material_workspace_laying_wild_force_restart_every_courses_hint": "0 désactive les redémarrages forcés. Pour x > 0, la rangée suivant chaque groupe de x commence par un carreau neuf au lieu d’une chute.",
   "material_workspace_laying_wild_next_course_offcut_placement": "Chute dans la rangée suivante",

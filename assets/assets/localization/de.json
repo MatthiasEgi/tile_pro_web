@@ -601,6 +601,8 @@
   "material_workspace_laying_wild_max_full_tiles_hint": "0 deaktiviert Kopfstücke. Ab 1 setzt der Generator nach dieser Anzahl ganzer Fliesen das definierte Kopfstück ein.",
   "material_workspace_laying_wild_head_piece_length": "Kopfstücklänge",
   "material_workspace_laying_wild_head_piece_length_hint": "Wird nur verwendet, wenn die maximale Anzahl ganzer Fliesen größer als 0 ist.",
+  "material_workspace_laying_wild_always_insert_head_piece": "Kopfstück auch vor Randstück einsetzen",
+  "material_workspace_laying_wild_always_insert_head_piece_hint": "Aktiv: Ein fälliges Kopfstück wird immer eingesetzt. Inaktiv: Es entfällt, wenn danach keine weitere ganze Fliese mehr folgt.",
   "material_workspace_laying_wild_force_restart_every_courses": "Neuanfang alle x Bahnen",
   "material_workspace_laying_wild_force_restart_every_courses_hint": "0 deaktiviert den erzwungenen Neuanfang. Bei x > 0 beginnt nach jeweils x Bahnen die nächste Bahn ohne Reststück mit einer neuen Fliese.",
   "material_workspace_laying_wild_next_course_offcut_placement": "Reststück in der nächsten Bahn",
