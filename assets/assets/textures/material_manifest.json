@@ -2116,7 +2116,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#1D1C1B",
+      "previewColor": "#93624B",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wood/wood5/baked/wood5_1024_baked.png"
@@ -2161,7 +2161,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#93624B",
+      "previewColor": "#D5C1A5",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wood/wood6/baked/wood6_1024_baked.png"
@@ -2206,7 +2206,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#D5C1A5",
+      "previewColor": "#B67229",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wood/wood7/baked/wood7_1024_baked.png"
@@ -2251,7 +2251,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#B67229",
+      "previewColor": "#875B33",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wood/wood8/baked/wood8_1024_baked.png"
@@ -2296,7 +2296,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#875B33",
+      "previewColor": "#1A1A1A",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wood/wood9/baked/wood9_1024_baked.png"
@@ -2341,7 +2341,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#1A1A1A",
+      "previewColor": "#4B4038",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wood/wood10/baked/wood10_1024_baked.png"
@@ -2386,7 +2386,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#4B4038",
+      "previewColor": "#371007",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wood/wood11/baked/wood11_1024_baked.png"
@@ -2431,7 +2431,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#371007",
+      "previewColor": "#C09250",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wood/wood12/baked/wood12_1024_baked.png"
@@ -2476,7 +2476,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#C09250",
+      "previewColor": "#766050",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wood/wood13/baked/wood13_1024_baked.png"
@@ -2521,7 +2521,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#766050",
+      "previewColor": "#603F24",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wood/wood14/baked/wood14_1024_baked.png"
@@ -2566,7 +2566,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#603F24",
+      "previewColor": "#CFAA7E",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wood/wood15/baked/wood15_1024_baked.png"
@@ -2597,96 +2597,6 @@
           "height": "assets/textures/wood/wood15/pbr/2048x2048/wood15_2048_height.png",
           "opacity": "assets/textures/wood/wood15/pbr/2048x2048/wood15_2048_opacity.png",
           "emissive": "assets/textures/wood/wood15/pbr/2048x2048/wood15_2048_emissive.png"
-        }
-      }
-    },
-    {
-      "id": "wood.wood16",
-      "name": "Holz 16",
-      "category": "material_workspace_category_wood",
-      "family": "wood",
-      "type": "texture",
-      "seamless": true,
-      "defaultRepeatSizeCm": {
-        "width": 100,
-        "height": 100
-      },
-      "previewColor": "#74573D",
-      "maps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wood/wood16/baked/wood16_1024_baked.png"
-        }
-      },
-      "bakedMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wood/wood16/baked/wood16_1024_baked.png"
-        }
-      },
-      "pbrMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_basecolor.png",
-          "normalOpenGl": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_normal_OpenGL.png",
-          "roughness": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_ao.png",
-          "metallic": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_metallic.png",
-          "height": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_height.png",
-          "opacity": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_opacity.png",
-          "emissive": "assets/textures/wood/wood16/pbr/1024x1024/wood16_1024_emissive.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_basecolor.png",
-          "normalOpenGl": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_normal_OpenGL.png",
-          "roughness": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_ao.png",
-          "metallic": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_metallic.png",
-          "height": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_height.png",
-          "opacity": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_opacity.png",
-          "emissive": "assets/textures/wood/wood16/pbr/2048x2048/wood16_2048_emissive.png"
-        }
-      }
-    },
-    {
-      "id": "wood.wood17",
-      "name": "Holz 17",
-      "category": "material_workspace_category_wood",
-      "family": "wood",
-      "type": "texture",
-      "seamless": true,
-      "defaultRepeatSizeCm": {
-        "width": 100,
-        "height": 100
-      },
-      "previewColor": "#CFAA7E",
-      "maps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wood/wood17/baked/wood17_1024_baked.png"
-        }
-      },
-      "bakedMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wood/wood17/baked/wood17_1024_baked.png"
-        }
-      },
-      "pbrMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_basecolor.png",
-          "normalOpenGl": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_normal_OpenGL.png",
-          "roughness": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_ao.png",
-          "metallic": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_metallic.png",
-          "height": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_height.png",
-          "opacity": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_opacity.png",
-          "emissive": "assets/textures/wood/wood17/pbr/1024x1024/wood17_1024_emissive.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_basecolor.png",
-          "normalOpenGl": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_normal_OpenGL.png",
-          "roughness": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_ao.png",
-          "metallic": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_metallic.png",
-          "height": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_height.png",
-          "opacity": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_opacity.png",
-          "emissive": "assets/textures/wood/wood17/pbr/2048x2048/wood17_2048_emissive.png"
         }
       }
     }
