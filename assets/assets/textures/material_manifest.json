@@ -718,7 +718,7 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#D7C8C2",
+      "previewColor": "#D9CDBD",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wallpaper/wallpaper6/baked/wallpaper6_1024_2x2_seam_check.png"
@@ -757,7 +757,7 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#D9CDBD",
+      "previewColor": "#D1C7D8",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wallpaper/wallpaper7/baked/wallpaper7_1024_2x2_seam_check.png"
@@ -796,7 +796,7 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#C9D6CF",
+      "previewColor": "#D4D0C4",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wallpaper/wallpaper8/baked/wallpaper8_1024_2x2_seam_check.png"
@@ -835,15 +835,15 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#D1C7D8",
+      "previewColor": "#C9C2B5",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallpaper/wallpaper9/baked/wallpaper9_1024_2x2_seam_check.png"
+          "baseColor": "assets/textures/wallpaper/wallpaper9/baked/wallpaper9_1024_baked.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallpaper/wallpaper9/baked/wallpaper9_1024_2x2_seam_check.png"
+          "baseColor": "assets/textures/wallpaper/wallpaper9/baked/wallpaper9_1024_baked.png"
         }
       },
       "pbrMaps": {
@@ -874,15 +874,15 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#D4D0C4",
+      "previewColor": "#D3C8B8",
       "maps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallpaper/wallpaper10/baked/wallpaper10_1024_2x2_seam_check.png"
+          "baseColor": "assets/textures/wallpaper/wallpaper10/baked/wallpaper10_1024_baked.png"
         }
       },
       "bakedMaps": {
         "1024x1024": {
-          "baseColor": "assets/textures/wallpaper/wallpaper10/baked/wallpaper10_1024_2x2_seam_check.png"
+          "baseColor": "assets/textures/wallpaper/wallpaper10/baked/wallpaper10_1024_baked.png"
         }
       },
       "pbrMaps": {
@@ -913,7 +913,7 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#C9C2B5",
+      "previewColor": "#C8BBAA",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wallpaper/wallpaper11/baked/wallpaper11_1024_baked.png"
@@ -952,7 +952,7 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#D3C8B8",
+      "previewColor": "#D6D0C5",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wallpaper/wallpaper12/baked/wallpaper12_1024_baked.png"
@@ -991,7 +991,7 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#C8BBAA",
+      "previewColor": "#C5C9C0",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wallpaper/wallpaper13/baked/wallpaper13_1024_baked.png"
@@ -1030,7 +1030,7 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#D6D0C5",
+      "previewColor": "#D0C6BE",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wallpaper/wallpaper14/baked/wallpaper14_1024_baked.png"
@@ -1069,7 +1069,7 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#C5C9C0",
+      "previewColor": "#C7D0C8",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wallpaper/wallpaper15/baked/wallpaper15_1024_baked.png"
@@ -1108,7 +1108,7 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#D0C6BE",
+      "previewColor": "#D5CEC0",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wallpaper/wallpaper16/baked/wallpaper16_1024_baked.png"
@@ -1147,7 +1147,7 @@
         "width": 100.0,
         "height": 100.0
       },
-      "previewColor": "#C7D0C8",
+      "previewColor": "#C2C0BA",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/wallpaper/wallpaper17/baked/wallpaper17_1024_baked.png"
@@ -1172,84 +1172,6 @@
           "roughness": "assets/textures/wallpaper/wallpaper17/pbr/2048x2048/wallpaper17_2048_roughness.png",
           "ambientOcclusion": "assets/textures/wallpaper/wallpaper17/pbr/2048x2048/wallpaper17_2048_ao.png",
           "height": "assets/textures/wallpaper/wallpaper17/pbr/2048x2048/wallpaper17_2048_height.png"
-        }
-      }
-    },
-    {
-      "id": "wallpaper.wallpaper18",
-      "name": "Tapete 18",
-      "category": "material_workspace_category_wallpaper",
-      "family": "wallpaper",
-      "type": "texture",
-      "seamless": true,
-      "defaultRepeatSizeCm": {
-        "width": 100.0,
-        "height": 100.0
-      },
-      "previewColor": "#D5CEC0",
-      "maps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wallpaper/wallpaper18/baked/wallpaper18_1024_baked.png"
-        }
-      },
-      "bakedMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wallpaper/wallpaper18/baked/wallpaper18_1024_baked.png"
-        }
-      },
-      "pbrMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wallpaper/wallpaper18/pbr/1024x1024/wallpaper18_1024_basecolor.png",
-          "normalOpenGl": "assets/textures/wallpaper/wallpaper18/pbr/1024x1024/wallpaper18_1024_normal_OpenGL.png",
-          "roughness": "assets/textures/wallpaper/wallpaper18/pbr/1024x1024/wallpaper18_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallpaper/wallpaper18/pbr/1024x1024/wallpaper18_1024_ao.png",
-          "height": "assets/textures/wallpaper/wallpaper18/pbr/1024x1024/wallpaper18_1024_height.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallpaper/wallpaper18/pbr/2048x2048/wallpaper18_2048_basecolor.png",
-          "normalOpenGl": "assets/textures/wallpaper/wallpaper18/pbr/2048x2048/wallpaper18_2048_normal_OpenGL.png",
-          "roughness": "assets/textures/wallpaper/wallpaper18/pbr/2048x2048/wallpaper18_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallpaper/wallpaper18/pbr/2048x2048/wallpaper18_2048_ao.png",
-          "height": "assets/textures/wallpaper/wallpaper18/pbr/2048x2048/wallpaper18_2048_height.png"
-        }
-      }
-    },
-    {
-      "id": "wallpaper.wallpaper19",
-      "name": "Tapete 19",
-      "category": "material_workspace_category_wallpaper",
-      "family": "wallpaper",
-      "type": "texture",
-      "seamless": true,
-      "defaultRepeatSizeCm": {
-        "width": 100.0,
-        "height": 100.0
-      },
-      "previewColor": "#C2C0BA",
-      "maps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wallpaper/wallpaper19/baked/wallpaper19_1024_baked.png"
-        }
-      },
-      "bakedMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wallpaper/wallpaper19/baked/wallpaper19_1024_baked.png"
-        }
-      },
-      "pbrMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/wallpaper/wallpaper19/pbr/1024x1024/wallpaper19_1024_basecolor.png",
-          "normalOpenGl": "assets/textures/wallpaper/wallpaper19/pbr/1024x1024/wallpaper19_1024_normal_OpenGL.png",
-          "roughness": "assets/textures/wallpaper/wallpaper19/pbr/1024x1024/wallpaper19_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/wallpaper/wallpaper19/pbr/1024x1024/wallpaper19_1024_ao.png",
-          "height": "assets/textures/wallpaper/wallpaper19/pbr/1024x1024/wallpaper19_1024_height.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/wallpaper/wallpaper19/pbr/2048x2048/wallpaper19_2048_basecolor.png",
-          "normalOpenGl": "assets/textures/wallpaper/wallpaper19/pbr/2048x2048/wallpaper19_2048_normal_OpenGL.png",
-          "roughness": "assets/textures/wallpaper/wallpaper19/pbr/2048x2048/wallpaper19_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/wallpaper/wallpaper19/pbr/2048x2048/wallpaper19_2048_ao.png",
-          "height": "assets/textures/wallpaper/wallpaper19/pbr/2048x2048/wallpaper19_2048_height.png"
         }
       }
     },
@@ -3347,7 +3269,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#202020",
+      "previewColor": "#606060",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/plaster/plaster6/baked/plaster6_1024_baked.png"
@@ -3393,7 +3315,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#5F5F5F",
+      "previewColor": "#C0BFAF",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/plaster/plaster7/baked/plaster7_1024_baked.png"
@@ -3439,7 +3361,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#606060",
+      "previewColor": "#C0C0C0",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/plaster/plaster8/baked/plaster8_1024_baked.png"
@@ -3485,7 +3407,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#C0BFAF",
+      "previewColor": "#777777",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/plaster/plaster9/baked/plaster9_1024_baked.png"
@@ -3531,7 +3453,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#C0C0C0",
+      "previewColor": "#BFBFBE",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/plaster/plaster10/baked/plaster10_1024_baked.png"
@@ -3562,98 +3484,6 @@
           "height": "assets/textures/plaster/plaster10/pbr/2048x2048/plaster10_2048_height.png",
           "opacity": "assets/textures/plaster/plaster10/pbr/2048x2048/plaster10_2048_opacity.png",
           "emissive": "assets/textures/plaster/plaster10/pbr/2048x2048/plaster10_2048_emissive.png"
-        }
-      }
-    },
-    {
-      "id": "plaster.plaster11",
-      "name": "Putz 11",
-      "category": "material_workspace_category_plaster",
-      "family": "plaster",
-      "familyKey": "room_material_tab_wall_plaster",
-      "type": "texture",
-      "seamless": true,
-      "defaultRepeatSizeCm": {
-        "width": 100,
-        "height": 100
-      },
-      "previewColor": "#777777",
-      "maps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/plaster/plaster11/baked/plaster11_1024_baked.png"
-        }
-      },
-      "bakedMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/plaster/plaster11/baked/plaster11_1024_baked.png"
-        }
-      },
-      "pbrMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/plaster/plaster11/pbr/1024x1024/plaster11_1024_basecolor.png",
-          "normalOpenGl": "assets/textures/plaster/plaster11/pbr/1024x1024/plaster11_1024_normal_OpenGL.png",
-          "roughness": "assets/textures/plaster/plaster11/pbr/1024x1024/plaster11_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/plaster/plaster11/pbr/1024x1024/plaster11_1024_ao.png",
-          "metallic": "assets/textures/plaster/plaster11/pbr/1024x1024/plaster11_1024_metallic.png",
-          "height": "assets/textures/plaster/plaster11/pbr/1024x1024/plaster11_1024_height.png",
-          "opacity": "assets/textures/plaster/plaster11/pbr/1024x1024/plaster11_1024_opacity.png",
-          "emissive": "assets/textures/plaster/plaster11/pbr/1024x1024/plaster11_1024_emissive.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/plaster/plaster11/pbr/2048x2048/plaster11_2048_basecolor.png",
-          "normalOpenGl": "assets/textures/plaster/plaster11/pbr/2048x2048/plaster11_2048_normal_OpenGL.png",
-          "roughness": "assets/textures/plaster/plaster11/pbr/2048x2048/plaster11_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/plaster/plaster11/pbr/2048x2048/plaster11_2048_ao.png",
-          "metallic": "assets/textures/plaster/plaster11/pbr/2048x2048/plaster11_2048_metallic.png",
-          "height": "assets/textures/plaster/plaster11/pbr/2048x2048/plaster11_2048_height.png",
-          "opacity": "assets/textures/plaster/plaster11/pbr/2048x2048/plaster11_2048_opacity.png",
-          "emissive": "assets/textures/plaster/plaster11/pbr/2048x2048/plaster11_2048_emissive.png"
-        }
-      }
-    },
-    {
-      "id": "plaster.plaster12",
-      "name": "Putz 12",
-      "category": "material_workspace_category_plaster",
-      "family": "plaster",
-      "familyKey": "room_material_tab_wall_plaster",
-      "type": "texture",
-      "seamless": true,
-      "defaultRepeatSizeCm": {
-        "width": 100,
-        "height": 100
-      },
-      "previewColor": "#BFBFBE",
-      "maps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/plaster/plaster12/baked/plaster12_1024_baked.png"
-        }
-      },
-      "bakedMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/plaster/plaster12/baked/plaster12_1024_baked.png"
-        }
-      },
-      "pbrMaps": {
-        "1024x1024": {
-          "baseColor": "assets/textures/plaster/plaster12/pbr/1024x1024/plaster12_1024_basecolor.png",
-          "normalOpenGl": "assets/textures/plaster/plaster12/pbr/1024x1024/plaster12_1024_normal_OpenGL.png",
-          "roughness": "assets/textures/plaster/plaster12/pbr/1024x1024/plaster12_1024_roughness.png",
-          "ambientOcclusion": "assets/textures/plaster/plaster12/pbr/1024x1024/plaster12_1024_ao.png",
-          "metallic": "assets/textures/plaster/plaster12/pbr/1024x1024/plaster12_1024_metallic.png",
-          "height": "assets/textures/plaster/plaster12/pbr/1024x1024/plaster12_1024_height.png",
-          "opacity": "assets/textures/plaster/plaster12/pbr/1024x1024/plaster12_1024_opacity.png",
-          "emissive": "assets/textures/plaster/plaster12/pbr/1024x1024/plaster12_1024_emissive.png"
-        },
-        "2048x2048": {
-          "baseColor": "assets/textures/plaster/plaster12/pbr/2048x2048/plaster12_2048_basecolor.png",
-          "normalOpenGl": "assets/textures/plaster/plaster12/pbr/2048x2048/plaster12_2048_normal_OpenGL.png",
-          "roughness": "assets/textures/plaster/plaster12/pbr/2048x2048/plaster12_2048_roughness.png",
-          "ambientOcclusion": "assets/textures/plaster/plaster12/pbr/2048x2048/plaster12_2048_ao.png",
-          "metallic": "assets/textures/plaster/plaster12/pbr/2048x2048/plaster12_2048_metallic.png",
-          "height": "assets/textures/plaster/plaster12/pbr/2048x2048/plaster12_2048_height.png",
-          "opacity": "assets/textures/plaster/plaster12/pbr/2048x2048/plaster12_2048_opacity.png",
-          "emissive": "assets/textures/plaster/plaster12/pbr/2048x2048/plaster12_2048_emissive.png"
         }
       }
     }
