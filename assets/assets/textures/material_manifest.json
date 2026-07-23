@@ -3801,6 +3801,681 @@
           "emissive": "assets/textures/concrete/concrete8/pbr/2048x2048/concrete8_2048_emissive.png"
         }
       }
+    },
+    {
+      "id": "stone.stone1",
+      "name": "Stein 1",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#A19897",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone1/baked/stone1_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone1/baked/stone1_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone1/pbr/1024x1024/stone1_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone1/pbr/1024x1024/stone1_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone1/pbr/1024x1024/stone1_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone1/pbr/1024x1024/stone1_1024_ao.png",
+          "metallic": "assets/textures/stone/stone1/pbr/1024x1024/stone1_1024_metallic.png",
+          "height": "assets/textures/stone/stone1/pbr/1024x1024/stone1_1024_height.png",
+          "opacity": "assets/textures/stone/stone1/pbr/1024x1024/stone1_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone1/pbr/1024x1024/stone1_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone1/pbr/2048x2048/stone1_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone1/pbr/2048x2048/stone1_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone1/pbr/2048x2048/stone1_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone1/pbr/2048x2048/stone1_2048_ao.png",
+          "metallic": "assets/textures/stone/stone1/pbr/2048x2048/stone1_2048_metallic.png",
+          "height": "assets/textures/stone/stone1/pbr/2048x2048/stone1_2048_height.png",
+          "opacity": "assets/textures/stone/stone1/pbr/2048x2048/stone1_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone1/pbr/2048x2048/stone1_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone2",
+      "name": "Stein 2",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#A34A19",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone2/baked/stone2_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone2/baked/stone2_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone2/pbr/1024x1024/stone2_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone2/pbr/1024x1024/stone2_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone2/pbr/1024x1024/stone2_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone2/pbr/1024x1024/stone2_1024_ao.png",
+          "metallic": "assets/textures/stone/stone2/pbr/1024x1024/stone2_1024_metallic.png",
+          "height": "assets/textures/stone/stone2/pbr/1024x1024/stone2_1024_height.png",
+          "opacity": "assets/textures/stone/stone2/pbr/1024x1024/stone2_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone2/pbr/1024x1024/stone2_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone2/pbr/2048x2048/stone2_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone2/pbr/2048x2048/stone2_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone2/pbr/2048x2048/stone2_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone2/pbr/2048x2048/stone2_2048_ao.png",
+          "metallic": "assets/textures/stone/stone2/pbr/2048x2048/stone2_2048_metallic.png",
+          "height": "assets/textures/stone/stone2/pbr/2048x2048/stone2_2048_height.png",
+          "opacity": "assets/textures/stone/stone2/pbr/2048x2048/stone2_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone2/pbr/2048x2048/stone2_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone3",
+      "name": "Stein 3",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#173421",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone3/baked/stone3_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone3/baked/stone3_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone3/pbr/1024x1024/stone3_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone3/pbr/1024x1024/stone3_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone3/pbr/1024x1024/stone3_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone3/pbr/1024x1024/stone3_1024_ao.png",
+          "metallic": "assets/textures/stone/stone3/pbr/1024x1024/stone3_1024_metallic.png",
+          "height": "assets/textures/stone/stone3/pbr/1024x1024/stone3_1024_height.png",
+          "opacity": "assets/textures/stone/stone3/pbr/1024x1024/stone3_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone3/pbr/1024x1024/stone3_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone3/pbr/2048x2048/stone3_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone3/pbr/2048x2048/stone3_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone3/pbr/2048x2048/stone3_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone3/pbr/2048x2048/stone3_2048_ao.png",
+          "metallic": "assets/textures/stone/stone3/pbr/2048x2048/stone3_2048_metallic.png",
+          "height": "assets/textures/stone/stone3/pbr/2048x2048/stone3_2048_height.png",
+          "opacity": "assets/textures/stone/stone3/pbr/2048x2048/stone3_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone3/pbr/2048x2048/stone3_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone4",
+      "name": "Stein 4",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#201E1F",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone4/baked/stone4_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone4/baked/stone4_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone4/pbr/1024x1024/stone4_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone4/pbr/1024x1024/stone4_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone4/pbr/1024x1024/stone4_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone4/pbr/1024x1024/stone4_1024_ao.png",
+          "metallic": "assets/textures/stone/stone4/pbr/1024x1024/stone4_1024_metallic.png",
+          "height": "assets/textures/stone/stone4/pbr/1024x1024/stone4_1024_height.png",
+          "opacity": "assets/textures/stone/stone4/pbr/1024x1024/stone4_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone4/pbr/1024x1024/stone4_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone4/pbr/2048x2048/stone4_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone4/pbr/2048x2048/stone4_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone4/pbr/2048x2048/stone4_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone4/pbr/2048x2048/stone4_2048_ao.png",
+          "metallic": "assets/textures/stone/stone4/pbr/2048x2048/stone4_2048_metallic.png",
+          "height": "assets/textures/stone/stone4/pbr/2048x2048/stone4_2048_height.png",
+          "opacity": "assets/textures/stone/stone4/pbr/2048x2048/stone4_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone4/pbr/2048x2048/stone4_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone5",
+      "name": "Stein 5",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#5D5D5D",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone5/baked/stone5_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone5/baked/stone5_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone5/pbr/1024x1024/stone5_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone5/pbr/1024x1024/stone5_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone5/pbr/1024x1024/stone5_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone5/pbr/1024x1024/stone5_1024_ao.png",
+          "metallic": "assets/textures/stone/stone5/pbr/1024x1024/stone5_1024_metallic.png",
+          "height": "assets/textures/stone/stone5/pbr/1024x1024/stone5_1024_height.png",
+          "opacity": "assets/textures/stone/stone5/pbr/1024x1024/stone5_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone5/pbr/1024x1024/stone5_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone5/pbr/2048x2048/stone5_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone5/pbr/2048x2048/stone5_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone5/pbr/2048x2048/stone5_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone5/pbr/2048x2048/stone5_2048_ao.png",
+          "metallic": "assets/textures/stone/stone5/pbr/2048x2048/stone5_2048_metallic.png",
+          "height": "assets/textures/stone/stone5/pbr/2048x2048/stone5_2048_height.png",
+          "opacity": "assets/textures/stone/stone5/pbr/2048x2048/stone5_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone5/pbr/2048x2048/stone5_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone6",
+      "name": "Stein 6",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#8D9298",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone6/baked/stone6_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone6/baked/stone6_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone6/pbr/1024x1024/stone6_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone6/pbr/1024x1024/stone6_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone6/pbr/1024x1024/stone6_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone6/pbr/1024x1024/stone6_1024_ao.png",
+          "metallic": "assets/textures/stone/stone6/pbr/1024x1024/stone6_1024_metallic.png",
+          "height": "assets/textures/stone/stone6/pbr/1024x1024/stone6_1024_height.png",
+          "opacity": "assets/textures/stone/stone6/pbr/1024x1024/stone6_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone6/pbr/1024x1024/stone6_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone6/pbr/2048x2048/stone6_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone6/pbr/2048x2048/stone6_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone6/pbr/2048x2048/stone6_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone6/pbr/2048x2048/stone6_2048_ao.png",
+          "metallic": "assets/textures/stone/stone6/pbr/2048x2048/stone6_2048_metallic.png",
+          "height": "assets/textures/stone/stone6/pbr/2048x2048/stone6_2048_height.png",
+          "opacity": "assets/textures/stone/stone6/pbr/2048x2048/stone6_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone6/pbr/2048x2048/stone6_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone7",
+      "name": "Stein 7",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#303030",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone7/baked/stone7_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone7/baked/stone7_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone7/pbr/1024x1024/stone7_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone7/pbr/1024x1024/stone7_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone7/pbr/1024x1024/stone7_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone7/pbr/1024x1024/stone7_1024_ao.png",
+          "metallic": "assets/textures/stone/stone7/pbr/1024x1024/stone7_1024_metallic.png",
+          "height": "assets/textures/stone/stone7/pbr/1024x1024/stone7_1024_height.png",
+          "opacity": "assets/textures/stone/stone7/pbr/1024x1024/stone7_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone7/pbr/1024x1024/stone7_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone7/pbr/2048x2048/stone7_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone7/pbr/2048x2048/stone7_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone7/pbr/2048x2048/stone7_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone7/pbr/2048x2048/stone7_2048_ao.png",
+          "metallic": "assets/textures/stone/stone7/pbr/2048x2048/stone7_2048_metallic.png",
+          "height": "assets/textures/stone/stone7/pbr/2048x2048/stone7_2048_height.png",
+          "opacity": "assets/textures/stone/stone7/pbr/2048x2048/stone7_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone7/pbr/2048x2048/stone7_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone8",
+      "name": "Stein 8",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#C0BFBE",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone8/baked/stone8_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone8/baked/stone8_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone8/pbr/1024x1024/stone8_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone8/pbr/1024x1024/stone8_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone8/pbr/1024x1024/stone8_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone8/pbr/1024x1024/stone8_1024_ao.png",
+          "metallic": "assets/textures/stone/stone8/pbr/1024x1024/stone8_1024_metallic.png",
+          "height": "assets/textures/stone/stone8/pbr/1024x1024/stone8_1024_height.png",
+          "opacity": "assets/textures/stone/stone8/pbr/1024x1024/stone8_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone8/pbr/1024x1024/stone8_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone8/pbr/2048x2048/stone8_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone8/pbr/2048x2048/stone8_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone8/pbr/2048x2048/stone8_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone8/pbr/2048x2048/stone8_2048_ao.png",
+          "metallic": "assets/textures/stone/stone8/pbr/2048x2048/stone8_2048_metallic.png",
+          "height": "assets/textures/stone/stone8/pbr/2048x2048/stone8_2048_height.png",
+          "opacity": "assets/textures/stone/stone8/pbr/2048x2048/stone8_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone8/pbr/2048x2048/stone8_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone9",
+      "name": "Stein 9",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#D1CFBB",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone9/baked/stone9_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone9/baked/stone9_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone9/pbr/1024x1024/stone9_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone9/pbr/1024x1024/stone9_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone9/pbr/1024x1024/stone9_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone9/pbr/1024x1024/stone9_1024_ao.png",
+          "metallic": "assets/textures/stone/stone9/pbr/1024x1024/stone9_1024_metallic.png",
+          "height": "assets/textures/stone/stone9/pbr/1024x1024/stone9_1024_height.png",
+          "opacity": "assets/textures/stone/stone9/pbr/1024x1024/stone9_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone9/pbr/1024x1024/stone9_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone9/pbr/2048x2048/stone9_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone9/pbr/2048x2048/stone9_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone9/pbr/2048x2048/stone9_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone9/pbr/2048x2048/stone9_2048_ao.png",
+          "metallic": "assets/textures/stone/stone9/pbr/2048x2048/stone9_2048_metallic.png",
+          "height": "assets/textures/stone/stone9/pbr/2048x2048/stone9_2048_height.png",
+          "opacity": "assets/textures/stone/stone9/pbr/2048x2048/stone9_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone9/pbr/2048x2048/stone9_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone10",
+      "name": "Stein 10",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#999287",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone10/baked/stone10_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone10/baked/stone10_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone10/pbr/1024x1024/stone10_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone10/pbr/1024x1024/stone10_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone10/pbr/1024x1024/stone10_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone10/pbr/1024x1024/stone10_1024_ao.png",
+          "metallic": "assets/textures/stone/stone10/pbr/1024x1024/stone10_1024_metallic.png",
+          "height": "assets/textures/stone/stone10/pbr/1024x1024/stone10_1024_height.png",
+          "opacity": "assets/textures/stone/stone10/pbr/1024x1024/stone10_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone10/pbr/1024x1024/stone10_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone10/pbr/2048x2048/stone10_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone10/pbr/2048x2048/stone10_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone10/pbr/2048x2048/stone10_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone10/pbr/2048x2048/stone10_2048_ao.png",
+          "metallic": "assets/textures/stone/stone10/pbr/2048x2048/stone10_2048_metallic.png",
+          "height": "assets/textures/stone/stone10/pbr/2048x2048/stone10_2048_height.png",
+          "opacity": "assets/textures/stone/stone10/pbr/2048x2048/stone10_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone10/pbr/2048x2048/stone10_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone11",
+      "name": "Stein 11",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#1C1C1F",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone11/baked/stone11_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone11/baked/stone11_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone11/pbr/1024x1024/stone11_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone11/pbr/1024x1024/stone11_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone11/pbr/1024x1024/stone11_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone11/pbr/1024x1024/stone11_1024_ao.png",
+          "metallic": "assets/textures/stone/stone11/pbr/1024x1024/stone11_1024_metallic.png",
+          "height": "assets/textures/stone/stone11/pbr/1024x1024/stone11_1024_height.png",
+          "opacity": "assets/textures/stone/stone11/pbr/1024x1024/stone11_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone11/pbr/1024x1024/stone11_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone11/pbr/2048x2048/stone11_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone11/pbr/2048x2048/stone11_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone11/pbr/2048x2048/stone11_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone11/pbr/2048x2048/stone11_2048_ao.png",
+          "metallic": "assets/textures/stone/stone11/pbr/2048x2048/stone11_2048_metallic.png",
+          "height": "assets/textures/stone/stone11/pbr/2048x2048/stone11_2048_height.png",
+          "opacity": "assets/textures/stone/stone11/pbr/2048x2048/stone11_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone11/pbr/2048x2048/stone11_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone12",
+      "name": "Stein 12",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#4C3C2B",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone12/baked/stone12_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone12/baked/stone12_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone12/pbr/1024x1024/stone12_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone12/pbr/1024x1024/stone12_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone12/pbr/1024x1024/stone12_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone12/pbr/1024x1024/stone12_1024_ao.png",
+          "metallic": "assets/textures/stone/stone12/pbr/1024x1024/stone12_1024_metallic.png",
+          "height": "assets/textures/stone/stone12/pbr/1024x1024/stone12_1024_height.png",
+          "opacity": "assets/textures/stone/stone12/pbr/1024x1024/stone12_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone12/pbr/1024x1024/stone12_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone12/pbr/2048x2048/stone12_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone12/pbr/2048x2048/stone12_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone12/pbr/2048x2048/stone12_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone12/pbr/2048x2048/stone12_2048_ao.png",
+          "metallic": "assets/textures/stone/stone12/pbr/2048x2048/stone12_2048_metallic.png",
+          "height": "assets/textures/stone/stone12/pbr/2048x2048/stone12_2048_height.png",
+          "opacity": "assets/textures/stone/stone12/pbr/2048x2048/stone12_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone12/pbr/2048x2048/stone12_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone13",
+      "name": "Stein 13",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#BCB9A9",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone13/baked/stone13_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone13/baked/stone13_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone13/pbr/1024x1024/stone13_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone13/pbr/1024x1024/stone13_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone13/pbr/1024x1024/stone13_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone13/pbr/1024x1024/stone13_1024_ao.png",
+          "metallic": "assets/textures/stone/stone13/pbr/1024x1024/stone13_1024_metallic.png",
+          "height": "assets/textures/stone/stone13/pbr/1024x1024/stone13_1024_height.png",
+          "opacity": "assets/textures/stone/stone13/pbr/1024x1024/stone13_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone13/pbr/1024x1024/stone13_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone13/pbr/2048x2048/stone13_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone13/pbr/2048x2048/stone13_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone13/pbr/2048x2048/stone13_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone13/pbr/2048x2048/stone13_2048_ao.png",
+          "metallic": "assets/textures/stone/stone13/pbr/2048x2048/stone13_2048_metallic.png",
+          "height": "assets/textures/stone/stone13/pbr/2048x2048/stone13_2048_height.png",
+          "opacity": "assets/textures/stone/stone13/pbr/2048x2048/stone13_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone13/pbr/2048x2048/stone13_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone14",
+      "name": "Stein 14",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#6F7277",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone14/baked/stone14_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone14/baked/stone14_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone14/pbr/1024x1024/stone14_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone14/pbr/1024x1024/stone14_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone14/pbr/1024x1024/stone14_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone14/pbr/1024x1024/stone14_1024_ao.png",
+          "metallic": "assets/textures/stone/stone14/pbr/1024x1024/stone14_1024_metallic.png",
+          "height": "assets/textures/stone/stone14/pbr/1024x1024/stone14_1024_height.png",
+          "opacity": "assets/textures/stone/stone14/pbr/1024x1024/stone14_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone14/pbr/1024x1024/stone14_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone14/pbr/2048x2048/stone14_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone14/pbr/2048x2048/stone14_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone14/pbr/2048x2048/stone14_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone14/pbr/2048x2048/stone14_2048_ao.png",
+          "metallic": "assets/textures/stone/stone14/pbr/2048x2048/stone14_2048_metallic.png",
+          "height": "assets/textures/stone/stone14/pbr/2048x2048/stone14_2048_height.png",
+          "opacity": "assets/textures/stone/stone14/pbr/2048x2048/stone14_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone14/pbr/2048x2048/stone14_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "stone.stone15",
+      "name": "Stein 15",
+      "category": "material_workspace_category_stone",
+      "family": "stone",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#7F7F7F",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone15/baked/stone15_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone15/baked/stone15_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/stone/stone15/pbr/1024x1024/stone15_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone15/pbr/1024x1024/stone15_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone15/pbr/1024x1024/stone15_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone15/pbr/1024x1024/stone15_1024_ao.png",
+          "metallic": "assets/textures/stone/stone15/pbr/1024x1024/stone15_1024_metallic.png",
+          "height": "assets/textures/stone/stone15/pbr/1024x1024/stone15_1024_height.png",
+          "opacity": "assets/textures/stone/stone15/pbr/1024x1024/stone15_1024_opacity.png",
+          "emissive": "assets/textures/stone/stone15/pbr/1024x1024/stone15_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/stone/stone15/pbr/2048x2048/stone15_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/stone/stone15/pbr/2048x2048/stone15_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/stone/stone15/pbr/2048x2048/stone15_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/stone/stone15/pbr/2048x2048/stone15_2048_ao.png",
+          "metallic": "assets/textures/stone/stone15/pbr/2048x2048/stone15_2048_metallic.png",
+          "height": "assets/textures/stone/stone15/pbr/2048x2048/stone15_2048_height.png",
+          "opacity": "assets/textures/stone/stone15/pbr/2048x2048/stone15_2048_opacity.png",
+          "emissive": "assets/textures/stone/stone15/pbr/2048x2048/stone15_2048_emissive.png"
+        }
+      }
     }
   ]
 }
