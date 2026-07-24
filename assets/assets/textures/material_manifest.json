@@ -4476,6 +4476,861 @@
           "emissive": "assets/textures/stone/stone15/pbr/2048x2048/stone15_2048_emissive.png"
         }
       }
+    },
+    {
+      "id": "marble.marble9",
+      "name": "Marmor 9",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#D5D0C5",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble9/baked/marble9_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble9/baked/marble9_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble9/pbr/1024x1024/marble9_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble9/pbr/1024x1024/marble9_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble9/pbr/1024x1024/marble9_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble9/pbr/1024x1024/marble9_1024_ao.png",
+          "metallic": "assets/textures/marble/marble9/pbr/1024x1024/marble9_1024_metallic.png",
+          "height": "assets/textures/marble/marble9/pbr/1024x1024/marble9_1024_height.png",
+          "opacity": "assets/textures/marble/marble9/pbr/1024x1024/marble9_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble9/pbr/1024x1024/marble9_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble9/pbr/2048x2048/marble9_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble9/pbr/2048x2048/marble9_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble9/pbr/2048x2048/marble9_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble9/pbr/2048x2048/marble9_2048_ao.png",
+          "metallic": "assets/textures/marble/marble9/pbr/2048x2048/marble9_2048_metallic.png",
+          "height": "assets/textures/marble/marble9/pbr/2048x2048/marble9_2048_height.png",
+          "opacity": "assets/textures/marble/marble9/pbr/2048x2048/marble9_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble9/pbr/2048x2048/marble9_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble10",
+      "name": "Marmor 10",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#B57738",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble10/baked/marble10_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble10/baked/marble10_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble10/pbr/1024x1024/marble10_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble10/pbr/1024x1024/marble10_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble10/pbr/1024x1024/marble10_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble10/pbr/1024x1024/marble10_1024_ao.png",
+          "metallic": "assets/textures/marble/marble10/pbr/1024x1024/marble10_1024_metallic.png",
+          "height": "assets/textures/marble/marble10/pbr/1024x1024/marble10_1024_height.png",
+          "opacity": "assets/textures/marble/marble10/pbr/1024x1024/marble10_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble10/pbr/1024x1024/marble10_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble10/pbr/2048x2048/marble10_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble10/pbr/2048x2048/marble10_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble10/pbr/2048x2048/marble10_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble10/pbr/2048x2048/marble10_2048_ao.png",
+          "metallic": "assets/textures/marble/marble10/pbr/2048x2048/marble10_2048_metallic.png",
+          "height": "assets/textures/marble/marble10/pbr/2048x2048/marble10_2048_height.png",
+          "opacity": "assets/textures/marble/marble10/pbr/2048x2048/marble10_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble10/pbr/2048x2048/marble10_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble11",
+      "name": "Marmor 11",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#D0CCC1",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble11/baked/marble11_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble11/baked/marble11_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble11/pbr/1024x1024/marble11_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble11/pbr/1024x1024/marble11_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble11/pbr/1024x1024/marble11_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble11/pbr/1024x1024/marble11_1024_ao.png",
+          "metallic": "assets/textures/marble/marble11/pbr/1024x1024/marble11_1024_metallic.png",
+          "height": "assets/textures/marble/marble11/pbr/1024x1024/marble11_1024_height.png",
+          "opacity": "assets/textures/marble/marble11/pbr/1024x1024/marble11_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble11/pbr/1024x1024/marble11_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble11/pbr/2048x2048/marble11_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble11/pbr/2048x2048/marble11_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble11/pbr/2048x2048/marble11_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble11/pbr/2048x2048/marble11_2048_ao.png",
+          "metallic": "assets/textures/marble/marble11/pbr/2048x2048/marble11_2048_metallic.png",
+          "height": "assets/textures/marble/marble11/pbr/2048x2048/marble11_2048_height.png",
+          "opacity": "assets/textures/marble/marble11/pbr/2048x2048/marble11_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble11/pbr/2048x2048/marble11_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble12",
+      "name": "Marmor 12",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#0F151D",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble12/baked/marble12_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble12/baked/marble12_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble12/pbr/1024x1024/marble12_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble12/pbr/1024x1024/marble12_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble12/pbr/1024x1024/marble12_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble12/pbr/1024x1024/marble12_1024_ao.png",
+          "metallic": "assets/textures/marble/marble12/pbr/1024x1024/marble12_1024_metallic.png",
+          "height": "assets/textures/marble/marble12/pbr/1024x1024/marble12_1024_height.png",
+          "opacity": "assets/textures/marble/marble12/pbr/1024x1024/marble12_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble12/pbr/1024x1024/marble12_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble12/pbr/2048x2048/marble12_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble12/pbr/2048x2048/marble12_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble12/pbr/2048x2048/marble12_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble12/pbr/2048x2048/marble12_2048_ao.png",
+          "metallic": "assets/textures/marble/marble12/pbr/2048x2048/marble12_2048_metallic.png",
+          "height": "assets/textures/marble/marble12/pbr/2048x2048/marble12_2048_height.png",
+          "opacity": "assets/textures/marble/marble12/pbr/2048x2048/marble12_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble12/pbr/2048x2048/marble12_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble13",
+      "name": "Marmor 13",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#262625",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble13/baked/marble13_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble13/baked/marble13_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble13/pbr/1024x1024/marble13_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble13/pbr/1024x1024/marble13_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble13/pbr/1024x1024/marble13_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble13/pbr/1024x1024/marble13_1024_ao.png",
+          "metallic": "assets/textures/marble/marble13/pbr/1024x1024/marble13_1024_metallic.png",
+          "height": "assets/textures/marble/marble13/pbr/1024x1024/marble13_1024_height.png",
+          "opacity": "assets/textures/marble/marble13/pbr/1024x1024/marble13_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble13/pbr/1024x1024/marble13_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble13/pbr/2048x2048/marble13_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble13/pbr/2048x2048/marble13_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble13/pbr/2048x2048/marble13_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble13/pbr/2048x2048/marble13_2048_ao.png",
+          "metallic": "assets/textures/marble/marble13/pbr/2048x2048/marble13_2048_metallic.png",
+          "height": "assets/textures/marble/marble13/pbr/2048x2048/marble13_2048_height.png",
+          "opacity": "assets/textures/marble/marble13/pbr/2048x2048/marble13_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble13/pbr/2048x2048/marble13_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble14",
+      "name": "Marmor 14",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#8B8A86",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble14/baked/marble14_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble14/baked/marble14_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble14/pbr/1024x1024/marble14_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble14/pbr/1024x1024/marble14_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble14/pbr/1024x1024/marble14_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble14/pbr/1024x1024/marble14_1024_ao.png",
+          "metallic": "assets/textures/marble/marble14/pbr/1024x1024/marble14_1024_metallic.png",
+          "height": "assets/textures/marble/marble14/pbr/1024x1024/marble14_1024_height.png",
+          "opacity": "assets/textures/marble/marble14/pbr/1024x1024/marble14_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble14/pbr/1024x1024/marble14_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble14/pbr/2048x2048/marble14_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble14/pbr/2048x2048/marble14_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble14/pbr/2048x2048/marble14_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble14/pbr/2048x2048/marble14_2048_ao.png",
+          "metallic": "assets/textures/marble/marble14/pbr/2048x2048/marble14_2048_metallic.png",
+          "height": "assets/textures/marble/marble14/pbr/2048x2048/marble14_2048_height.png",
+          "opacity": "assets/textures/marble/marble14/pbr/2048x2048/marble14_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble14/pbr/2048x2048/marble14_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble15",
+      "name": "Marmor 15",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#1A2622",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble15/baked/marble15_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble15/baked/marble15_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble15/pbr/1024x1024/marble15_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble15/pbr/1024x1024/marble15_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble15/pbr/1024x1024/marble15_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble15/pbr/1024x1024/marble15_1024_ao.png",
+          "metallic": "assets/textures/marble/marble15/pbr/1024x1024/marble15_1024_metallic.png",
+          "height": "assets/textures/marble/marble15/pbr/1024x1024/marble15_1024_height.png",
+          "opacity": "assets/textures/marble/marble15/pbr/1024x1024/marble15_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble15/pbr/1024x1024/marble15_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble15/pbr/2048x2048/marble15_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble15/pbr/2048x2048/marble15_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble15/pbr/2048x2048/marble15_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble15/pbr/2048x2048/marble15_2048_ao.png",
+          "metallic": "assets/textures/marble/marble15/pbr/2048x2048/marble15_2048_metallic.png",
+          "height": "assets/textures/marble/marble15/pbr/2048x2048/marble15_2048_height.png",
+          "opacity": "assets/textures/marble/marble15/pbr/2048x2048/marble15_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble15/pbr/2048x2048/marble15_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble16",
+      "name": "Marmor 16",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#141515",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble16/baked/marble16_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble16/baked/marble16_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble16/pbr/1024x1024/marble16_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble16/pbr/1024x1024/marble16_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble16/pbr/1024x1024/marble16_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble16/pbr/1024x1024/marble16_1024_ao.png",
+          "metallic": "assets/textures/marble/marble16/pbr/1024x1024/marble16_1024_metallic.png",
+          "height": "assets/textures/marble/marble16/pbr/1024x1024/marble16_1024_height.png",
+          "opacity": "assets/textures/marble/marble16/pbr/1024x1024/marble16_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble16/pbr/1024x1024/marble16_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble16/pbr/2048x2048/marble16_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble16/pbr/2048x2048/marble16_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble16/pbr/2048x2048/marble16_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble16/pbr/2048x2048/marble16_2048_ao.png",
+          "metallic": "assets/textures/marble/marble16/pbr/2048x2048/marble16_2048_metallic.png",
+          "height": "assets/textures/marble/marble16/pbr/2048x2048/marble16_2048_height.png",
+          "opacity": "assets/textures/marble/marble16/pbr/2048x2048/marble16_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble16/pbr/2048x2048/marble16_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble17",
+      "name": "Marmor 17",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#4B4843",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble17/baked/marble17_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble17/baked/marble17_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble17/pbr/1024x1024/marble17_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble17/pbr/1024x1024/marble17_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble17/pbr/1024x1024/marble17_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble17/pbr/1024x1024/marble17_1024_ao.png",
+          "metallic": "assets/textures/marble/marble17/pbr/1024x1024/marble17_1024_metallic.png",
+          "height": "assets/textures/marble/marble17/pbr/1024x1024/marble17_1024_height.png",
+          "opacity": "assets/textures/marble/marble17/pbr/1024x1024/marble17_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble17/pbr/1024x1024/marble17_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble17/pbr/2048x2048/marble17_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble17/pbr/2048x2048/marble17_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble17/pbr/2048x2048/marble17_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble17/pbr/2048x2048/marble17_2048_ao.png",
+          "metallic": "assets/textures/marble/marble17/pbr/2048x2048/marble17_2048_metallic.png",
+          "height": "assets/textures/marble/marble17/pbr/2048x2048/marble17_2048_height.png",
+          "opacity": "assets/textures/marble/marble17/pbr/2048x2048/marble17_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble17/pbr/2048x2048/marble17_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble18",
+      "name": "Marmor 18",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#CFC8BB",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble18/baked/marble18_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble18/baked/marble18_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble18/pbr/1024x1024/marble18_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble18/pbr/1024x1024/marble18_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble18/pbr/1024x1024/marble18_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble18/pbr/1024x1024/marble18_1024_ao.png",
+          "metallic": "assets/textures/marble/marble18/pbr/1024x1024/marble18_1024_metallic.png",
+          "height": "assets/textures/marble/marble18/pbr/1024x1024/marble18_1024_height.png",
+          "opacity": "assets/textures/marble/marble18/pbr/1024x1024/marble18_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble18/pbr/1024x1024/marble18_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble18/pbr/2048x2048/marble18_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble18/pbr/2048x2048/marble18_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble18/pbr/2048x2048/marble18_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble18/pbr/2048x2048/marble18_2048_ao.png",
+          "metallic": "assets/textures/marble/marble18/pbr/2048x2048/marble18_2048_metallic.png",
+          "height": "assets/textures/marble/marble18/pbr/2048x2048/marble18_2048_height.png",
+          "opacity": "assets/textures/marble/marble18/pbr/2048x2048/marble18_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble18/pbr/2048x2048/marble18_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble19",
+      "name": "Marmor 19",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#A59B8D",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble19/baked/marble19_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble19/baked/marble19_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble19/pbr/1024x1024/marble19_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble19/pbr/1024x1024/marble19_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble19/pbr/1024x1024/marble19_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble19/pbr/1024x1024/marble19_1024_ao.png",
+          "metallic": "assets/textures/marble/marble19/pbr/1024x1024/marble19_1024_metallic.png",
+          "height": "assets/textures/marble/marble19/pbr/1024x1024/marble19_1024_height.png",
+          "opacity": "assets/textures/marble/marble19/pbr/1024x1024/marble19_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble19/pbr/1024x1024/marble19_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble19/pbr/2048x2048/marble19_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble19/pbr/2048x2048/marble19_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble19/pbr/2048x2048/marble19_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble19/pbr/2048x2048/marble19_2048_ao.png",
+          "metallic": "assets/textures/marble/marble19/pbr/2048x2048/marble19_2048_metallic.png",
+          "height": "assets/textures/marble/marble19/pbr/2048x2048/marble19_2048_height.png",
+          "opacity": "assets/textures/marble/marble19/pbr/2048x2048/marble19_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble19/pbr/2048x2048/marble19_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble20",
+      "name": "Marmor 20",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#DFDEDE",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble20/baked/marble20_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble20/baked/marble20_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble20/pbr/1024x1024/marble20_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble20/pbr/1024x1024/marble20_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble20/pbr/1024x1024/marble20_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble20/pbr/1024x1024/marble20_1024_ao.png",
+          "metallic": "assets/textures/marble/marble20/pbr/1024x1024/marble20_1024_metallic.png",
+          "height": "assets/textures/marble/marble20/pbr/1024x1024/marble20_1024_height.png",
+          "opacity": "assets/textures/marble/marble20/pbr/1024x1024/marble20_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble20/pbr/1024x1024/marble20_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble20/pbr/2048x2048/marble20_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble20/pbr/2048x2048/marble20_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble20/pbr/2048x2048/marble20_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble20/pbr/2048x2048/marble20_2048_ao.png",
+          "metallic": "assets/textures/marble/marble20/pbr/2048x2048/marble20_2048_metallic.png",
+          "height": "assets/textures/marble/marble20/pbr/2048x2048/marble20_2048_height.png",
+          "opacity": "assets/textures/marble/marble20/pbr/2048x2048/marble20_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble20/pbr/2048x2048/marble20_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble21",
+      "name": "Marmor 21",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#535659",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble21/baked/marble21_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble21/baked/marble21_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble21/pbr/1024x1024/marble21_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble21/pbr/1024x1024/marble21_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble21/pbr/1024x1024/marble21_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble21/pbr/1024x1024/marble21_1024_ao.png",
+          "metallic": "assets/textures/marble/marble21/pbr/1024x1024/marble21_1024_metallic.png",
+          "height": "assets/textures/marble/marble21/pbr/1024x1024/marble21_1024_height.png",
+          "opacity": "assets/textures/marble/marble21/pbr/1024x1024/marble21_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble21/pbr/1024x1024/marble21_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble21/pbr/2048x2048/marble21_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble21/pbr/2048x2048/marble21_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble21/pbr/2048x2048/marble21_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble21/pbr/2048x2048/marble21_2048_ao.png",
+          "metallic": "assets/textures/marble/marble21/pbr/2048x2048/marble21_2048_metallic.png",
+          "height": "assets/textures/marble/marble21/pbr/2048x2048/marble21_2048_height.png",
+          "opacity": "assets/textures/marble/marble21/pbr/2048x2048/marble21_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble21/pbr/2048x2048/marble21_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble22",
+      "name": "Marmor 22",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#5F4B37",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble22/baked/marble22_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble22/baked/marble22_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble22/pbr/1024x1024/marble22_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble22/pbr/1024x1024/marble22_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble22/pbr/1024x1024/marble22_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble22/pbr/1024x1024/marble22_1024_ao.png",
+          "metallic": "assets/textures/marble/marble22/pbr/1024x1024/marble22_1024_metallic.png",
+          "height": "assets/textures/marble/marble22/pbr/1024x1024/marble22_1024_height.png",
+          "opacity": "assets/textures/marble/marble22/pbr/1024x1024/marble22_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble22/pbr/1024x1024/marble22_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble22/pbr/2048x2048/marble22_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble22/pbr/2048x2048/marble22_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble22/pbr/2048x2048/marble22_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble22/pbr/2048x2048/marble22_2048_ao.png",
+          "metallic": "assets/textures/marble/marble22/pbr/2048x2048/marble22_2048_metallic.png",
+          "height": "assets/textures/marble/marble22/pbr/2048x2048/marble22_2048_height.png",
+          "opacity": "assets/textures/marble/marble22/pbr/2048x2048/marble22_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble22/pbr/2048x2048/marble22_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble23",
+      "name": "Marmor 23",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#B28953",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble23/baked/marble23_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble23/baked/marble23_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble23/pbr/1024x1024/marble23_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble23/pbr/1024x1024/marble23_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble23/pbr/1024x1024/marble23_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble23/pbr/1024x1024/marble23_1024_ao.png",
+          "metallic": "assets/textures/marble/marble23/pbr/1024x1024/marble23_1024_metallic.png",
+          "height": "assets/textures/marble/marble23/pbr/1024x1024/marble23_1024_height.png",
+          "opacity": "assets/textures/marble/marble23/pbr/1024x1024/marble23_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble23/pbr/1024x1024/marble23_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble23/pbr/2048x2048/marble23_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble23/pbr/2048x2048/marble23_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble23/pbr/2048x2048/marble23_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble23/pbr/2048x2048/marble23_2048_ao.png",
+          "metallic": "assets/textures/marble/marble23/pbr/2048x2048/marble23_2048_metallic.png",
+          "height": "assets/textures/marble/marble23/pbr/2048x2048/marble23_2048_height.png",
+          "opacity": "assets/textures/marble/marble23/pbr/2048x2048/marble23_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble23/pbr/2048x2048/marble23_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble24",
+      "name": "Marmor 24",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#C6C5C5",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble24/baked/marble24_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble24/baked/marble24_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble24/pbr/1024x1024/marble24_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble24/pbr/1024x1024/marble24_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble24/pbr/1024x1024/marble24_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble24/pbr/1024x1024/marble24_1024_ao.png",
+          "metallic": "assets/textures/marble/marble24/pbr/1024x1024/marble24_1024_metallic.png",
+          "height": "assets/textures/marble/marble24/pbr/1024x1024/marble24_1024_height.png",
+          "opacity": "assets/textures/marble/marble24/pbr/1024x1024/marble24_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble24/pbr/1024x1024/marble24_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble24/pbr/2048x2048/marble24_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble24/pbr/2048x2048/marble24_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble24/pbr/2048x2048/marble24_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble24/pbr/2048x2048/marble24_2048_ao.png",
+          "metallic": "assets/textures/marble/marble24/pbr/2048x2048/marble24_2048_metallic.png",
+          "height": "assets/textures/marble/marble24/pbr/2048x2048/marble24_2048_height.png",
+          "opacity": "assets/textures/marble/marble24/pbr/2048x2048/marble24_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble24/pbr/2048x2048/marble24_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble25",
+      "name": "Marmor 25",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#3B3B40",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble25/baked/marble25_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble25/baked/marble25_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble25/pbr/1024x1024/marble25_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble25/pbr/1024x1024/marble25_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble25/pbr/1024x1024/marble25_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble25/pbr/1024x1024/marble25_1024_ao.png",
+          "metallic": "assets/textures/marble/marble25/pbr/1024x1024/marble25_1024_metallic.png",
+          "height": "assets/textures/marble/marble25/pbr/1024x1024/marble25_1024_height.png",
+          "opacity": "assets/textures/marble/marble25/pbr/1024x1024/marble25_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble25/pbr/1024x1024/marble25_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble25/pbr/2048x2048/marble25_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble25/pbr/2048x2048/marble25_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble25/pbr/2048x2048/marble25_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble25/pbr/2048x2048/marble25_2048_ao.png",
+          "metallic": "assets/textures/marble/marble25/pbr/2048x2048/marble25_2048_metallic.png",
+          "height": "assets/textures/marble/marble25/pbr/2048x2048/marble25_2048_height.png",
+          "opacity": "assets/textures/marble/marble25/pbr/2048x2048/marble25_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble25/pbr/2048x2048/marble25_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble26",
+      "name": "Marmor 26",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#1E2157",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble26/baked/marble26_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble26/baked/marble26_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble26/pbr/1024x1024/marble26_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble26/pbr/1024x1024/marble26_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble26/pbr/1024x1024/marble26_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble26/pbr/1024x1024/marble26_1024_ao.png",
+          "metallic": "assets/textures/marble/marble26/pbr/1024x1024/marble26_1024_metallic.png",
+          "height": "assets/textures/marble/marble26/pbr/1024x1024/marble26_1024_height.png",
+          "opacity": "assets/textures/marble/marble26/pbr/1024x1024/marble26_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble26/pbr/1024x1024/marble26_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble26/pbr/2048x2048/marble26_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble26/pbr/2048x2048/marble26_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble26/pbr/2048x2048/marble26_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble26/pbr/2048x2048/marble26_2048_ao.png",
+          "metallic": "assets/textures/marble/marble26/pbr/2048x2048/marble26_2048_metallic.png",
+          "height": "assets/textures/marble/marble26/pbr/2048x2048/marble26_2048_height.png",
+          "opacity": "assets/textures/marble/marble26/pbr/2048x2048/marble26_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble26/pbr/2048x2048/marble26_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "marble.marble27",
+      "name": "Marmor 27",
+      "category": "material_workspace_category_marble",
+      "family": "marble",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#28231E",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble27/baked/marble27_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble27/baked/marble27_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/marble/marble27/pbr/1024x1024/marble27_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble27/pbr/1024x1024/marble27_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble27/pbr/1024x1024/marble27_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble27/pbr/1024x1024/marble27_1024_ao.png",
+          "metallic": "assets/textures/marble/marble27/pbr/1024x1024/marble27_1024_metallic.png",
+          "height": "assets/textures/marble/marble27/pbr/1024x1024/marble27_1024_height.png",
+          "opacity": "assets/textures/marble/marble27/pbr/1024x1024/marble27_1024_opacity.png",
+          "emissive": "assets/textures/marble/marble27/pbr/1024x1024/marble27_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/marble/marble27/pbr/2048x2048/marble27_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/marble/marble27/pbr/2048x2048/marble27_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/marble/marble27/pbr/2048x2048/marble27_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/marble/marble27/pbr/2048x2048/marble27_2048_ao.png",
+          "metallic": "assets/textures/marble/marble27/pbr/2048x2048/marble27_2048_metallic.png",
+          "height": "assets/textures/marble/marble27/pbr/2048x2048/marble27_2048_height.png",
+          "opacity": "assets/textures/marble/marble27/pbr/2048x2048/marble27_2048_opacity.png",
+          "emissive": "assets/textures/marble/marble27/pbr/2048x2048/marble27_2048_emissive.png"
+        }
+      }
     }
   ]
 }
