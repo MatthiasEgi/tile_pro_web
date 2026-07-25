@@ -589,6 +589,7 @@
   "material_workspace_laying_group_family": "Pattern family",
   "material_workspace_laying_family_hint": "Choose the laying pattern first, then select a suitable tile and configure its rules.",
   "material_workspace_laying_param_sequence_mode": "Plank sequence",
+  "material_workspace_laying_param_v_mode": "V pattern",
   "material_workspace_laying_param_assignment_rows": "Assignment rows",
   "material_workspace_laying_param_assignment_cols": "Assignment columns",
   "material_workspace_laying_strategy_supertile": "Repeating SuperTile",

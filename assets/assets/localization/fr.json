@@ -589,6 +589,7 @@
   "material_workspace_laying_group_family": "Famille de pose",
   "material_workspace_laying_family_hint": "Choisissez d’abord le motif de pose, puis un carreau adapté et les règles associées.",
   "material_workspace_laying_param_sequence_mode": "Séquence de lames",
+  "material_workspace_laying_param_v_mode": "Motif en V",
   "material_workspace_laying_param_assignment_rows": "Rangées d’affectation",
   "material_workspace_laying_param_assignment_cols": "Colonnes d’affectation",
   "material_workspace_laying_strategy_supertile": "SuperTile répétable",

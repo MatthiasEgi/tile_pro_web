@@ -589,6 +589,7 @@
   "material_workspace_laying_group_family": "拼贴族",
   "material_workspace_laying_family_hint": "先选择铺贴图案，再选择合适的瓷砖并设置对应规则。",
   "material_workspace_laying_param_sequence_mode": "板材序列",
+  "material_workspace_laying_param_v_mode": "V 形铺法",
   "material_workspace_laying_param_assignment_rows": "分配行",
   "material_workspace_laying_param_assignment_cols": "分配列",
   "material_workspace_laying_strategy_supertile": "可重复 SuperTile",

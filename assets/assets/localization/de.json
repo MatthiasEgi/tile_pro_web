@@ -589,6 +589,7 @@
   "material_workspace_laying_group_family": "Verbandsfamilie",
   "material_workspace_laying_family_hint": "Zuerst Verlegemuster wählen, danach die passende Fliese und die zugehörigen Regeln festlegen.",
   "material_workspace_laying_param_sequence_mode": "Plankenfolge",
+  "material_workspace_laying_param_v_mode": "V-Muster",
   "material_workspace_laying_param_assignment_rows": "Belegungsreihen",
   "material_workspace_laying_param_assignment_cols": "Belegungsspalten",
   "material_workspace_laying_strategy_supertile": "Wiederholbares SuperTile",

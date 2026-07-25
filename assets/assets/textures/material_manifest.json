@@ -5253,7 +5253,7 @@
         "width": 100,
         "height": 100
       },
-      "previewColor": "#1E2157",
+      "previewColor": "#252657",
       "maps": {
         "1024x1024": {
           "baseColor": "assets/textures/marble/marble26/baked/marble26_1024_baked.png"
@@ -5329,6 +5329,771 @@
           "height": "assets/textures/marble/marble27/pbr/2048x2048/marble27_2048_height.png",
           "opacity": "assets/textures/marble/marble27/pbr/2048x2048/marble27_2048_opacity.png",
           "emissive": "assets/textures/marble/marble27/pbr/2048x2048/marble27_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic1",
+      "name": "Keramik 1",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#DDDBD7",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic1/baked/ceramic1_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic1/baked/ceramic1_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic1/pbr/1024x1024/ceramic1_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic1/pbr/1024x1024/ceramic1_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic1/pbr/1024x1024/ceramic1_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic1/pbr/1024x1024/ceramic1_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic1/pbr/1024x1024/ceramic1_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic1/pbr/1024x1024/ceramic1_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic1/pbr/1024x1024/ceramic1_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic1/pbr/1024x1024/ceramic1_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic1/pbr/2048x2048/ceramic1_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic1/pbr/2048x2048/ceramic1_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic1/pbr/2048x2048/ceramic1_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic1/pbr/2048x2048/ceramic1_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic1/pbr/2048x2048/ceramic1_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic1/pbr/2048x2048/ceramic1_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic1/pbr/2048x2048/ceramic1_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic1/pbr/2048x2048/ceramic1_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic2",
+      "name": "Keramik 2",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#2F2219",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic2/baked/ceramic2_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic2/baked/ceramic2_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic2/pbr/1024x1024/ceramic2_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic2/pbr/1024x1024/ceramic2_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic2/pbr/1024x1024/ceramic2_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic2/pbr/1024x1024/ceramic2_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic2/pbr/1024x1024/ceramic2_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic2/pbr/1024x1024/ceramic2_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic2/pbr/1024x1024/ceramic2_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic2/pbr/1024x1024/ceramic2_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic2/pbr/2048x2048/ceramic2_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic2/pbr/2048x2048/ceramic2_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic2/pbr/2048x2048/ceramic2_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic2/pbr/2048x2048/ceramic2_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic2/pbr/2048x2048/ceramic2_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic2/pbr/2048x2048/ceramic2_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic2/pbr/2048x2048/ceramic2_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic2/pbr/2048x2048/ceramic2_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic3",
+      "name": "Keramik 3",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#CFC3AC",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic3/baked/ceramic3_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic3/baked/ceramic3_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic3/pbr/1024x1024/ceramic3_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic3/pbr/1024x1024/ceramic3_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic3/pbr/1024x1024/ceramic3_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic3/pbr/1024x1024/ceramic3_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic3/pbr/1024x1024/ceramic3_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic3/pbr/1024x1024/ceramic3_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic3/pbr/1024x1024/ceramic3_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic3/pbr/1024x1024/ceramic3_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic3/pbr/2048x2048/ceramic3_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic3/pbr/2048x2048/ceramic3_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic3/pbr/2048x2048/ceramic3_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic3/pbr/2048x2048/ceramic3_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic3/pbr/2048x2048/ceramic3_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic3/pbr/2048x2048/ceramic3_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic3/pbr/2048x2048/ceramic3_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic3/pbr/2048x2048/ceramic3_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic4",
+      "name": "Keramik 4",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#C0BCB6",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic4/baked/ceramic4_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic4/baked/ceramic4_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic4/pbr/1024x1024/ceramic4_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic4/pbr/1024x1024/ceramic4_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic4/pbr/1024x1024/ceramic4_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic4/pbr/1024x1024/ceramic4_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic4/pbr/1024x1024/ceramic4_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic4/pbr/1024x1024/ceramic4_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic4/pbr/1024x1024/ceramic4_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic4/pbr/1024x1024/ceramic4_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic4/pbr/2048x2048/ceramic4_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic4/pbr/2048x2048/ceramic4_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic4/pbr/2048x2048/ceramic4_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic4/pbr/2048x2048/ceramic4_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic4/pbr/2048x2048/ceramic4_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic4/pbr/2048x2048/ceramic4_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic4/pbr/2048x2048/ceramic4_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic4/pbr/2048x2048/ceramic4_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic5",
+      "name": "Keramik 5",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#1B1B1B",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic5/baked/ceramic5_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic5/baked/ceramic5_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic5/pbr/1024x1024/ceramic5_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic5/pbr/1024x1024/ceramic5_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic5/pbr/1024x1024/ceramic5_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic5/pbr/1024x1024/ceramic5_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic5/pbr/1024x1024/ceramic5_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic5/pbr/1024x1024/ceramic5_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic5/pbr/1024x1024/ceramic5_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic5/pbr/1024x1024/ceramic5_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic5/pbr/2048x2048/ceramic5_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic5/pbr/2048x2048/ceramic5_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic5/pbr/2048x2048/ceramic5_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic5/pbr/2048x2048/ceramic5_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic5/pbr/2048x2048/ceramic5_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic5/pbr/2048x2048/ceramic5_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic5/pbr/2048x2048/ceramic5_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic5/pbr/2048x2048/ceramic5_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic6",
+      "name": "Keramik 6",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#2B3815",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic6/baked/ceramic6_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic6/baked/ceramic6_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic6/pbr/1024x1024/ceramic6_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic6/pbr/1024x1024/ceramic6_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic6/pbr/1024x1024/ceramic6_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic6/pbr/1024x1024/ceramic6_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic6/pbr/1024x1024/ceramic6_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic6/pbr/1024x1024/ceramic6_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic6/pbr/1024x1024/ceramic6_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic6/pbr/1024x1024/ceramic6_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic6/pbr/2048x2048/ceramic6_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic6/pbr/2048x2048/ceramic6_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic6/pbr/2048x2048/ceramic6_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic6/pbr/2048x2048/ceramic6_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic6/pbr/2048x2048/ceramic6_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic6/pbr/2048x2048/ceramic6_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic6/pbr/2048x2048/ceramic6_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic6/pbr/2048x2048/ceramic6_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic7",
+      "name": "Keramik 7",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#A89A76",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic7/baked/ceramic7_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic7/baked/ceramic7_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic7/pbr/1024x1024/ceramic7_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic7/pbr/1024x1024/ceramic7_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic7/pbr/1024x1024/ceramic7_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic7/pbr/1024x1024/ceramic7_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic7/pbr/1024x1024/ceramic7_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic7/pbr/1024x1024/ceramic7_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic7/pbr/1024x1024/ceramic7_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic7/pbr/1024x1024/ceramic7_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic7/pbr/2048x2048/ceramic7_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic7/pbr/2048x2048/ceramic7_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic7/pbr/2048x2048/ceramic7_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic7/pbr/2048x2048/ceramic7_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic7/pbr/2048x2048/ceramic7_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic7/pbr/2048x2048/ceramic7_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic7/pbr/2048x2048/ceramic7_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic7/pbr/2048x2048/ceramic7_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic8",
+      "name": "Keramik 8",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#AA9776",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic8/baked/ceramic8_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic8/baked/ceramic8_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic8/pbr/1024x1024/ceramic8_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic8/pbr/1024x1024/ceramic8_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic8/pbr/1024x1024/ceramic8_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic8/pbr/1024x1024/ceramic8_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic8/pbr/1024x1024/ceramic8_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic8/pbr/1024x1024/ceramic8_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic8/pbr/1024x1024/ceramic8_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic8/pbr/1024x1024/ceramic8_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic8/pbr/2048x2048/ceramic8_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic8/pbr/2048x2048/ceramic8_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic8/pbr/2048x2048/ceramic8_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic8/pbr/2048x2048/ceramic8_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic8/pbr/2048x2048/ceramic8_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic8/pbr/2048x2048/ceramic8_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic8/pbr/2048x2048/ceramic8_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic8/pbr/2048x2048/ceramic8_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic9",
+      "name": "Keramik 9",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#E0E0E0",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic9/baked/ceramic9_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic9/baked/ceramic9_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic9/pbr/1024x1024/ceramic9_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic9/pbr/1024x1024/ceramic9_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic9/pbr/1024x1024/ceramic9_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic9/pbr/1024x1024/ceramic9_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic9/pbr/1024x1024/ceramic9_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic9/pbr/1024x1024/ceramic9_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic9/pbr/1024x1024/ceramic9_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic9/pbr/1024x1024/ceramic9_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic9/pbr/2048x2048/ceramic9_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic9/pbr/2048x2048/ceramic9_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic9/pbr/2048x2048/ceramic9_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic9/pbr/2048x2048/ceramic9_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic9/pbr/2048x2048/ceramic9_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic9/pbr/2048x2048/ceramic9_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic9/pbr/2048x2048/ceramic9_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic9/pbr/2048x2048/ceramic9_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic10",
+      "name": "Keramik 10",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#0E2138",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic10/baked/ceramic10_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic10/baked/ceramic10_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic10/pbr/1024x1024/ceramic10_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic10/pbr/1024x1024/ceramic10_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic10/pbr/1024x1024/ceramic10_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic10/pbr/1024x1024/ceramic10_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic10/pbr/1024x1024/ceramic10_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic10/pbr/1024x1024/ceramic10_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic10/pbr/1024x1024/ceramic10_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic10/pbr/1024x1024/ceramic10_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic10/pbr/2048x2048/ceramic10_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic10/pbr/2048x2048/ceramic10_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic10/pbr/2048x2048/ceramic10_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic10/pbr/2048x2048/ceramic10_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic10/pbr/2048x2048/ceramic10_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic10/pbr/2048x2048/ceramic10_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic10/pbr/2048x2048/ceramic10_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic10/pbr/2048x2048/ceramic10_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic11",
+      "name": "Keramik 11",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#633E22",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic11/baked/ceramic11_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic11/baked/ceramic11_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic11/pbr/1024x1024/ceramic11_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic11/pbr/1024x1024/ceramic11_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic11/pbr/1024x1024/ceramic11_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic11/pbr/1024x1024/ceramic11_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic11/pbr/1024x1024/ceramic11_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic11/pbr/1024x1024/ceramic11_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic11/pbr/1024x1024/ceramic11_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic11/pbr/1024x1024/ceramic11_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic11/pbr/2048x2048/ceramic11_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic11/pbr/2048x2048/ceramic11_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic11/pbr/2048x2048/ceramic11_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic11/pbr/2048x2048/ceramic11_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic11/pbr/2048x2048/ceramic11_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic11/pbr/2048x2048/ceramic11_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic11/pbr/2048x2048/ceramic11_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic11/pbr/2048x2048/ceramic11_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic12",
+      "name": "Keramik 12",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#892D07",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic12/baked/ceramic12_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic12/baked/ceramic12_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic12/pbr/1024x1024/ceramic12_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic12/pbr/1024x1024/ceramic12_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic12/pbr/1024x1024/ceramic12_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic12/pbr/1024x1024/ceramic12_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic12/pbr/1024x1024/ceramic12_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic12/pbr/1024x1024/ceramic12_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic12/pbr/1024x1024/ceramic12_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic12/pbr/1024x1024/ceramic12_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic12/pbr/2048x2048/ceramic12_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic12/pbr/2048x2048/ceramic12_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic12/pbr/2048x2048/ceramic12_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic12/pbr/2048x2048/ceramic12_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic12/pbr/2048x2048/ceramic12_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic12/pbr/2048x2048/ceramic12_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic12/pbr/2048x2048/ceramic12_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic12/pbr/2048x2048/ceramic12_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic13",
+      "name": "Keramik 13",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#C3BAAA",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic13/baked/ceramic13_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic13/baked/ceramic13_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic13/pbr/1024x1024/ceramic13_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic13/pbr/1024x1024/ceramic13_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic13/pbr/1024x1024/ceramic13_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic13/pbr/1024x1024/ceramic13_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic13/pbr/1024x1024/ceramic13_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic13/pbr/1024x1024/ceramic13_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic13/pbr/1024x1024/ceramic13_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic13/pbr/1024x1024/ceramic13_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic13/pbr/2048x2048/ceramic13_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic13/pbr/2048x2048/ceramic13_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic13/pbr/2048x2048/ceramic13_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic13/pbr/2048x2048/ceramic13_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic13/pbr/2048x2048/ceramic13_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic13/pbr/2048x2048/ceramic13_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic13/pbr/2048x2048/ceramic13_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic13/pbr/2048x2048/ceramic13_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic14",
+      "name": "Keramik 14",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#412D39",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic14/baked/ceramic14_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic14/baked/ceramic14_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic14/pbr/1024x1024/ceramic14_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic14/pbr/1024x1024/ceramic14_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic14/pbr/1024x1024/ceramic14_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic14/pbr/1024x1024/ceramic14_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic14/pbr/1024x1024/ceramic14_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic14/pbr/1024x1024/ceramic14_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic14/pbr/1024x1024/ceramic14_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic14/pbr/1024x1024/ceramic14_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic14/pbr/2048x2048/ceramic14_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic14/pbr/2048x2048/ceramic14_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic14/pbr/2048x2048/ceramic14_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic14/pbr/2048x2048/ceramic14_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic14/pbr/2048x2048/ceramic14_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic14/pbr/2048x2048/ceramic14_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic14/pbr/2048x2048/ceramic14_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic14/pbr/2048x2048/ceramic14_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic15",
+      "name": "Keramik 15",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#3A5560",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic15/baked/ceramic15_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic15/baked/ceramic15_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic15/pbr/1024x1024/ceramic15_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic15/pbr/1024x1024/ceramic15_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic15/pbr/1024x1024/ceramic15_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic15/pbr/1024x1024/ceramic15_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic15/pbr/1024x1024/ceramic15_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic15/pbr/1024x1024/ceramic15_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic15/pbr/1024x1024/ceramic15_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic15/pbr/1024x1024/ceramic15_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic15/pbr/2048x2048/ceramic15_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic15/pbr/2048x2048/ceramic15_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic15/pbr/2048x2048/ceramic15_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic15/pbr/2048x2048/ceramic15_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic15/pbr/2048x2048/ceramic15_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic15/pbr/2048x2048/ceramic15_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic15/pbr/2048x2048/ceramic15_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic15/pbr/2048x2048/ceramic15_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic16",
+      "name": "Keramik 16",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#161616",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic16/baked/ceramic16_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic16/baked/ceramic16_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic16/pbr/1024x1024/ceramic16_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic16/pbr/1024x1024/ceramic16_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic16/pbr/1024x1024/ceramic16_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic16/pbr/1024x1024/ceramic16_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic16/pbr/1024x1024/ceramic16_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic16/pbr/1024x1024/ceramic16_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic16/pbr/1024x1024/ceramic16_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic16/pbr/1024x1024/ceramic16_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic16/pbr/2048x2048/ceramic16_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic16/pbr/2048x2048/ceramic16_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic16/pbr/2048x2048/ceramic16_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic16/pbr/2048x2048/ceramic16_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic16/pbr/2048x2048/ceramic16_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic16/pbr/2048x2048/ceramic16_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic16/pbr/2048x2048/ceramic16_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic16/pbr/2048x2048/ceramic16_2048_emissive.png"
+        }
+      }
+    },
+    {
+      "id": "ceramic.ceramic17",
+      "name": "Keramik 17",
+      "category": "material_workspace_category_ceramic",
+      "family": "ceramic",
+      "type": "texture",
+      "seamless": true,
+      "defaultRepeatSizeCm": {
+        "width": 100,
+        "height": 100
+      },
+      "previewColor": "#111111",
+      "maps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic17/baked/ceramic17_1024_baked.png"
+        }
+      },
+      "bakedMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic17/baked/ceramic17_1024_baked.png"
+        }
+      },
+      "pbrMaps": {
+        "1024x1024": {
+          "baseColor": "assets/textures/ceramic/ceramic17/pbr/1024x1024/ceramic17_1024_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic17/pbr/1024x1024/ceramic17_1024_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic17/pbr/1024x1024/ceramic17_1024_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic17/pbr/1024x1024/ceramic17_1024_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic17/pbr/1024x1024/ceramic17_1024_metallic.png",
+          "height": "assets/textures/ceramic/ceramic17/pbr/1024x1024/ceramic17_1024_height.png",
+          "opacity": "assets/textures/ceramic/ceramic17/pbr/1024x1024/ceramic17_1024_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic17/pbr/1024x1024/ceramic17_1024_emissive.png"
+        },
+        "2048x2048": {
+          "baseColor": "assets/textures/ceramic/ceramic17/pbr/2048x2048/ceramic17_2048_basecolor.png",
+          "normalOpenGl": "assets/textures/ceramic/ceramic17/pbr/2048x2048/ceramic17_2048_normal_OpenGL.png",
+          "roughness": "assets/textures/ceramic/ceramic17/pbr/2048x2048/ceramic17_2048_roughness.png",
+          "ambientOcclusion": "assets/textures/ceramic/ceramic17/pbr/2048x2048/ceramic17_2048_ao.png",
+          "metallic": "assets/textures/ceramic/ceramic17/pbr/2048x2048/ceramic17_2048_metallic.png",
+          "height": "assets/textures/ceramic/ceramic17/pbr/2048x2048/ceramic17_2048_height.png",
+          "opacity": "assets/textures/ceramic/ceramic17/pbr/2048x2048/ceramic17_2048_opacity.png",
+          "emissive": "assets/textures/ceramic/ceramic17/pbr/2048x2048/ceramic17_2048_emissive.png"
         }
       }
     }
