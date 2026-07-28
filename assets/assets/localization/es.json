@@ -1248,5 +1248,7 @@
   "settings_currency_sync_success": "Los tipos de cambio actuales se guardaron en el proyecto.",
   "settings_currency_sync_failed": "No se pudieron cargar los tipos de cambio actuales.",
   "settings_not_available": "No disponible",
-  "settings_save_failed": "No se pudieron guardar los ajustes del proyecto."
+  "settings_save_failed": "No se pudieron guardar los ajustes del proyecto.",
+  "material_workspace_laying_module_assignment_hint": "El período define cuántas copias del módulo pueden asignarse de forma independiente. Después, toca una baldosa directamente en la vista previa 2D.",
+  "material_workspace_laying_preview_assignment_action": "Tocar una baldosa"
 }
