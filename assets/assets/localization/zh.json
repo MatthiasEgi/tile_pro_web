@@ -942,6 +942,7 @@
   "room_three_d_gpu_render_resolution_1920": "最高 1920 px",
   "room_three_d_gpu_render_resolution_2304": "最高 2304 px",
   "room_three_d_gpu_render_resolution_4096": "最高 4096 px（4K）",
+  "room_three_d_gpu_render_resolution_8192": "最高 8192 px（8K）",
   "room_three_d_gpu_quality_limited_by_memory": "设备内存限制了质量",
   "room_three_d_gpu_quality_memory_breakdown": "纹理 {textures} · 解码 {decode} · 渲染目标 {renderTarget}",
   "room_three_d_gpu_material_debug": "材质调试",

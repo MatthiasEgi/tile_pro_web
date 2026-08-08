@@ -904,6 +904,7 @@
   "room_three_d_gpu_render_resolution_1920": "Hasta 1920 px",
   "room_three_d_gpu_render_resolution_2304": "Hasta 2304 px",
   "room_three_d_gpu_render_resolution_4096": "Hasta 4096 px (4K)",
+  "room_three_d_gpu_render_resolution_8192": "Hasta 8192 px (8K)",
   "room_three_d_gpu_quality_limited_by_memory": "La memoria del dispositivo limita la calidad",
   "room_three_d_gpu_quality_memory_breakdown": "Texturas {textures} · decodificación {decode} · destino de renderizado {renderTarget}",
   "room_three_d_gpu_material_debug": "Depuración de material",
