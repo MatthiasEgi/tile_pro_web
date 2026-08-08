@@ -933,6 +933,8 @@
   "room_three_d_gpu_scene_status": "Escena preparada desde geometría 2D.",
   "room_three_d_gpu_scene_empty": "Crea un suelo o una superficie en medición para preparar la escena GPU.",
   "room_three_d_gpu_native_spike_loading": "Comprobando Flutter GPU",
+  "room_three_d_gpu_texture_preparing": "Preparando textura",
+  "room_three_d_gpu_texture_preparing_failed": "No se pudo preparar la textura",
   "room_three_d_gpu_native_spike_ready": "Clear pass de Flutter GPU listo",
   "room_three_d_gpu_native_spike_buffers_ready": "Buffers de malla Flutter GPU listos",
   "room_three_d_gpu_native_spike_draw_ready": "Draw call de Flutter GPU listo",

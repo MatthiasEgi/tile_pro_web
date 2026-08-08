@@ -973,6 +973,8 @@
   "room_three_d_gpu_scene_status": "Szene aus 2D-Geometrie vorbereitet.",
   "room_three_d_gpu_scene_empty": "Lege im Aufmaß zuerst Boden oder Flächen an, um die GPU-Szene vorzubereiten.",
   "room_three_d_gpu_native_spike_loading": "Flutter GPU wird geprüft",
+  "room_three_d_gpu_texture_preparing": "Textur wird vorbereitet",
+  "room_three_d_gpu_texture_preparing_failed": "Textur konnte nicht vorbereitet werden",
   "room_three_d_gpu_native_spike_ready": "Flutter-GPU-Clear-Pass bereit",
   "room_three_d_gpu_native_spike_buffers_ready": "Flutter-GPU-Mesh-Buffer bereit",
   "room_three_d_gpu_native_spike_draw_ready": "Flutter-GPU-Draw-Call bereit",
