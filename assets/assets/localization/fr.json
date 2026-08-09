@@ -489,7 +489,7 @@
   "material_workspace_tile_surface_source_material": "Matériau",
   "material_workspace_tile_surface_source_builtin": "Matériau intégré",
   "material_workspace_field_tile_surface_color": "Couleur de surface",
-  "material_workspace_field_tile_construction_color": "Couleur de construction",
+  "material_workspace_field_tile_construction_color": "Couleur du carreau",
   "material_workspace_field_tile_texture_variation": "Variation de texture",
   "material_workspace_tile_texture_repeat_same": "Répéter à l'identique",
   "material_workspace_tile_texture_four_offsets": "Varier quatre offsets",

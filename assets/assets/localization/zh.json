@@ -489,7 +489,7 @@
   "material_workspace_tile_surface_source_material": "材料",
   "material_workspace_tile_surface_source_builtin": "内置材料",
   "material_workspace_field_tile_surface_color": "表面颜色",
-  "material_workspace_field_tile_construction_color": "施工颜色",
+  "material_workspace_field_tile_construction_color": "瓷砖颜色",
   "material_workspace_field_tile_texture_variation": "纹理变化",
   "material_workspace_tile_texture_repeat_same": "完全重复",
   "material_workspace_tile_texture_four_offsets": "变化四个偏移",

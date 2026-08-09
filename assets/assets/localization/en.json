@@ -489,7 +489,7 @@
   "material_workspace_tile_surface_source_material": "Material",
   "material_workspace_tile_surface_source_builtin": "Built-in Material",
   "material_workspace_field_tile_surface_color": "Surface Color",
-  "material_workspace_field_tile_construction_color": "Construction Color",
+  "material_workspace_field_tile_construction_color": "Tile color",
   "material_workspace_field_tile_texture_variation": "Texture Variation",
   "material_workspace_tile_texture_repeat_same": "Repeat Identically",
   "material_workspace_tile_texture_four_offsets": "Vary Four Offsets",

@@ -455,7 +455,7 @@
   "material_workspace_tile_surface_source_material": "Material",
   "material_workspace_tile_surface_source_builtin": "Material integrado",
   "material_workspace_field_tile_surface_color": "Color de superficie",
-  "material_workspace_field_tile_construction_color": "Color de construcción",
+  "material_workspace_field_tile_construction_color": "Color del azulejo",
   "material_workspace_field_tile_texture_variation": "Variación de textura",
   "material_workspace_tile_texture_repeat_same": "Repetir idéntico",
   "material_workspace_tile_texture_four_offsets": "Variar cuatro offsets",
