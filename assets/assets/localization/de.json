@@ -1133,6 +1133,7 @@
   "room_three_d_gpu_render_resolution_4096": "Bis 4096 px (4K)",
   "room_three_d_gpu_render_resolution_8192": "Bis 8192 px (8K)",
   "room_three_d_gpu_quality_limited_by_memory": "Gerätespeicher begrenzt die Qualität",
+  "room_three_d_gpu_quality_memory_budget_exceeded": "Geschätzter Speicherbedarf {required} überschreitet das Budget {budget}",
   "room_three_d_gpu_quality_memory_breakdown": "Texturen {textures} · Decode {decode} · Renderziel {renderTarget}",
   "room_three_d_gpu_material_debug": "Material-Debug",
   "room_three_d_gpu_material_debug_final": "Final",
