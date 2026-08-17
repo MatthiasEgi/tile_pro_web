@@ -248924,13 +248924,14 @@ r.aGE(a)
 if(a.b===B.ix){r.aEf(a)
 r.yv()
 r.Gv()}r.O(new A.clN())},
-aEf(a){var s,r,q=this,p=a==null?q.Q:a
-if(p==null||p.b!==B.ix)return
-q.bH7(p)
-s=q.y
-r=q.fy
-if(q.dx==null||s==null||!s.c||s.d||!s.ga1R()||s.e!==p.a||r==null||r.clientWidth<=0||r.clientHeight<=0)return
-q.bH5(p)},
+aEf(a){var s,r,q,p=this,o=a==null?p.Q:a
+if(o==null||o.b!==B.ix)return
+p.bH7(o)
+s=p.dx
+r=p.y
+q=p.fy
+if(s==null||r==null||!r.c||r.d||!r.ga1R()||r.e!==o.a||q==null||q.clientWidth<=0||q.clientHeight<=0)return
+p.bH5(o,s)},
 aEe(){return this.aEf(null)},
 b5W(){var s,r,q=this,p=q.Q
 if(p==null||p.b!==B.ix)return
@@ -248940,66 +248941,66 @@ r=s.a.a
 q.cy=q.aBv(r)
 q.aq8(r.y.gJ9())
 q.Gv()},
-bH5(a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1=a5.c,a2=a.y,a3=a.x,a4=a3==null?a0:a3.gjY()
-if(a5.b!==B.ix||a1==null||a2==null||a2.e!==a5.a||a4==null)return
-k=a.as
-a3=k==null
-if(!a3&&k.d===a2.e&&k.e===a1)return
-a.f.hU()
-a.r.hU()
-if(!a3)k.p()
-a.at=a.as=null
-try{s=a.ax
-r=a.ay
-if(s==null||r==null||s.b!==a2.e||s.a!==a4||!r.aiN(a4,a2.e)){a.UT()
-a3=a4
-j=a2.e
-i=A.dIR(a3)
-h=new A.aC4(a3,j,i,new A.ls(t.jP),new A.ls(t.WF))
-if(i<=0)A.t(B.ceV)
-h.r=new A.aBU(A.d_T(128,h.gbtn(),h.gbsz(),t.N,t.uN),t.xw)
-q=h
-try{a3=a4
-j=q
-i=A.ns(a0,t.Fs)
-g=new A.aC1(a3,j,j.b,new A.bEW(4,i),A.l(t.qH,t.g4),A.l(t.K,t.V8),A.l(t.N3,t.SW),new A.ls(t.l2))
-if(j.a!==a3)A.t(B.cdU)
-g.f=A.d_T(128,g.gbdZ(),g.gbtj(),t.cq,t.uk)
-f=j.We()
-if(f!=null)A.t(f)
-a3=j.y
-if(a3!=null&&a3!==g)A.t(A.ak("A texture owner supports exactly one material owner."))
-j.y=g
-j.z=g.gbfK()
-r=g}catch(e){q.p()
-throw e}s=q
-a.ax=q
-a.ay=r
-p=a.dx
-if(p!=null)r.a4O(p.f)}o=a.ch
-if(o!=null){a3=r
-a3=!o.aNC(a2.e,a3)}else a3=!1
-if(a3){o.p()
-a.ch=null}a3=a4
-j=a2.e
-i=a1
-d=r
-if(i.a!==j)A.t(B.cem)
-if(d.e!==j||!d.aiN(a3,j))A.t(B.cei)
-d.c49()
-c=A.dCY(a3,A.dTk(),A.dTl())
-b=t.NX
-a.as=new A.bGJ(a3,new A.bFu(A.l(t.B5,t.V4)),d,j,i,c.a,c.b,A.b9(8,a0,!1,b),A.b9(8,a0,!1,b))
-if(a.ch==null){a3=r
-j=a2.e
-if(a3.e!==j||a3.ax||a3.at)A.t(A.J("Web warm-up must bind one live material owner and generation.",a0))
-a.ch=new A.bGW(a3,j,new A.bGn())}a.Gv()}catch(e){a3=A.Q(e)
-if(a3 instanceof A.lj){n=a3
-a.at=n
-a.aGF(n)}else{m=a3
-l=new A.lj(B.ajT,A.F(m))
-a.at=l
-a.aGF(l)}}},
+bH5(a4,a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=this,a=null,a0=a4.c,a1=b.y,a2=b.x,a3=a2==null?a:a2.gjY()
+if(a4.b!==B.ix||a0==null||a1==null||a1.e!==a4.a||a3==null)return
+l=b.as
+a2=l==null
+if(!a2&&l.d===a1.e&&l.e===a0)return
+b.f.hU()
+b.r.hU()
+if(!a2)l.p()
+b.at=b.as=null
+try{s=b.ax
+r=b.ay
+if(s==null||r==null||s.b!==a1.e||s.a!==a3||!r.aiN(a3,a1.e)){b.UT()
+b.dx=a5
+a2=a3
+k=a1.e
+j=A.dIR(a2)
+i=new A.aC4(a2,k,j,new A.ls(t.jP),new A.ls(t.WF))
+if(j<=0)A.t(B.ceV)
+i.r=new A.aBU(A.d_T(128,i.gbtn(),i.gbsz(),t.N,t.uN),t.xw)
+q=i
+try{a2=a3
+k=q
+j=A.ns(a,t.Fs)
+h=new A.aC1(a2,k,k.b,new A.bEW(4,j),A.l(t.qH,t.g4),A.l(t.K,t.V8),A.l(t.N3,t.SW),new A.ls(t.l2))
+if(k.a!==a2)A.t(B.cdU)
+h.f=A.d_T(128,h.gbdZ(),h.gbtj(),t.cq,t.uk)
+g=k.We()
+if(g!=null)A.t(g)
+a2=k.y
+if(a2!=null&&a2!==h)A.t(A.ak("A texture owner supports exactly one material owner."))
+k.y=h
+k.z=h.gbfK()
+r=h}catch(f){q.p()
+throw f}s=q
+b.ax=q
+b.ay=r
+r.a4O(a5.f)}p=b.ch
+if(p!=null){a2=r
+a2=!p.aNC(a1.e,a2)}else a2=!1
+if(a2){p.p()
+b.ch=null}a2=a3
+k=a1.e
+j=a0
+e=r
+if(j.a!==k)A.t(B.cem)
+if(e.e!==k||!e.aiN(a2,k))A.t(B.cei)
+e.c49()
+d=A.dCY(a2,A.dTk(),A.dTl())
+c=t.NX
+b.as=new A.bGJ(a2,new A.bFu(A.l(t.B5,t.V4)),e,k,j,d.a,d.b,A.b9(8,a,!1,c),A.b9(8,a,!1,c))
+if(b.ch==null){a2=r
+k=a1.e
+if(a2.e!==k||a2.ax||a2.at)A.t(A.J("Web warm-up must bind one live material owner and generation.",a))
+b.ch=new A.bGW(a2,k,new A.bGn())}b.Gv()}catch(f){a2=A.Q(f)
+if(a2 instanceof A.lj){o=a2
+b.at=o
+b.aGF(o)}else{n=a2
+m=new A.lj(B.ajT,A.F(n))
+b.at=m
+b.aGF(m)}}},
 aGE(a){var s,r,q,p=this.fy
 if(p==null)return
 p.setAttribute("data-tile-pro-room-three-d-program-state",a.b.b)
