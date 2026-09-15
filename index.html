@@ -31,6 +31,13 @@
 
   <title>TilePro</title>
   <link rel="manifest" href="manifest.json">
+
+  <!--
+    Sign in with Apple im Browser laeuft ueber Apples JS-SDK (Popup-Flow des
+    Frameworks). Ohne dieses Script bleibt der Apple-Login im Web ohne
+    Funktion; Service-ID und Return-URL kommen aus den Runtime-Defines.
+  -->
+  <script type="text/javascript" src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"></script>
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
