@@ -24219,7 +24219,8 @@ k=e}}l=f}m=h}}if(j){if(n)p=o
 else{j=s?q:b
 o=(j==null?p.a(j):j).b
 p=o}A.eZ(p)
-p=new A.V(Math.max(A.io(m),A.io(k)),Math.max(A.io(l),p))
+a=new A.V(Math.max(A.io(m),A.io(k)),Math.max(A.io(l),p))
+p=a
 break A}p=d}return p},
 dD3(a,b,c,d,e,f,g,h,i){var s,r=null,q=A.be(t.O5),p=J.iM(4,t.iy)
 for(s=0;s<4;++s)p[s]=new A.tl(r,B.bD,B.O,new A.kG(1),r,r,r,r,B.c_,r)
@@ -55918,11 +55919,13 @@ c0n:function c0n(a){this.a=a},
 c0W:function c0W(){},
 dcs(a){var s=A.QN(a)
 return s!=null&&s.gand()&&s.ghK()==="https"&&s.grk().length!==0},
-aK7:function aK7(a,b,c,d){var _=this
+aK7:function aK7(a,b,c,d,e,f){var _=this
 _.a=a
 _.b=b
 _.c=c
-_.d=d},
+_.d=d
+_.r=e
+_.w=f},
 cYk(a,b){return B.f7},
 DQ:function DQ(a,b){this.a=a
 this.b=b},
@@ -83764,7 +83767,7 @@ $S:6}
 A.cH8.prototype={
 $1(a){var s=A.ip().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/5f77625673248ee5846fbcaf5d3e1a3878386fd7/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/a804b261645ef8c13eb3d5c44a5c2fb0340c5539/":s)+a},
 $S:5}
 A.azu.prototype={
 gF(a){var s=this.a
@@ -215228,7 +215231,7 @@ p.V()
 s=1
 break}s=!p.e?3:4
 break
-case 3:if(m.ad3(B.f.q(""))==null){p.fy=!0
+case 3:if(m.ad3(B.f.q(m.w))==null){p.fy=!0
 p.dy=B.hD
 p.go=!0
 p.V()
@@ -223940,7 +223943,7 @@ p=r}return p},
 gaaB(){var s,r,q,p,o,n=this,m=n.x
 if(m===$){s=n.a
 r=s.b
-q=r.ad3(B.f.q(""))
+q=r.ad3(B.f.q(r.r))
 s=s.a
 p=A.nq(s,r).gMQ()
 o=n.gbyJ()
@@ -223974,7 +223977,7 @@ r=A.z_("")
 q=o.a
 r=p.Q=new A.ob(s,B.azG,o,A.dHx(q),A.nq(q,o.b).c.b,r,B.lG,$.aK())
 o=r}return o},
-bHp(){var s=this.a,r=s.b,q=r.ad3(B.f.q(""))
+bHp(){var s=this.a,r=s.b,q=r.ad3(B.f.q(r.w))
 s=A.nq(s.a,r).c
 if(!(s.a&&!s.b)||q==null)return B.cf4
 return A.a3([B.ES,new A.b7Y(this,q)],t.vY,t.R8)},
@@ -292644,8 +292647,8 @@ B.D5=new A.a_t(3,"publishing")
 B.cL9=new A.Ag(0,"resolving")
 B.cLa=new A.Ag(1,"demo")
 B.k0=new A.Ag(2,"subscribed")
-B.aqB=new A.aK7("95609808009-4bcrr9o17luj4j71ag6en590s7175l7d.apps.googleusercontent.com","95609808009-kh2m5l2qc8vivsaha11tf24ckgtrrkne.apps.googleusercontent.com","ilikesoftware.tilepro.web","https://matthiasegi.github.io/tile_pro_web/")
-B.cYk=new A.aK7("","","","")
+B.cYk=new A.aK7("","","","","","")
+B.aqB=new A.aK7("95609808009-4bcrr9o17luj4j71ag6en590s7175l7d.apps.googleusercontent.com","95609808009-kh2m5l2qc8vivsaha11tf24ckgtrrkne.apps.googleusercontent.com","ilikesoftware.tilepro.web","https://matthiasegi.github.io/tile_pro_web/","https://europe-west3-tilepro-d7dfa.cloudfunctions.net/deleteAccount","https://europe-west3-tilepro-d7dfa.cloudfunctions.net/entitlementStatus")
 B.it=new A.DQ(0,"android")
 B.hF=new A.DQ(1,"ios")
 B.hG=new A.DQ(2,"macos")
