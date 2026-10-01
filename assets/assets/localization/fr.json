@@ -50,6 +50,7 @@
   "document_export_unavailable": "Le téléchargement ou l’enregistrement de fichiers n’est pas disponible dans ce navigateur ou sur cet appareil.",
   "document_export_failed": "L’export du document a échoué.",
   "document_export_generation_failed": "Le document n’a pas pu être créé. Veuillez réessayer.",
+  "document_export_too_large": "Le projet est trop volumineux pour ce document. Réessayer n’y changera rien : essayez l’autre format ou contactez le support.",
   "document_export_file_delivery_failed": "Le document a été créé, mais il n’a pas pu être téléchargé ni enregistré. Vérifiez les autorisations de téléchargement du navigateur ou de l’appareil, puis réessayez.",
   "document_export_data_unavailable": "Les données du projet, des surfaces ou des coûts ne sont pas encore entièrement chargées.",
   "shopping_document_title": "Liste d’achats",

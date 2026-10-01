@@ -50,6 +50,7 @@
   "document_export_unavailable": "File download or saving is not available in this browser or on this device.",
   "document_export_failed": "Document export failed.",
   "document_export_generation_failed": "The document could not be created. Please try again.",
+  "document_export_too_large": "This project is too large for this document. Trying again won't help – try the other format or contact support.",
   "document_export_file_delivery_failed": "The document was created, but it could not be downloaded or saved. Check your browser or device's download permissions and try again.",
   "document_export_data_unavailable": "Project, surface, or cost data is not fully loaded yet.",
   "shopping_document_title": "Shopping List",

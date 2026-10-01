@@ -50,6 +50,7 @@
   "document_export_unavailable": "Der Dateidownload oder Speicherdialog ist in diesem Browser oder auf diesem Gerät nicht verfügbar.",
   "document_export_failed": "Dokumentexport ist fehlgeschlagen.",
   "document_export_generation_failed": "Das Dokument konnte nicht erstellt werden. Bitte versuche es erneut.",
+  "document_export_too_large": "Das Projekt ist für dieses Dokument zu groß. Ein erneuter Versuch hilft nicht – probiere das andere Format oder wende dich an den Support.",
   "document_export_file_delivery_failed": "Das Dokument wurde erstellt, aber der Download oder das Speichern ist fehlgeschlagen. Prüfe die Download-Berechtigungen deines Browsers oder Geräts und versuche es erneut.",
   "document_export_data_unavailable": "Projekt-, Flächen- oder Kostendaten sind noch nicht vollständig geladen.",
   "shopping_document_title": "Einkaufsliste",

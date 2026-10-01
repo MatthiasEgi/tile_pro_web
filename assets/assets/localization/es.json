@@ -50,6 +50,7 @@
   "document_export_unavailable": "La descarga o el guardado de archivos no están disponibles en este navegador o dispositivo.",
   "document_export_failed": "Ha fallado la exportación del documento.",
   "document_export_generation_failed": "No se ha podido crear el documento. Inténtalo de nuevo.",
+  "document_export_too_large": "El proyecto es demasiado grande para este documento. Volver a intentarlo no servirá: prueba el otro formato o ponte en contacto con el soporte.",
   "document_export_file_delivery_failed": "El documento se ha creado, pero no se ha podido descargar ni guardar. Comprueba los permisos de descarga del navegador o del dispositivo e inténtalo de nuevo.",
   "document_export_data_unavailable": "Los datos del proyecto, las superficies o los costes aún no se han cargado por completo.",
   "shopping_document_title": "Lista de compras",
