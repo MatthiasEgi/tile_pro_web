@@ -1671,5 +1671,7 @@
   "settings_not_available": "–",
   "settings_save_failed": "Les paramètres du projet n’ont pas pu être enregistrés. Réessayez.",
   "room_filter_all_room_types": "Tous les types de pièces",
-  "room_filter_all_room_statuses": "Tous les statuts"
+  "room_filter_all_room_statuses": "Tous les statuts",
+  "app_version": "Version de l’application",
+  "app_version_unavailable": "Version indisponible"
 }

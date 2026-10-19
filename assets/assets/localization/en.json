@@ -1671,5 +1671,7 @@
   "settings_currency_sync_success": "The latest exchange rates were applied.",
   "settings_currency_sync_failed": "The exchange rates could not be loaded. Check your internet connection and try again.",
   "settings_not_available": "–",
-  "settings_save_failed": "The project settings could not be saved. Try again."
+  "settings_save_failed": "The project settings could not be saved. Try again.",
+  "app_version": "App version",
+  "app_version_unavailable": "Version unavailable"
 }

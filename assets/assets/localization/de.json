@@ -16,7 +16,7 @@
   "help_common_language_title": "Sprache",
   "help_common_language_body": "Stellt TilePro auf Deutsch, Englisch, Spanisch, Französisch oder Chinesisch um.",
   "help_common_theme_title": "Darstellung",
-  "help_common_theme_body": "Jedes Antippen schaltet weiter: hell, dunkel und je eine Variante für Farbenblinde.",
+  "help_common_theme_body": "Jedes Antippen schaltet weiter: hell, dunkel und jeweils eine Variante mit angepassten Farben für Menschen mit eingeschränktem Farbsehen.",
   "help_common_account_title": "Dein Konto",
   "help_common_account_body": "Hier meldest du dich an oder ab, löschst dein Konto und findest Datenschutz, Impressum und Support.",
   "help_common_overflow_title": "Weitere Aktionen",
@@ -179,8 +179,8 @@
   "help_laying_preview_body": "In 2D siehst du das Muster mit Fugen, in 3D drehst du es durch Ziehen. Bei vielen Verbänden tauschst du in der 2D-Vorschau per Tipp einzelne Fliesen.",
   "theme_switch_to_dark": "Dunkles Design aktivieren",
   "theme_switch_to_light": "Helles Design aktivieren",
-  "theme_switch_to_colorblind_light": "Helles Design für Farbenblinde aktivieren",
-  "theme_switch_to_colorblind_dark": "Dunkles Design für Farbenblinde aktivieren",
+  "theme_switch_to_colorblind_light": "Helles Design bei eingeschränktem Farbsehen aktivieren",
+  "theme_switch_to_colorblind_dark": "Dunkles Design bei eingeschränktem Farbsehen aktivieren",
   "create_project_title": "Neues Projekt",
   "create_project_description": "Alle Angaben kannst du später ändern.",
   "duplicate_project_title": "Projekt duplizieren",
@@ -1671,5 +1671,7 @@
   "settings_currency_sync_success": "Die aktuellen Wechselkurse wurden übernommen.",
   "settings_currency_sync_failed": "Die Wechselkurse konnten nicht geladen werden. Prüfe deine Internetverbindung und versuche es erneut.",
   "settings_not_available": "–",
-  "settings_save_failed": "Die Projekteinstellungen konnten nicht gespeichert werden. Versuche es erneut."
+  "settings_save_failed": "Die Projekteinstellungen konnten nicht gespeichert werden. Versuche es erneut.",
+  "app_version": "App-Version",
+  "app_version_unavailable": "Version nicht verfügbar"
 }

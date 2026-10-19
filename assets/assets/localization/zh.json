@@ -1671,5 +1671,7 @@
   "settings_not_available": "–",
   "settings_save_failed": "无法保存项目设置。请重试。",
   "room_filter_all_room_types": "所有房间类型",
-  "room_filter_all_room_statuses": "所有房间状态"
+  "room_filter_all_room_statuses": "所有房间状态",
+  "app_version": "应用版本",
+  "app_version_unavailable": "版本不可用"
 }

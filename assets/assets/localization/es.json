@@ -1671,5 +1671,7 @@
   "room_material_laying_joint_color": "Color de junta",
   "room_material_laying_joint_color_default": "Estándar",
   "room_filter_all_room_types": "Todos los tipos de habitación",
-  "room_filter_all_room_statuses": "Todos los estados"
+  "room_filter_all_room_statuses": "Todos los estados",
+  "app_version": "Versión de la app",
+  "app_version_unavailable": "Versión no disponible"
 }
