@@ -17,6 +17,8 @@
   <base href="/tile_pro_web/">
 
   <meta charset="UTF-8">
+  <!-- Shared by both web hosts; framing is additionally blocked at bootstrap. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self' 'wasm-unsafe-eval' blob: https://www.gstatic.com https://accounts.google.com https://appleid.cdn-apple.com; style-src 'self' 'unsafe-inline' https://accounts.google.com; img-src 'self' data: blob: https:; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' https://www.gstatic.com https://fonts.gstatic.com https://accounts.google.com https://oauth2.googleapis.com https://www.googleapis.com https://appleid.apple.com https://appleid.cdn-apple.com https://europe-west3-tilepro-d7dfa.cloudfunctions.net; frame-src https://accounts.google.com https://appleid.apple.com; worker-src 'self' blob:; manifest-src 'self'; form-action 'self' https://appleid.apple.com">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="Tile project management and XML backup workspace.">
 
