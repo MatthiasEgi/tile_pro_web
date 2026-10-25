@@ -1313,6 +1313,7 @@
   "room_three_d_gpu_render_resolution_8192": "最高 8192 px（8K）",
   "room_three_d_gpu_setting_value": "{setting}：{value}",
   "room_three_d_gpu_quality_limited_by_memory": "因设备内存不足，已降低画质",
+  "room_three_d_gpu_texture_resolution_limited": "纹理分辨率：最高 {pixels} 像素",
   "room_three_d_gpu_quality_memory_budget_exceeded": "设备内存不足：约需 {required}，可用 {budget}",
   "room_three_d_gpu_quality_downgrade": "{setting}：{effective}（而非 {requested}）",
   "room_three_d_gpu_quality_memory_breakdown": "纹理 {textures} · 缓存 {decode} · 图像内存 {renderTarget}",

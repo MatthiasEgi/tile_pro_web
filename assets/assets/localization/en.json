@@ -1315,6 +1315,7 @@
   "room_three_d_gpu_render_resolution_8192": "Up to 8192 px (8K)",
   "room_three_d_gpu_setting_value": "{setting}: {value}",
   "room_three_d_gpu_quality_limited_by_memory": "Quality reduced due to device memory",
+  "room_three_d_gpu_texture_resolution_limited": "Texture resolution: up to {pixels} px",
   "room_three_d_gpu_quality_memory_budget_exceeded": "Not enough device memory: about {required} needed, {budget} available",
   "room_three_d_gpu_quality_downgrade": "{setting}: {effective} instead of {requested}",
   "room_three_d_gpu_quality_memory_breakdown": "Textures {textures} · cache {decode} · image memory {renderTarget}",
