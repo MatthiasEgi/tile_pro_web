@@ -27,9 +27,13 @@ in vec3 position;
 in vec3 normal;
 in vec3 material_side_normal;
 in vec2 uv;
+// Linear RGBA (glTF COLOR_0 semantics); white leaves material and texture
+// colour unchanged.
+in vec4 vertex_color;
 
 out vec2 v_texture_coords;
 out vec4 v_surface_color;
+out vec4 v_vertex_color;
 out vec3 v_world_position;
 out vec3 v_world_normal;
 out vec3 v_world_material_side_normal;
@@ -61,6 +65,7 @@ void main() {
       uv.x / max(material_info.material_params.x, 0.0001),
       uv.y / max(material_info.material_params.y, 0.0001));
   v_surface_color = vec4(clamp(color, 0.0, 1.0), material_info.base_color.a);
+  v_vertex_color = vertex_color;
   v_world_position = position;
   v_world_normal = resolved_normal;
   v_world_material_side_normal = material_side_normal;

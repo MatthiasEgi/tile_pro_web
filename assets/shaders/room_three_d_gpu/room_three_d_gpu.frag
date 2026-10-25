@@ -48,6 +48,7 @@ uniform sampler2D height_texture;
 
 in vec2 v_texture_coords;
 in vec4 v_surface_color;
+in vec4 v_vertex_color;
 in vec3 v_world_position;
 in vec3 v_world_normal;
 in vec3 v_world_material_side_normal;
@@ -603,8 +604,11 @@ void main() {
   vec4 base_sample = use_front_texture > 0.5
       ? texture(base_color_texture, material_uv)
       : v_surface_color;
-  vec3 albedo = srgb_to_linear(base_sample.rgb);
-  float alpha = base_sample.a * v_surface_color.a;
+  // glTF COLOR_0: the sRGB-decoded base sample (texture, or the material
+  // colour without one) times the already linear vertex colour; alpha
+  // multiplies too. White keeps the previous result exactly.
+  vec3 albedo = srgb_to_linear(base_sample.rgb) * v_vertex_color.rgb;
+  float alpha = base_sample.a * v_surface_color.a * v_vertex_color.a;
 
   if (use_front_pbr > 0.5 && material_info.material_effect_flags.x > 0.5) {
     alpha *= texture(opacity_texture, material_uv).r;
