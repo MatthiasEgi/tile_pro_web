@@ -1678,5 +1678,17 @@
   "settings_not_available": "–",
   "settings_save_failed": "The project settings could not be saved. Try again.",
   "app_version": "App version",
-  "app_version_unavailable": "Version unavailable"
+  "app_version_unavailable": "Version unavailable",
+  "database_upgrade_title": "Update your data",
+  "database_upgrade_message": "This version of TilePro stores your projects in a newer format. TilePro first backs up your existing data on this device and then converts it. Nothing changes until you agree.",
+  "database_upgrade_message_newer": "Your data comes from a newer version of TilePro and cannot be opened here. TilePro first backs it up on this device and then tries to convert it; if that fails, TilePro starts with empty data and the backup is kept.",
+  "database_upgrade_action": "Back up and update",
+  "database_upgrade_running": "Backing up and updating your data …",
+  "database_upgrade_rebuilt_title": "Started fresh",
+  "database_upgrade_rebuilt_message": "Your data could not be converted. TilePro starts with empty data; the backup of your existing data is kept on this device.",
+  "database_upgrade_continue": "Continue",
+  "database_upgrade_backup_failed_title": "Backup failed",
+  "database_upgrade_backup_failed_message": "Your data could not be backed up, so nothing was changed. Check the free storage and try again.",
+  "database_upgrade_retry": "Try again",
+  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "The knee wall is below the minimum knee wall for the curved wall. Enter a higher knee wall; the value stays unchanged."
 }

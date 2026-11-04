@@ -1678,5 +1678,17 @@
   "room_filter_all_room_types": "Todos los tipos de habitación",
   "room_filter_all_room_statuses": "Todos los estados",
   "app_version": "Versión de la app",
-  "app_version_unavailable": "Versión no disponible"
+  "app_version_unavailable": "Versión no disponible",
+  "database_upgrade_title": "Actualizar tus datos",
+  "database_upgrade_message": "Esta versión de TilePro guarda tus proyectos en un formato más reciente. TilePro primero hace una copia de seguridad de tus datos en este dispositivo y luego los convierte. Nada cambia hasta que aceptes.",
+  "database_upgrade_message_newer": "Tus datos proceden de una versión más reciente de TilePro y no se pueden abrir aquí. TilePro primero hace una copia de seguridad en este dispositivo y luego intenta convertirlos; si no lo consigue, TilePro empieza con datos vacíos y la copia se conserva.",
+  "database_upgrade_action": "Copiar y actualizar",
+  "database_upgrade_running": "Copiando y actualizando tus datos …",
+  "database_upgrade_rebuilt_title": "Nuevo comienzo",
+  "database_upgrade_rebuilt_message": "No se pudieron convertir tus datos. TilePro empieza con datos vacíos; la copia de seguridad de tus datos anteriores se conserva en este dispositivo.",
+  "database_upgrade_continue": "Continuar",
+  "database_upgrade_backup_failed_title": "Error en la copia de seguridad",
+  "database_upgrade_backup_failed_message": "No se pudo crear la copia de seguridad de tus datos, así que no se ha cambiado nada. Comprueba el espacio libre e inténtalo de nuevo.",
+  "database_upgrade_retry": "Reintentar",
+  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "El murete está por debajo del mínimo exigido por la pared curva. Introduce un murete más alto; el valor no cambia."
 }

@@ -1678,5 +1678,17 @@
   "settings_not_available": "–",
   "settings_save_failed": "Die Projekteinstellungen konnten nicht gespeichert werden. Versuche es erneut.",
   "app_version": "App-Version",
-  "app_version_unavailable": "Version nicht verfügbar"
+  "app_version_unavailable": "Version nicht verfügbar",
+  "database_upgrade_title": "Daten aktualisieren",
+  "database_upgrade_message": "Diese TilePro-Version speichert deine Projekte in einem neueren Format. TilePro sichert zuerst deine bisherigen Daten auf diesem Gerät und überträgt sie dann. Bis du zustimmst, bleibt alles unverändert.",
+  "database_upgrade_message_newer": "Deine Daten stammen aus einer neueren TilePro-Version und lassen sich hier nicht öffnen. TilePro sichert sie zuerst auf diesem Gerät und versucht dann die Übertragung; gelingt sie nicht, beginnt TilePro mit leeren Daten und die Sicherung bleibt erhalten.",
+  "database_upgrade_action": "Sichern und aktualisieren",
+  "database_upgrade_running": "Daten werden gesichert und aktualisiert …",
+  "database_upgrade_rebuilt_title": "Neu begonnen",
+  "database_upgrade_rebuilt_message": "Deine Daten ließen sich nicht übertragen. TilePro beginnt mit leeren Daten; die Sicherung deiner bisherigen Daten bleibt auf diesem Gerät erhalten.",
+  "database_upgrade_continue": "Weiter",
+  "database_upgrade_backup_failed_title": "Sicherung fehlgeschlagen",
+  "database_upgrade_backup_failed_message": "Die Sicherung deiner Daten konnte nicht angelegt werden, deshalb wurde nichts verändert. Prüfe den freien Speicher und versuche es erneut.",
+  "database_upgrade_retry": "Erneut versuchen",
+  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "Der Kniestock liegt unter dem Mindest-Kniestock wegen der Bogenwand. Gib einen höheren Kniestock ein; der Wert bleibt unverändert."
 }

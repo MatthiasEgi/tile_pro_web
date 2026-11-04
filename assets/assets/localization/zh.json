@@ -1678,5 +1678,17 @@
   "room_filter_all_room_types": "所有房间类型",
   "room_filter_all_room_statuses": "所有房间状态",
   "app_version": "应用版本",
-  "app_version_unavailable": "版本不可用"
+  "app_version_unavailable": "版本不可用",
+  "database_upgrade_title": "更新数据",
+  "database_upgrade_message": "此版本的 TilePro 以更新的格式保存项目。TilePro 会先在本设备上备份现有数据，然后再进行转换。在你同意之前，数据不会有任何变化。",
+  "database_upgrade_message_newer": "你的数据来自更新版本的 TilePro，无法在此打开。TilePro 会先在本设备上备份数据，然后尝试转换；如果转换失败，TilePro 将以空数据开始，备份会保留。",
+  "database_upgrade_action": "备份并更新",
+  "database_upgrade_running": "正在备份并更新数据……",
+  "database_upgrade_rebuilt_title": "已重新开始",
+  "database_upgrade_rebuilt_message": "无法转换你的数据。TilePro 将以空数据开始；原有数据的备份保留在本设备上。",
+  "database_upgrade_continue": "继续",
+  "database_upgrade_backup_failed_title": "备份失败",
+  "database_upgrade_backup_failed_message": "无法创建数据备份，因此未做任何更改。请检查可用存储空间后重试。",
+  "database_upgrade_retry": "重试",
+  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "矮墙高度低于弧形墙要求的最小矮墙高度。请输入更高的矮墙高度；数值保持不变。"
 }

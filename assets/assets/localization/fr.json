@@ -1678,5 +1678,17 @@
   "room_filter_all_room_types": "Tous les types de pièces",
   "room_filter_all_room_statuses": "Tous les statuts",
   "app_version": "Version de l’application",
-  "app_version_unavailable": "Version indisponible"
+  "app_version_unavailable": "Version indisponible",
+  "database_upgrade_title": "Mettre à jour vos données",
+  "database_upgrade_message": "Cette version de TilePro enregistre vos projets dans un format plus récent. TilePro sauvegarde d’abord vos données sur cet appareil, puis les convertit. Rien ne change tant que vous n’avez pas accepté.",
+  "database_upgrade_message_newer": "Vos données proviennent d’une version plus récente de TilePro et ne peuvent pas être ouvertes ici. TilePro les sauvegarde d’abord sur cet appareil, puis tente de les convertir ; en cas d’échec, TilePro repart de données vides et la sauvegarde est conservée.",
+  "database_upgrade_action": "Sauvegarder et mettre à jour",
+  "database_upgrade_running": "Sauvegarde et mise à jour de vos données …",
+  "database_upgrade_rebuilt_title": "Nouveau départ",
+  "database_upgrade_rebuilt_message": "Vos données n’ont pas pu être converties. TilePro repart de données vides ; la sauvegarde de vos données précédentes est conservée sur cet appareil.",
+  "database_upgrade_continue": "Continuer",
+  "database_upgrade_backup_failed_title": "Échec de la sauvegarde",
+  "database_upgrade_backup_failed_message": "La sauvegarde de vos données n’a pas pu être créée, rien n’a donc été modifié. Vérifiez l’espace libre et réessayez.",
+  "database_upgrade_retry": "Réessayer",
+  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "La jambette est inférieure au minimum requis par le mur courbe. Saisissez une jambette plus haute ; la valeur reste inchangée."
 }
