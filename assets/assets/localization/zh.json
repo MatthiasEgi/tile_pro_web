@@ -1722,5 +1722,11 @@
   "database_upgrade_backup_failed_title": "备份失败",
   "database_upgrade_backup_failed_message": "无法创建数据备份，因此未做任何更改。请检查可用存储空间后重试。",
   "database_upgrade_retry": "重试",
-  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "矮墙高度低于弧形墙要求的最小矮墙高度。请输入更高的矮墙高度；数值保持不变。"
+  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "矮墙高度低于弧形墙要求的最小矮墙高度。请输入更高的矮墙高度；数值保持不变。",
+  "room_workspace_measure_roof_slope_knee_wall_raised_by_arc": "由于弧形墙，斜屋顶按 {height} 的矮墙高度计算。一旦弧度允许，您输入的值将重新生效。",
+  "room_material_laying_curved_wall_not_possible": "无法实现：此铺贴图案至少需要 {required} 的半径，而墙面半径为 {radius}。此处瓷砖最宽为 {width}。",
+  "room_material_laying_curved_wall_jointless": "无法实现：没有砖缝时，此铺贴图案无法贴合任何弧面。墙面半径为 {radius}。",
+  "room_material_laying_curved_wall_feedback": "这些瓷砖不适合该墙面的半径。铺贴将保留，该面已标记为无法实现。",
+  "room_workspace_surface_tree_curved_wall_not_possible": "无法铺贴：墙面弯曲过大",
+  "tile_plan_document_curved_wall": "弧形墙"
 }

@@ -1722,5 +1722,11 @@
   "database_upgrade_backup_failed_title": "Échec de la sauvegarde",
   "database_upgrade_backup_failed_message": "La sauvegarde de vos données n’a pas pu être créée, rien n’a donc été modifié. Vérifiez l’espace libre et réessayez.",
   "database_upgrade_retry": "Réessayer",
-  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "La jambette est inférieure au minimum requis par le mur courbe. Saisissez une jambette plus haute ; la valeur reste inchangée."
+  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "La jambette est inférieure au minimum requis par le mur courbe. Saisissez une jambette plus haute ; la valeur reste inchangée.",
+  "room_workspace_measure_roof_slope_knee_wall_raised_by_arc": "À cause du mur courbe, la pente de toit utilise une jambette de {height}. Votre valeur s'applique de nouveau dès que la courbe le permet.",
+  "room_material_laying_curved_wall_not_possible": "Impossible : ce motif de pose nécessite un rayon d'au moins {required}, le mur a {radius}. Ici, les carreaux peuvent mesurer au plus {width} de large.",
+  "room_material_laying_curved_wall_jointless": "Impossible : sans joints, ce motif de pose ne s'adapte à aucune courbe. Le mur a un rayon de {radius}.",
+  "room_material_laying_curved_wall_feedback": "Ces carreaux ne conviennent pas au rayon du mur. La pose est conservée et la surface est marquée comme impossible.",
+  "room_workspace_surface_tree_curved_wall_not_possible": "Pose impossible : mur trop courbe",
+  "tile_plan_document_curved_wall": "Mur courbe"
 }

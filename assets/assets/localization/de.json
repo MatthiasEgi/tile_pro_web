@@ -1722,5 +1722,11 @@
   "database_upgrade_backup_failed_title": "Sicherung fehlgeschlagen",
   "database_upgrade_backup_failed_message": "Die Sicherung deiner Daten konnte nicht angelegt werden, deshalb wurde nichts verändert. Prüfe den freien Speicher und versuche es erneut.",
   "database_upgrade_retry": "Erneut versuchen",
-  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "Der Kniestock liegt unter dem Mindest-Kniestock wegen der Bogenwand. Gib einen höheren Kniestock ein; der Wert bleibt unverändert."
+  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "Der Kniestock liegt unter dem Mindest-Kniestock wegen der Bogenwand. Gib einen höheren Kniestock ein; der Wert bleibt unverändert.",
+  "room_workspace_measure_roof_slope_knee_wall_raised_by_arc": "Wegen der Bogenwand rechnet die Dachschräge mit {height} Kniestock. Dein Wert gilt wieder, sobald der Bogen es zulässt.",
+  "room_material_laying_curved_wall_not_possible": "Nicht möglich: Dieser Verband braucht mindestens {required} Radius, die Wand hat {radius}. Hier gehen höchstens {width} Fliesenbreite.",
+  "room_material_laying_curved_wall_jointless": "Nicht möglich: Ohne Fuge passt dieser Verband an keinen Bogen. Die Wand hat {radius} Radius.",
+  "room_material_laying_curved_wall_feedback": "Diese Fliesen passen nicht zum Radius der Wand. Die Belegung bleibt, die Fläche ist als nicht möglich markiert.",
+  "room_workspace_surface_tree_curved_wall_not_possible": "Belegung nicht möglich: Wand zu stark gebogen",
+  "tile_plan_document_curved_wall": "Runde Wand"
 }

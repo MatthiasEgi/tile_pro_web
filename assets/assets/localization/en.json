@@ -1722,5 +1722,11 @@
   "database_upgrade_backup_failed_title": "Backup failed",
   "database_upgrade_backup_failed_message": "Your data could not be backed up, so nothing was changed. Check the free storage and try again.",
   "database_upgrade_retry": "Try again",
-  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "The knee wall is below the minimum knee wall for the curved wall. Enter a higher knee wall; the value stays unchanged."
+  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "The knee wall is below the minimum knee wall for the curved wall. Enter a higher knee wall; the value stays unchanged.",
+  "room_workspace_measure_roof_slope_knee_wall_raised_by_arc": "Because of the curved wall, the roof slope uses a knee wall of {height}. Your value applies again as soon as the curve allows it.",
+  "room_material_laying_curved_wall_not_possible": "Not possible: this pattern needs a radius of at least {required}, the wall has {radius}. Tiles here can be at most {width} wide.",
+  "room_material_laying_curved_wall_jointless": "Not possible: without joints, this pattern does not fit any curve. The wall has a radius of {radius}.",
+  "room_material_laying_curved_wall_feedback": "These tiles do not fit the wall's radius. The layout stays, and the surface is marked as not possible.",
+  "room_workspace_surface_tree_curved_wall_not_possible": "Layout not possible: wall curves too tightly",
+  "tile_plan_document_curved_wall": "Curved wall"
 }

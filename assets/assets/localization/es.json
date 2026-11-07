@@ -1722,5 +1722,11 @@
   "database_upgrade_backup_failed_title": "Error en la copia de seguridad",
   "database_upgrade_backup_failed_message": "No se pudo crear la copia de seguridad de tus datos, así que no se ha cambiado nada. Comprueba el espacio libre e inténtalo de nuevo.",
   "database_upgrade_retry": "Reintentar",
-  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "El murete está por debajo del mínimo exigido por la pared curva. Introduce un murete más alto; el valor no cambia."
+  "room_workspace_measure_roof_slope_knee_wall_below_minimum": "El murete está por debajo del mínimo exigido por la pared curva. Introduce un murete más alto; el valor no cambia.",
+  "room_workspace_measure_roof_slope_knee_wall_raised_by_arc": "Por la pared curva, el techo inclinado usa un murete de {height}. Tu valor vuelve a aplicarse en cuanto la curva lo permita.",
+  "room_material_laying_curved_wall_not_possible": "No es posible: este patrón de colocación necesita un radio de al menos {required} y la pared tiene {radius}. Aquí las baldosas pueden medir como máximo {width} de ancho.",
+  "room_material_laying_curved_wall_jointless": "No es posible: sin juntas, este patrón de colocación no se adapta a ninguna curva. La pared tiene un radio de {radius}.",
+  "room_material_laying_curved_wall_feedback": "Estas baldosas no se adaptan al radio de la pared. La colocación se mantiene y la superficie queda marcada como no posible.",
+  "room_workspace_surface_tree_curved_wall_not_possible": "Colocación no posible: pared demasiado curva",
+  "tile_plan_document_curved_wall": "Pared curva"
 }
