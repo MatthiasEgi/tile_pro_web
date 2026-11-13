@@ -250,20 +250,15 @@ bool ceiling_spot_is_diffuse(vec4 spot_params) {
   return mod(spot_params.w, 2.0) > 0.5;
 }
 
-float ceiling_spot_cone_weight(
-    vec3 light_position,
-    vec3 world_position,
+// Cone weight along an already normalized direction from the light to the
+// point.
+float ceiling_spot_cone_weight_along(
+    vec3 light_to_point,
     vec4 spot_params,
     vec4 spot_direction) {
-  vec3 from_light = world_position - light_position;
-  float distance_to_point = length(from_light);
-  if (distance_to_point <= 0.001) {
-    return 0.0;
-  }
   if (ceiling_spot_is_diffuse(spot_params)) {
     return 1.0;
   }
-  vec3 light_to_point = from_light / distance_to_point;
   vec3 direction = spot_direction.xyz;
   if (length(direction) <= 0.001) {
     direction = vec3(0.0, 0.0, -1.0);
@@ -279,59 +274,18 @@ float ceiling_spot_cone_weight(
                0.0, 1.0);
 }
 
-float ceiling_spot_light_at(
-    vec3 normal,
+float ceiling_spot_cone_weight(
+    vec3 light_position,
     vec3 world_position,
-    vec4 spot,
     vec4 spot_params,
     vec4 spot_direction) {
-  if (spot.w <= 0.001) {
+  vec3 from_light = world_position - light_position;
+  float distance_to_point = length(from_light);
+  if (distance_to_point <= 0.001) {
     return 0.0;
   }
-  vec3 to_light = spot.xyz - world_position;
-  float distance_to_light = length(to_light);
-  if (distance_to_light <= 0.001) {
-    return 0.0;
-  }
-  vec3 light_direction = to_light / distance_to_light;
-  float cone = ceiling_spot_cone_weight(spot.xyz, world_position, spot_params,
-                                        spot_direction);
-  if (cone <= 0.001) {
-    return 0.0;
-  }
-  float radius = max(spot.w, 0.35);
-  float normalized_distance = distance_to_light / radius;
-  float falloff =
-      1.0 / (1.0 + normalized_distance * normalized_distance * 0.34);
-  falloff *= 1.0 - smoothstep(radius * 2.1, radius * 4.4,
-                              distance_to_light);
-  float directed_facing = pow(wrapped_lambert(normal, light_direction, 0.02),
-                              1.82);
-  float diffuse_facing = wrapped_lambert(normal, light_direction, 0.24);
-  float diffuse_mode = ceiling_spot_is_diffuse(spot_params) ? 1.0 : 0.0;
-  float facing = mix(directed_facing, diffuse_facing, diffuse_mode);
-  float source_intensity = clamp(spot_params.x, 0.05, 2.0);
-  return facing * cone * falloff * source_intensity *
-         mix(2.25, 1.55, diffuse_mode);
-}
-
-float ceiling_spot_light(vec3 normal, vec3 world_position) {
-  float focused = 0.0;
-  float active_count = active_ceiling_spot_count();
-  for (int index = 0; index < kMaxCeilingSpots; index++) {
-    if (float(index) >= active_count) {
-      break;
-    }
-    vec4 spot = light_info.ceiling_spots[index];
-    if (spot.w <= 0.001) {
-      break;
-    }
-    focused += ceiling_spot_light_at(
-        normal, world_position, spot,
-        light_info.ceiling_spot_params[index],
-        light_info.ceiling_spot_directions[index]) * 0.38;
-  }
-  return clamp(focused, 0.0, 1.0);
+  return ceiling_spot_cone_weight_along(from_light / distance_to_point,
+                                        spot_params, spot_direction);
 }
 
 vec3 procedural_room_reflection(
@@ -488,17 +442,41 @@ vec3 point_light_specular_ggx(
       local_strength);
 }
 
-vec3 ceiling_spot_specular_ggx(
+// Sums over all spots for one point: the diffuse part before its clamp, plus
+// specular and clearcoat.
+struct RoomCeilingSpotLighting {
+  float diffuse;
+  vec3 specular;
+  vec3 clearcoat;
+};
+
+// One pass over all spots. Distance, direction and cone of a spot serve all
+// three sums; a loop per sum would compute them again for every spot. A spot
+// whose cone weight is 0.001 or less is skipped. That loses no specular
+// light: its strength would stay below the 0.001 cutoff of
+// cook_torrance_specular_ggx for every light strength the clamps allow.
+// Without a specular part a spot is also skipped from 4.4 radii on, where
+// the diffuse falloff is exactly zero. specular_strength is 0.0 when the
+// surface has no specular part.
+RoomCeilingSpotLighting ceiling_spot_lighting(
     vec3 normal,
     vec3 view_direction,
     vec3 world_position,
+    float specular_strength,
     vec3 f0,
     float roughness,
-    float ceiling_spot_strength) {
-  if (ceiling_spot_strength <= 0.001) {
-    return vec3(0.0);
-  }
-  vec3 specular = vec3(0.0);
+    float clearcoat_amount,
+    vec3 clearcoat_f0,
+    float clearcoat_roughness) {
+  RoomCeilingSpotLighting lighting =
+      RoomCeilingSpotLighting(0.0, vec3(0.0), vec3(0.0));
+  bool with_specular = specular_strength > 0.001;
+  bool with_clearcoat = with_specular && clearcoat_amount > 0.0;
+  float specular_roughness =
+      clamp(sqrt((roughness * roughness) + 0.035), 0.18, 1.0);
+  float clearcoat_specular_roughness =
+      clamp(sqrt((clearcoat_roughness * clearcoat_roughness) + 0.035),
+            0.18, 1.0);
   float active_count = active_ceiling_spot_count();
   for (int index = 0; index < kMaxCeilingSpots; index++) {
     if (float(index) >= active_count) {
@@ -508,14 +486,57 @@ vec3 ceiling_spot_specular_ggx(
     if (spot.w <= 0.001) {
       break;
     }
-    specular += point_light_specular_ggx(
-        normal, view_direction, world_position,
-        spot,
-        light_info.ceiling_spot_params[index],
-        light_info.ceiling_spot_directions[index],
-        f0, roughness, ceiling_spot_strength * 0.44, 0.72, 1.18, 1.0);
+    vec3 to_light = spot.xyz - world_position;
+    float distance_to_light = length(to_light);
+    if (distance_to_light <= 0.001) {
+      continue;
+    }
+    float radius = max(spot.w, 0.35);
+    if (!with_specular && distance_to_light >= radius * 4.4) {
+      continue;
+    }
+    vec3 light_direction = to_light / distance_to_light;
+    vec4 spot_params = light_info.ceiling_spot_params[index];
+    float cone = ceiling_spot_cone_weight_along(
+        -light_direction, spot_params,
+        light_info.ceiling_spot_directions[index]);
+    if (cone <= 0.001) {
+      continue;
+    }
+    float normalized_distance = distance_to_light / radius;
+    float falloff =
+        1.0 / (1.0 + normalized_distance * normalized_distance * 0.34);
+    falloff *= 1.0 - smoothstep(radius * 2.1, radius * 4.4,
+                                distance_to_light);
+    float directed_facing =
+        pow(wrapped_lambert(normal, light_direction, 0.02), 1.82);
+    float diffuse_facing = wrapped_lambert(normal, light_direction, 0.24);
+    float diffuse_mode = ceiling_spot_is_diffuse(spot_params) ? 1.0 : 0.0;
+    float facing = mix(directed_facing, diffuse_facing, diffuse_mode);
+    float source_intensity = clamp(spot_params.x, 0.05, 2.0);
+    lighting.diffuse += (facing * cone * falloff * source_intensity *
+                         mix(2.25, 1.55, diffuse_mode)) * 0.38;
+    if (!with_specular) {
+      continue;
+    }
+    if (max(dot(normal, light_direction), 0.0) <= 0.001) {
+      continue;
+    }
+    float specular_falloff =
+        1.0 / (1.0 + distance_to_light * distance_to_light * 0.18);
+    float local_strength =
+        pow(clamp(cone, 0.0, 1.0), 1.18) * specular_falloff *
+        specular_strength * source_intensity;
+    lighting.specular += cook_torrance_specular_ggx(
+        normal, view_direction, light_direction, f0, specular_roughness,
+        local_strength);
+    if (with_clearcoat) {
+      lighting.clearcoat += cook_torrance_specular_ggx(
+          normal, view_direction, light_direction, clearcoat_f0,
+          clearcoat_specular_roughness, local_strength);
+    }
   }
-  return specular;
+  return lighting;
 }
 
 vec3 central_light_specular_ggx(
@@ -533,6 +554,67 @@ vec3 central_light_specular_ggx(
       vec4(1.0, 0.0, 0.0, 1.0),
       vec4(0.0, 0.0, -1.0, 0.0),
       f0, roughness, central_light_strength * 1.12, 1.95, 0.68, 0.0);
+}
+
+// Values of a PBR surface point that do not depend on the light.
+struct RoomPbrSurface {
+  float roughness;
+  float metallic;
+  float gloss;
+  float metal_visibility;
+  vec3 metal_body_color;
+  vec3 f0;
+  float clearcoat_amount;
+  float clearcoat_roughness;
+};
+
+RoomPbrSurface pbr_surface(vec3 albedo, vec2 material_uv) {
+  RoomPbrSurface surface;
+  float roughness = 0.78;
+  if (material_info.pbr_flags.y > 0.5) {
+    roughness = texture(roughness_texture, material_uv).r;
+    if (uses_glossiness_roughness_map()) {
+      roughness = 1.0 - roughness;
+    }
+  }
+  roughness += material_info.material_tuning.y +
+               material_info.material_debug_tuning_b.y;
+  roughness = clamp(roughness, 0.04, 1.0);
+  float metallic = material_info.pbr_flags.w > 0.5
+      ? texture(metallic_texture, material_uv).r
+      : material_info.material_tuning.z;
+  metallic = clamp(metallic, 0.0, 1.0);
+  float gloss = pow(1.0 - roughness, 2.2);
+  float metal_visibility = smoothstep(0.35, 1.0, metallic);
+  float albedo_luma = luminance(albedo);
+  vec3 material_preview_color = srgb_to_linear(material_info.base_color.rgb);
+  float preview_luma = luminance(material_preview_color);
+  float dark_metal_lift =
+      metal_visibility * (1.0 - smoothstep(0.22, 0.58, albedo_luma));
+  float silver_floor_luma = clamp(max(preview_luma * 0.68, 0.46),
+                                  0.0, 0.72);
+  float albedo_chroma = max(albedo.r, max(albedo.g, albedo.b)) -
+                        min(albedo.r, min(albedo.g, albedo.b));
+  float colored_metal = smoothstep(0.045, 0.16, albedo_chroma) *
+                        smoothstep(0.035, 0.12, albedo_luma);
+  vec3 hue_preserving_floor =
+      clamp((albedo / max(albedo_luma, 0.001)) * silver_floor_luma,
+            vec3(0.0),
+            vec3(1.0));
+  vec3 metal_floor_color =
+      mix(vec3(silver_floor_luma), hue_preserving_floor, colored_metal);
+  surface.roughness = roughness;
+  surface.metallic = metallic;
+  surface.gloss = gloss;
+  surface.metal_visibility = metal_visibility;
+  surface.metal_body_color =
+      mix(albedo, max(albedo, metal_floor_color), dark_metal_lift);
+  surface.f0 = mix(vec3(0.04), surface.metal_body_color, metallic);
+  surface.clearcoat_amount =
+      (1.0 - metallic) * smoothstep(0.16, 0.82, gloss) * 0.55;
+  surface.clearcoat_roughness =
+      clamp(mix(0.055, 0.32, roughness), 0.055, 0.38);
+  return surface;
 }
 
 float material_relief_light(
@@ -751,9 +833,27 @@ void main() {
       ? mix(1.0, texture(ao_texture, material_uv).r,
             clamp(0.82 * material_info.material_debug_tuning_a.z, 0.0, 1.0))
       : 1.0;
-  float local_spot_light = ceiling_spot_strength > 0.001
-      ? ceiling_spot_light(normal, v_world_position)
-      : 0.0;
+  // The spot pass needs the PBR surface values before the lighting below, and
+  // the PBR block further down derives them again. Carrying them through
+  // instead would cost every fragment without PBR an assignment per value.
+  // Without an active spot there is nothing to derive them for.
+  RoomCeilingSpotLighting spot_lighting =
+      RoomCeilingSpotLighting(0.0, vec3(0.0), vec3(0.0));
+  if (ceiling_spot_strength > 0.001 && active_ceiling_spot_count() > 0.0) {
+    if (use_front_pbr > 0.5) {
+      RoomPbrSurface spot_surface = pbr_surface(albedo, material_uv);
+      spot_lighting = ceiling_spot_lighting(
+          normal, view_direction, v_world_position,
+          ceiling_spot_strength * 0.44, spot_surface.f0,
+          spot_surface.roughness, spot_surface.clearcoat_amount, vec3(0.04),
+          spot_surface.clearcoat_roughness);
+    } else {
+      spot_lighting = ceiling_spot_lighting(
+          normal, view_direction, v_world_position, 0.0, vec3(0.04), 0.78,
+          0.0, vec3(0.04), 0.055);
+    }
+  }
+  float local_spot_light = clamp(spot_lighting.diffuse, 0.0, 1.0);
   float local_spot_strength =
       clamp(local_spot_light * ceiling_spot_strength, 0.0, 1.8);
   float local_spot_indirect_visibility =
@@ -865,49 +965,21 @@ void main() {
   vec3 pbr_debug_reflection = vec3(0.0);
 
   if (use_front_pbr > 0.5) {
-    float roughness = 0.78;
-    if (material_info.pbr_flags.y > 0.5) {
-      roughness = texture(roughness_texture, material_uv).r;
-      if (uses_glossiness_roughness_map()) {
-        roughness = 1.0 - roughness;
-      }
-    }
-    roughness += material_info.material_tuning.y +
-                 material_info.material_debug_tuning_b.y;
-    roughness = clamp(roughness, 0.04, 1.0);
-    float metallic = material_info.pbr_flags.w > 0.5
-        ? texture(metallic_texture, material_uv).r
-        : material_info.material_tuning.z;
-    metallic = clamp(metallic, 0.0, 1.0);
-
+    RoomPbrSurface surface = pbr_surface(albedo, material_uv);
+    float roughness = surface.roughness;
+    float metallic = surface.metallic;
+    float gloss = surface.gloss;
+    float metal_visibility = surface.metal_visibility;
+    vec3 metal_body_color = surface.metal_body_color;
+    vec3 f0 = surface.f0;
+    float clearcoat_amount = surface.clearcoat_amount;
+    float clearcoat_roughness = surface.clearcoat_roughness;
+    vec3 clearcoat_f0 = vec3(0.04);
     float n_dot_v = max(dot(normal, view_direction), 0.001);
-    float gloss = pow(1.0 - roughness, 2.2);
     float glossy_dielectric =
         (1.0 - metallic) * smoothstep(0.08, 0.70, gloss);
     float real_light_gloss_gate = 1.0 - pbr_preview_lighting;
     vec3 reflection_direction = normalize(reflect(-view_direction, normal));
-    float metal_visibility = smoothstep(0.35, 1.0, metallic);
-    float albedo_luma = luminance(albedo);
-    vec3 material_preview_color = srgb_to_linear(material_info.base_color.rgb);
-    float preview_luma = luminance(material_preview_color);
-    float dark_metal_lift =
-        metal_visibility * (1.0 - smoothstep(0.22, 0.58, albedo_luma));
-    float silver_floor_luma = clamp(max(preview_luma * 0.68, 0.46),
-                                    0.0, 0.72);
-    float albedo_chroma = max(albedo.r, max(albedo.g, albedo.b)) -
-                          min(albedo.r, min(albedo.g, albedo.b));
-    float colored_metal = smoothstep(0.045, 0.16, albedo_chroma) *
-                          smoothstep(0.035, 0.12, albedo_luma);
-    vec3 hue_preserving_floor =
-        clamp((albedo / max(albedo_luma, 0.001)) * silver_floor_luma,
-              vec3(0.0),
-              vec3(1.0));
-    vec3 metal_floor_color =
-        mix(vec3(silver_floor_luma), hue_preserving_floor, colored_metal);
-    vec3 metal_body_color =
-        mix(albedo, max(albedo, metal_floor_color), dark_metal_lift);
-    vec3 dielectric_f0 = vec3(0.04);
-    vec3 f0 = mix(dielectric_f0, metal_body_color, metallic);
     vec3 view_fresnel = F_SchlickRoughness(n_dot_v, f0, roughness);
     vec3 diffuse_energy = (vec3(1.0) - view_fresnel) * (1.0 - metallic);
     diffuse_energy = mix(diffuse_energy,
@@ -920,9 +992,7 @@ void main() {
         central_light_specular_ggx(
             normal, view_direction, v_world_position, f0, roughness,
             central_light_strength) +
-        ceiling_spot_specular_ggx(
-            normal, view_direction, v_world_position, f0, roughness,
-            ceiling_spot_strength);
+        spot_lighting.specular;
     float specular_tuning =
         material_info.material_tuning.w *
         clamp(material_info.material_debug_tuning_b.z, 0.0, 2.0) *
@@ -931,11 +1001,6 @@ void main() {
     vec3 direct_specular =
         (directional_specular + artificial_specular) * specular_tuning;
 
-    float clearcoat_amount =
-        (1.0 - metallic) * smoothstep(0.16, 0.82, gloss) * 0.55;
-    float clearcoat_roughness =
-        clamp(mix(0.055, 0.32, roughness), 0.055, 0.38);
-    vec3 clearcoat_f0 = vec3(0.04);
     vec3 directional_clearcoat = cook_torrance_specular_ggx(
         normal, view_direction, light_direction, clearcoat_f0,
         clearcoat_roughness, directional_strength * 0.78);
@@ -943,9 +1008,7 @@ void main() {
         central_light_specular_ggx(
             normal, view_direction, v_world_position, clearcoat_f0,
             clearcoat_roughness, central_light_strength) +
-        ceiling_spot_specular_ggx(
-            normal, view_direction, v_world_position, clearcoat_f0,
-            clearcoat_roughness, ceiling_spot_strength);
+        spot_lighting.clearcoat;
     vec3 clearcoat_specular =
         (directional_clearcoat + artificial_clearcoat) *
         clearcoat_amount * specular_tuning * 0.44;
